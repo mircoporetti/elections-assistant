@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "elections-programs"
+name = "elections-assistant"
 version = "0.0.1"
 packages = [
     { include = "webapp", from = "src"},

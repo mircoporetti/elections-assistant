@@ -20,7 +20,7 @@ Access Token token value.
 
     ```bash
     poetry install
-    OPENAI_API_KEY=your_token API_USERNAME=elections-programs API_PASSWORD=an_api_password poetry run uvicorn src.webapp.main:app --reload
+    OPENAI_API_KEY=your_token API_USERNAME=elections-assistant API_PASSWORD=an_api_password poetry run uvicorn src.webapp.main:app --reload
     ```
 
 ### Run the tests with

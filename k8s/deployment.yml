@@ -1,23 +1,23 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: elections-programs
-  namespace: elections-programs
+  name: elections-assistant
+  namespace: elections-assistant
   labels:
-    app: elections-programs
+    app: elections-assistant
 spec:
   replicas: 2
   selector:
     matchLabels:
-      app: elections-programs
+      app: elections-assistant
   template:
     metadata:
       labels:
-        app: elections-programs
+        app: elections-assistant
     spec:
       containers:
-        - name: elections-programs-container
-          image: $CI_REGISTRY/gitlab-mirco/elections-programs:$CI_COMMIT_SHA
+        - name: elections-assistant-container
+          image: $CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA
           env:
           - name: API_USERNAME
             valueFrom:
@@ -37,6 +37,6 @@ spec:
       volumes:
         - name: faiss-storage
           persistentVolumeClaim:
-            claimName: faiss-pvc
+            claimName: elections-assistant-faiss-pvc
       imagePullSecrets:
         - name: gitlab-registry-secret

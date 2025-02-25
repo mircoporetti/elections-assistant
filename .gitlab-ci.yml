@@ -11,8 +11,8 @@ build:
     - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
   script:
     - echo "Building the Docker image"
-    - docker build --build-arg OPENAI_API_KEY=$OPENAI_API_KEY -t $CI_REGISTRY/gitlab-mirco/elections-programs:$CI_COMMIT_SHA .
-    - docker push $CI_REGISTRY/gitlab-mirco/elections-programs:$CI_COMMIT_SHA
+    - docker build --build-arg OPENAI_API_KEY=$OPENAI_API_KEY -t $CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA .
+    - docker push $CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA
   tags:
     - raspberrypi
   only:
@@ -30,10 +30,10 @@ deploy:
     - sed -i "s|\$CI_REGISTRY|$CI_REGISTRY|g" k8s/deployment.yml
     - sed -i "s|\$CI_COMMIT_SHA|$CI_COMMIT_SHA|g" k8s/deployment.yml
     - kubectl get ns
-    - kubectl -n elections-programs apply -f k8s/persistent_volume.yml || echo "PV already exists"
-    - kubectl -n elections-programs apply -f k8s/persistent_volume_claim.yml || echo "PVC already exists"
-    - kubectl -n elections-programs apply -f k8s/deployment.yml
-    - kubectl -n elections-programs apply -f k8s/service.yml
+    - kubectl -n elections-assistant apply -f k8s/persistent_volume.yml || echo "PV already exists"
+    - kubectl -n elections-assistant apply -f k8s/persistent_volume_claim.yml || echo "PVC already exists"
+    - kubectl -n elections-assistant apply -f k8s/deployment.yml
+    - kubectl -n elections-assistant apply -f k8s/service.yml
   tags:
     - raspberrypi
   only:
