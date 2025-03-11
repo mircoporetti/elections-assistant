@@ -7,8 +7,7 @@ Requirements:
 - Python 3.12
 - Poetry
 
-1. Create a `.env` file copied from `.env.example` and fill the `HUGGINGFACEHUB_API_TOKEN` with your HuggingFace personal
-Access Token token value.
+1. Create a `.env` file copied from `.env.example` and fill the variables.
 
 
 2. Run
