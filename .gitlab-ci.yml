@@ -9,9 +9,11 @@ build:
     - docker:dind
   before_script:
     - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+    - docker buildx create --use --name electionsassistantbuilder || docker buildx use electionsassistantbuilder
+    - docker buildx inspect --bootstrap
   script:
     - echo "Building the Docker image"
-    - docker build --build-arg OPENAI_API_KEY=$OPENAI_API_KEY -t $CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA .
+    - docker buildx build --platform linux/amd64 --build-arg OPENAI_API_KEY=$OPENAI_API_KEY -t $CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA .
     - docker push $CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA
   tags:
     - raspberrypi
