@@ -7,14 +7,28 @@ build:
   image: docker:20.10.7
   services:
     - docker:dind
+  variables:
+    DOCKER_BUILDKIT: "1"
+    DOCKER_CLI_EXPERIMENTAL: "enabled"
   before_script:
-    - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+    - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" "$CI_REGISTRY"
     - docker buildx create --use --name electionsassistantbuilder || docker buildx use electionsassistantbuilder
     - docker buildx inspect --bootstrap
   script:
-    - echo "Building the Docker image"
-    - docker buildx build --platform linux/amd64 --build-arg OPENAI_API_KEY=$OPENAI_API_KEY -t $CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA .
-    - docker push $CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA
+    - echo "Building and pushing the Docker image"
+    - |
+      docker buildx build \
+        --platform linux/amd64 \
+        --build-arg OPENAI_API_KEY=$OPENAI_API_KEY \
+        --cache-from=type=local,src=.buildx-cache \
+        --cache-to=type=local,dest=.buildx-cache \
+        --push \
+        -t "$CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA" \
+        .
+  cache:
+    key: "$CI_PROJECT_PATH-buildx-cache-$CI_COMMIT_REF_SLUG"
+    paths:
+      - .buildx-cache
   tags:
     - raspberrypi
   only:
