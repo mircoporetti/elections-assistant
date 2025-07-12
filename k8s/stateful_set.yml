@@ -1,11 +1,12 @@
 apiVersion: apps/v1
-kind: Deployment
+kind: StatefulSet
 metadata:
   name: elections-assistant
   namespace: elections-assistant
   labels:
     app: elections-assistant
 spec:
+  serviceName: "elections-assistant-headless"
   replicas: 2
   selector:
     matchLabels:
@@ -19,24 +20,29 @@ spec:
         - name: elections-assistant-container
           image: $CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA
           env:
-          - name: API_USERNAME
-            valueFrom:
-              secretKeyRef:
-                name: basic-auth-credentials
-                key: username
-          - name: API_PASSWORD
-            valueFrom:
-              secretKeyRef:
-                name: basic-auth-credentials
-                key: password
+            - name: API_USERNAME
+              valueFrom:
+                secretKeyRef:
+                  name: basic-auth-credentials
+                  key: username
+            - name: API_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: basic-auth-credentials
+                  key: password
           volumeMounts:
             - name: faiss-storage
               mountPath: /app/faiss
           ports:
             - containerPort: 8000
-      volumes:
-        - name: faiss-storage
-          persistentVolumeClaim:
-            claimName: elections-assistant-faiss-pvc
       imagePullSecrets:
         - name: gitlab-registry-secret
+  volumeClaimTemplates:
+    - metadata:
+        name: faiss-storage
+      spec:
+        accessModes: ["ReadWriteOnce"]
+        resources:
+          requests:
+            storage: 400Mi
+        storageClassName: longhorn-sc
