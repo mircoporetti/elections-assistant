@@ -38,8 +38,8 @@ deploy:
     - echo "$KUBECONFIG" > /tmp/kubeconfig
     - export KUBECONFIG=/tmp/kubeconfig
   script:
-    - sed -i "s|\$CI_REGISTRY|$CI_REGISTRY|g" k8s/stateful_set.yml
-    - sed -i "s|\$CI_COMMIT_SHA|$CI_COMMIT_SHA|g" k8s/stateful_set.yml
+    - sed -i "s|\\\$CI_REGISTRY|$CI_REGISTRY|g" k8s/stateful_set.yml
+    - sed -i "s|\\\$CI_COMMIT_SHA|$CI_COMMIT_SHA|g" k8s/stateful_set.yml
     - kubectl get ns
     - kubectl -n elections-assistant apply -f k8s/stateful_set.yml
     - kubectl -n elections-assistant apply -f k8s/service.yml
