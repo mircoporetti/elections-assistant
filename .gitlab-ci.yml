@@ -12,9 +12,18 @@ build:
     - docker buildx create --use --name electionsassistantbuilder || docker buildx use electionsassistantbuilder
     - docker buildx inspect --bootstrap
   script:
-    - echo "Building the Docker image"
-    - docker buildx build --platform linux/amd64 --build-arg OPENAI_API_KEY=$OPENAI_API_KEY -t $CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA .
-    - docker push $CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA
+    - echo "Building and pushing the Docker image"
+    - >
+      docker buildx build
+      --platform linux/amd64
+      --build-arg OPENAI_API_KEY=$OPENAI_API_KEY
+      --tag $CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA
+      --cache-from=type=registry,ref=$CI_REGISTRY/gitlab-mirco/elections-assistant:buildcache
+      --cache-to=type=registry,ref=$CI_REGISTRY/gitlab-mirco/elections-assistant:buildcache,mode=max
+      --push
+      .
+
+  timeout: 2h
   tags:
     - raspberrypi
   only:
