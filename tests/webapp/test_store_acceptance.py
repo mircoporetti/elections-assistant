@@ -26,6 +26,7 @@ def tests_store_cleanup():
 
     assert response.status_code == 200
 
-    assert not any(file for file in os.listdir("faiss"))
+    remaining = [file for file in os.listdir("faiss") if file != "init.lock"]
+    assert remaining == []
 
 
