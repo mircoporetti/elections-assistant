@@ -3,8 +3,6 @@ from enum import Enum
 
 from lingua.lingua import Language
 
-from src.webapp.properties import Properties
-
 PARTY_ALIASES = {
     "SPD": ["SPD", "Sozialdemokraten", "Sozialdemokratische Partei"],
     "CDU": ["CDU", "CSU", "Christdemokraten", "Christlich Demokratische Union"],
@@ -47,13 +45,13 @@ class Party(Enum):
     BSW = "BSW"
 
     @staticmethod
-    def get_from_history(history):
+    def get_from_history(history, language=Language.ENGLISH):
         for message in reversed(history):
             if message["role"] != "AI":
                 party = Party.get_from_message(message["content"])
                 if party:
                     return party
-        raise PartyNotFoundError("No party found in chat history")
+        raise PartyNotFoundError("No party found in chat history", language)
 
     @staticmethod
     def get_from_message(message):
@@ -68,10 +66,11 @@ class Party(Enum):
 
 
 class PartyNotFoundError(Exception):
-    def __init__(self, question):
+    def __init__(self, question, language=Language.ENGLISH):
         supported_parties = ", ".join([party.name for party in Party])
         self.question = question
-        if Properties.user_lang == Language.GERMAN:
+        self.language = language
+        if language == Language.GERMAN:
             message = f"Ups! Ich habe nicht verstanden, auf welche Partei sich Ihre Frage bezieht. " \
                     f"Bitte geben Sie eine der folgenden Parteien an: {supported_parties}"
         else:
@@ -80,8 +79,8 @@ class PartyNotFoundError(Exception):
         super().__init__(message)
 
 
-def extract_party_from(question):
+def extract_party_from(question, language=Language.ENGLISH):
     party = Party.get_from_message(question)
     if not party:
-        raise PartyNotFoundError(question)
+        raise PartyNotFoundError(question, language)
     return party

@@ -127,9 +127,15 @@ def tests_chatbot_understand_old_questions():
         f"expected the answer to recall the previous question, got: {response_json['answer']!r}"
 
 
-def tests_chatbot_received_too_many_daily_requests():
-
+@pytest.fixture
+def no_calls_allowed():
+    original_limit = Properties.call_limit
     Properties.call_limit = 0
+    yield
+    Properties.call_limit = original_limit
+
+
+def tests_chatbot_received_too_many_daily_requests(no_calls_allowed):
     question = "What did I ask you in the previous question?"
     response = client.post("/api/chat/completion", json={
         "history": [

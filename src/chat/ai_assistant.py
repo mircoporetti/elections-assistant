@@ -4,7 +4,7 @@ from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
 from langchain_openai import ChatOpenAI
 from lingua.lingua import Language
 
-from chat.party import Party
+from chat.party import Party, extract_party_from
 from chat.prompt import system_english_prompt, system_german_prompt
 from store import vector_store
 from store.vector_store import similarity_search_for
@@ -12,6 +12,8 @@ from store.vector_store import similarity_search_for
 openai_api_key = os.getenv("OPENAI_API_KEY")
 if not openai_api_key:
     raise ValueError("OPENAI API KEY environment variable is not set.")
+
+PREVIOUS_EXCHANGES = 2
 
 
 llm = ChatOpenAI(
@@ -26,22 +28,32 @@ llm = ChatOpenAI(
 def answer(question: str, history: List[Dict[str, str]], user_language: Language):
     system_prompt = system_english_prompt if user_language == Language.ENGLISH else system_german_prompt
 
-    party = Party.get_from_history(history)
+    party = Party.get_from_history(history, user_language)
     retriever = vector_store.get_store_as_retriever_for(party)
     context_docs = retriever.invoke(question)
     context = "\n".join([doc.page_content for doc in context_docs])
 
     conversation = [SystemMessage(content=system_prompt.format(context=context, party=party.name))]
-    for message in history[-2:]:
+    for message in previous_exchanges(history, question):
         if message["role"].lower() != "ai":
             conversation.append(HumanMessage(content=message["content"]))
         else:
             conversation.append(AIMessage(content=message["content"]))
+    conversation.append(HumanMessage(content=question))
 
     return llm.invoke(conversation).content
 
 
-def answer_with_most_pertinent_chunks(question: str):
-    best_chunks = similarity_search_for(Party.get_from_message(question), question)
+def previous_exchanges(history: List[Dict[str, str]], question: str):
+    exchanges = list(history)
+    while exchanges and is_same_question(exchanges[-1], question):
+        exchanges.pop()
+    return exchanges[-PREVIOUS_EXCHANGES:]
 
-    return best_chunks
+
+def is_same_question(message: Dict[str, str], question: str):
+    return message["role"].lower() != "ai" and message["content"].strip() == question.strip()
+
+
+def answer_with_most_pertinent_chunks(question: str, user_language: Language = Language.ENGLISH):
+    return similarity_search_for(extract_party_from(question, user_language), question)

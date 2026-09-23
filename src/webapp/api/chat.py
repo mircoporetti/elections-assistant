@@ -7,7 +7,6 @@ from chat import ai_assistant
 from .middleware import track_daily_calls
 from ..auth import basic_auth
 
-from src.webapp.properties import Properties
 from lingua import Language, LanguageDetectorBuilder
 
 router = APIRouter(prefix="/api/chat", tags=["chat"])
@@ -28,7 +27,6 @@ class ChunksRetrievalRequest(BaseModel):
 @router.post("/completion")
 async def answer_question(request: CompletionRequest, credentials=Depends(basic_auth), _=Depends(track_daily_calls)):
     language = detector.detect_language_of(request.question)
-    Properties.user_lang = language
 
     result = ai_assistant.answer(request.question, request.history, language)
     return {"answer": result}
@@ -36,5 +34,7 @@ async def answer_question(request: CompletionRequest, credentials=Depends(basic_
 
 @router.post("/retrieve")
 async def retrieve_most_pertinent_chunks(request: ChunksRetrievalRequest, credentials=Depends(basic_auth)):
-    result = ai_assistant.answer_with_most_pertinent_chunks(request.question)
+    language = detector.detect_language_of(request.question)
+
+    result = ai_assistant.answer_with_most_pertinent_chunks(request.question, language)
     return {"chunks": result}

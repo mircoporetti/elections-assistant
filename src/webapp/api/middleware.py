@@ -18,8 +18,8 @@ class DailyLimitExceededException(Exception):
 async def track_daily_calls(request: Request):
     today_date = datetime.today().strftime('%Y-%m-%d')
 
-    if today_date not in daily_call_counts:
-        daily_call_counts[today_date] = 0
+    for past_date in [date for date in daily_call_counts if date != today_date]:
+        del daily_call_counts[past_date]
 
     daily_call_counts[today_date] += 1
     logger.info("Date: %s, Calls: %s", today_date, daily_call_counts[today_date])
