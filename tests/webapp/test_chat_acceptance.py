@@ -22,6 +22,11 @@ def init_vector_store():
     print("Vector store initialized")
 
 
+def assert_mentions_immigration(answer):
+    assert 'immigrant' in answer.lower() or 'immigration' in answer.lower(), \
+        f"expected the answer to mention immigration, got: {answer!r}"
+
+
 def tests_chat_completion():
     response = client.post("/api/chat/completion", json={
         "history": [
@@ -39,7 +44,7 @@ def tests_chat_completion():
     response_json = response.json()
     assert 'answer' in response_json
     assert 'CDU' in response_json['answer']
-    assert 'immigrants' or 'immigration' in response_json['answer']
+    assert_mentions_immigration(response_json['answer'])
 
 
 def tests_chat_party_inferred_from_history():
@@ -67,7 +72,7 @@ def tests_chat_party_inferred_from_history():
     response_json = response.json()
     assert 'answer' in response_json
     assert 'CDU' in response_json['answer']
-    assert 'immigrants' or 'immigration' in response_json['answer']
+    assert_mentions_immigration(response_json['answer'])
 
 
 def tests_chat_doesnt_support_party():
@@ -117,7 +122,9 @@ def tests_chatbot_understand_old_questions():
     assert response.status_code == 200
 
     response_json = response.json()
-    assert 'economy' or 'CDU' in response_json['answer']
+    answer = response_json['answer'].lower()
+    assert 'economy' in answer or 'cdu' in answer, \
+        f"expected the answer to recall the previous question, got: {response_json['answer']!r}"
 
 
 def tests_chatbot_received_too_many_daily_requests():
