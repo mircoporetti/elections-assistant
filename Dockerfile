@@ -14,8 +14,6 @@ COPY src/ ./src
 COPY resources/manifests/ /app/resources/manifests/
 RUN mkdir -p /app/faiss
 
-ARG OPENAI_API_KEY
-ENV OPENAI_API_KEY=$OPENAI_API_KEY
 ENV PYTHONPATH=/app/src
 
 

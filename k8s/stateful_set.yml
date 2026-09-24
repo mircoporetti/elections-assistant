@@ -30,6 +30,11 @@ spec:
                 secretKeyRef:
                   name: basic-auth-credentials
                   key: password
+            - name: OPENAI_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: openai-credentials
+                  key: api-key
           volumeMounts:
             - name: faiss-storage
               mountPath: /app/faiss
