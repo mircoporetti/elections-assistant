@@ -13,7 +13,7 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 if not openai_api_key:
     raise ValueError("OPENAI API KEY environment variable is not set.")
 
-PREVIOUS_EXCHANGES = 2
+PREVIOUS_EXCHANGES = 6
 
 
 llm = ChatOpenAI(
@@ -29,9 +29,8 @@ def answer(question: str, history: List[Dict[str, str]], user_language: Language
     system_prompt = system_english_prompt if user_language == Language.ENGLISH else system_german_prompt
 
     party = Party.get_from_history(history, user_language)
-    retriever = vector_store.get_store_as_retriever_for(party)
-    context_docs = retriever.invoke(question)
-    context = "\n".join([doc.page_content for doc in context_docs])
+    context_docs = vector_store.most_relevant_for(party, question)
+    context = format_context(context_docs)
 
     conversation = [SystemMessage(content=system_prompt.format(context=context, party=party.name))]
     for message in previous_exchanges(history, question):
@@ -41,7 +40,31 @@ def answer(question: str, history: List[Dict[str, str]], user_language: Language
             conversation.append(AIMessage(content=message["content"]))
     conversation.append(HumanMessage(content=question))
 
-    return llm.invoke(conversation).content
+    return llm.invoke(conversation).content, sources_of(context_docs)
+
+
+def format_context(context_docs):
+    passages = []
+    for doc in context_docs:
+        passages.append(f"[{citation_for(doc)}]\n{doc.page_content}")
+    return "\n\n".join(passages)
+
+
+def citation_for(doc):
+    party = os.path.basename(doc.metadata.get("source", "")).replace(".pdf", "")
+    page = doc.metadata.get("page")
+    if page is None:
+        return party
+    return f"{party} p.{page + 1}"
+
+
+def sources_of(context_docs):
+    seen = []
+    for doc in context_docs:
+        citation = citation_for(doc)
+        if citation not in seen:
+            seen.append(citation)
+    return seen
 
 
 def previous_exchanges(history: List[Dict[str, str]], question: str):

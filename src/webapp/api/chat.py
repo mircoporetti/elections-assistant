@@ -28,8 +28,8 @@ class ChunksRetrievalRequest(BaseModel):
 async def answer_question(request: CompletionRequest, credentials=Depends(basic_auth), _=Depends(track_daily_calls)):
     language = detector.detect_language_of(request.question)
 
-    result = ai_assistant.answer(request.question, request.history, language)
-    return {"answer": result}
+    result, sources = ai_assistant.answer(request.question, request.history, language)
+    return {"answer": result, "sources": sources}
 
 
 @router.post("/retrieve")

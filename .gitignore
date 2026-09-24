@@ -5,3 +5,7 @@
 /faiss/
 /.env
 /http-client/http-client.private.env.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store

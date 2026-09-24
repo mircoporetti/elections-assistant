@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from logging.config import dictConfig
 
 from chat.party import PartyNotFoundError
-from store import vector_store
+from store import reranker, vector_store
 from .api.middleware import DailyLimitExceededException
 from .auth import security
 from .exception_handlers import party_not_found_exception_handler, daily_limit_exception_handler
@@ -37,3 +37,4 @@ app.add_exception_handler(DailyLimitExceededException, daily_limit_exception_han
 @app.on_event("startup")
 async def load_resources():
     vector_store.init()
+    reranker.load()

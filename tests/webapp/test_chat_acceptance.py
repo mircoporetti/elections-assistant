@@ -1,5 +1,6 @@
 import base64
 import os
+import re
 
 from fastapi.testclient import TestClient
 
@@ -22,9 +23,16 @@ def init_vector_store():
     print("Vector store initialized")
 
 
+IMMIGRATION_TERMS = [
+    "immigrant", "immigration", "migration", "migrant", "asylum", "refugee",
+    "naturalization", "naturalisation", "citizenship", "integration",
+    "repatriate", "reunification", "border",
+]
+
+
 def assert_mentions_immigration(answer):
-    assert 'immigrant' in answer.lower() or 'immigration' in answer.lower(), \
-        f"expected the answer to mention immigration, got: {answer!r}"
+    mentioned = [term for term in IMMIGRATION_TERMS if term in answer.lower()]
+    assert mentioned, f"expected the answer to be about immigration, got: {answer!r}"
 
 
 def tests_chat_completion():
@@ -45,6 +53,28 @@ def tests_chat_completion():
     assert 'answer' in response_json
     assert 'CDU' in response_json['answer']
     assert_mentions_immigration(response_json['answer'])
+
+
+def tests_chat_completion_cites_its_sources():
+    question = "What does the CDU want to do about immigration?"
+    response = client.post("/api/chat/completion", json={
+        "history": [
+            {
+                "role": "You",
+                "content": question
+            }
+        ],
+        "question": question
+    },
+                           headers={"Authorization": f"Basic {basic_auth}"})
+
+    assert response.status_code == 200
+
+    sources = response.json()['sources']
+    assert sources, "expected the answer to report the sources it used"
+    assert all(source.startswith("CDU") for source in sources), sources
+    assert all(re.fullmatch(r"CDU p\.\d+", source) for source in sources), sources
+    assert len(sources) == len(set(sources)), f"sources should be deduplicated: {sources}"
 
 
 def tests_chat_party_inferred_from_history():

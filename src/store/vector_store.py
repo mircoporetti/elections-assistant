@@ -8,6 +8,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from chat.party import Party
+from store import reranker
 
 logger = logging.getLogger("uvicorn")
 
@@ -16,6 +17,7 @@ FAISS_PATH = "faiss"
 INDEX_FILE = os.path.join(FAISS_PATH, "index.faiss")
 MODEL_MARKER = os.path.join(FAISS_PATH, "embedding_model.txt")
 EMBEDDING_MODEL = "intfloat/multilingual-e5-small"
+RESULTS = 4
 
 vector_store: VectorStore
 
@@ -106,23 +108,33 @@ def fetch_k_for(party_filter):
     return max(20, vector_store.index.ntotal)
 
 
-def get_store_as_retriever_for(party: Party):
+def candidates_with_scores_for(party: Party, query: str, k: int):
     party_filter = party_filter_for(party)
-    return vector_store.as_retriever(
-        search_type="similarity",
-        search_kwargs={"k": 4, "filter": party_filter, "fetch_k": fetch_k_for(party_filter)},
+    pool = max(k, reranker.RERANK_CANDIDATES) if reranker.is_enabled() else k
+    return vector_store.similarity_search_with_score(
+        query, k=pool, filter=party_filter, fetch_k=fetch_k_for(party_filter)
     )
 
 
-def similarity_search_for(party: Party, query: str):
-    party_filter = party_filter_for(party)
-    most_similar_results = vector_store.similarity_search_with_score(
-        query, k=4, filter=party_filter, fetch_k=fetch_k_for(party_filter)
-    )
+def candidates_for(party: Party, query: str, k: int):
+    return [doc for doc, _ in candidates_with_scores_for(party, query, k)]
+
+
+def most_relevant_for(party: Party, query: str, k: int = RESULTS):
+    return reranker.rerank(query, candidates_for(party, query, k), k)
+
+
+def similarity_search_for(party: Party, query: str, k: int = RESULTS):
+    candidates_with_scores = candidates_with_scores_for(party, query, k)
+
+    if not reranker.is_enabled():
+        return [
+            {"text": doc, "score": float(distance), "score_type": "faiss_distance"}
+            for doc, distance in candidates_with_scores[:k]
+        ]
+
+    candidates = [doc for doc, _ in candidates_with_scores]
     return [
-        {
-            "text": result[0],
-            "score": float(result[1])
-        }
-        for result in most_similar_results
+        {"text": doc, "score": score, "score_type": "reranker"}
+        for doc, score in reranker.rerank_with_scores(query, candidates, k)
     ]

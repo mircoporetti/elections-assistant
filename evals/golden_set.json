@@ -1,0 +1,450 @@
+[
+  {
+    "question": "What is the AfD's position on climate policy and its impact on the economy?",
+    "language": "English",
+    "expected_party": "AFD",
+    "expected_chunk_id": "70ab251bc6d67eaa",
+    "expected_source": "resources/manifests/AFD.pdf",
+    "expected_page": 19
+  },
+  {
+    "question": "Welche Position hat die AfD zur Erbschaftssteuer und Vermögensteuer?",
+    "language": "German",
+    "expected_party": "AFD",
+    "expected_chunk_id": "d11e73558b9e2a39",
+    "expected_source": "resources/manifests/AFD.pdf",
+    "expected_page": 14
+  },
+  {
+    "question": "Was fordert die AfD in Bezug auf die Verwendung von Bargeld und digitale Währungen?",
+    "language": "German",
+    "expected_party": "AFD",
+    "expected_chunk_id": "41a28d16e477adf7",
+    "expected_source": "resources/manifests/AFD.pdf",
+    "expected_page": 17
+  },
+  {
+    "question": "Welche Position hat die AfD zur Nutzung von Wäldern und deren Schutz?",
+    "language": "German",
+    "expected_party": "AFD",
+    "expected_chunk_id": "96fb4449e4158604",
+    "expected_source": "resources/manifests/AFD.pdf",
+    "expected_page": 20
+  },
+  {
+    "question": "What is the AfD's position on trade policy and foreign investment in Germany?",
+    "language": "English",
+    "expected_party": "AFD",
+    "expected_chunk_id": "4a02d0370639d6d9",
+    "expected_source": "resources/manifests/AFD.pdf",
+    "expected_page": 23
+  },
+  {
+    "question": "Was plant die AfD bezüglich der Einbürgerung von Kindern ausländischer Eltern in Deutschland?",
+    "language": "German",
+    "expected_party": "AFD",
+    "expected_chunk_id": "c24b82a6e19fbdee",
+    "expected_source": "resources/manifests/AFD.pdf",
+    "expected_page": 28
+  },
+  {
+    "question": "Welche Position hat die AfD zur Vergabe von Studienplätzen in Medizin und Zahnmedizin?",
+    "language": "German",
+    "expected_party": "AFD",
+    "expected_chunk_id": "77c90da16959284d",
+    "expected_source": "resources/manifests/AFD.pdf",
+    "expected_page": 12
+  },
+  {
+    "question": "Welche Maßnahmen plant die AfD, um die Bürokratie für kleine und mittlere Unternehmen zu reduzieren?",
+    "language": "German",
+    "expected_party": "AFD",
+    "expected_chunk_id": "2a30056ea2cc0dad",
+    "expected_source": "resources/manifests/AFD.pdf",
+    "expected_page": 2
+  },
+  {
+    "question": "What is the BSW's position on the influence of private companies in government and regulatory bodies?",
+    "language": "English",
+    "expected_party": "BSW",
+    "expected_chunk_id": "090e26226d4de9ea",
+    "expected_source": "resources/manifests/BSW.pdf",
+    "expected_page": 41
+  },
+  {
+    "question": "Welche Position hat die BSW zur deutschen Außenpolitik und zum Einsatz militärischer Mittel?",
+    "language": "German",
+    "expected_party": "BSW",
+    "expected_chunk_id": "77c6ca828966c28c",
+    "expected_source": "resources/manifests/BSW.pdf",
+    "expected_page": 2
+  },
+  {
+    "question": "Was plant die BSW, um die Sicherheit in Deutschland angesichts der unkontrollierten Migration zu erhöhen?",
+    "language": "German",
+    "expected_party": "BSW",
+    "expected_chunk_id": "05c96d334dce9089",
+    "expected_source": "resources/manifests/BSW.pdf",
+    "expected_page": 33
+  },
+  {
+    "question": "Was plant die BSW, um die Infrastruktur in Deutschland zu verbessern und den Kommunen mehr finanzielle Mittel zur Verfügung zu stellen?",
+    "language": "German",
+    "expected_party": "BSW",
+    "expected_chunk_id": "605cac025f26c196",
+    "expected_source": "resources/manifests/BSW.pdf",
+    "expected_page": 13
+  },
+  {
+    "question": "What is the BSW's position on the use of open source software in federal government contracts?",
+    "language": "English",
+    "expected_party": "BSW",
+    "expected_chunk_id": "d49fb9efe21f6377",
+    "expected_source": "resources/manifests/BSW.pdf",
+    "expected_page": 40
+  },
+  {
+    "question": "Welche Maßnahmen plant die BSW, um die Untersuchung der politischen Entscheidungen während der Corona-Zeit zu fördern?",
+    "language": "German",
+    "expected_party": "BSW",
+    "expected_chunk_id": "b6e641da32e7ac72",
+    "expected_source": "resources/manifests/BSW.pdf",
+    "expected_page": 37
+  },
+  {
+    "question": "Was plant die BSW, um die Bundeswehr wieder zu einer Verteidigungsarmee zu machen?",
+    "language": "German",
+    "expected_party": "BSW",
+    "expected_chunk_id": "a10fe232cbb22e82",
+    "expected_source": "resources/manifests/BSW.pdf",
+    "expected_page": 3
+  },
+  {
+    "question": "Welche Maßnahmen fordert die BSW zur Verbesserung des Zugangs zu Verhütungsmitteln für Frauen und Mädchen?",
+    "language": "German",
+    "expected_party": "BSW",
+    "expected_chunk_id": "5d778c7dfcb0b315",
+    "expected_source": "resources/manifests/BSW.pdf",
+    "expected_page": 31
+  },
+  {
+    "question": "What is the CDU's plan to restore prosperity for all in Germany?",
+    "language": "English",
+    "expected_party": "CDU",
+    "expected_chunk_id": "019502c86805b03a",
+    "expected_source": "resources/manifests/CDU.pdf",
+    "expected_page": 22
+  },
+  {
+    "question": "Welche Maßnahmen plant die CDU, um die Bildungschancen von Kindern zu verbessern?",
+    "language": "German",
+    "expected_party": "CDU",
+    "expected_chunk_id": "f1d9707f411e1eaa",
+    "expected_source": "resources/manifests/CDU.pdf",
+    "expected_page": 15
+  },
+  {
+    "question": "Welche Maßnahmen plant die CDU zur Kontrolle der Asylbewerber an den deutschen Grenzen?",
+    "language": "German",
+    "expected_party": "CDU",
+    "expected_chunk_id": "6d04cf9b8bef3905",
+    "expected_source": "resources/manifests/CDU.pdf",
+    "expected_page": 97
+  },
+  {
+    "question": "Welche Maßnahmen plant die CDU, um die digitale Infrastruktur in ländlichen Gebieten zu verbessern?",
+    "language": "German",
+    "expected_party": "CDU",
+    "expected_chunk_id": "6095a60d1adef492",
+    "expected_source": "resources/manifests/CDU.pdf",
+    "expected_page": 65
+  },
+  {
+    "question": "What is the CDU's position on supporting agricultural businesses and managing wildlife populations?",
+    "language": "English",
+    "expected_party": "CDU",
+    "expected_chunk_id": "a2117b045847b349",
+    "expected_source": "resources/manifests/CDU.pdf",
+    "expected_page": 7
+  },
+  {
+    "question": "Welche Maßnahmen plant die CDU, um die Gesundheitsversorgung von Frauen zu verbessern?",
+    "language": "German",
+    "expected_party": "CDU",
+    "expected_chunk_id": "0a9b8f13f9291670",
+    "expected_source": "resources/manifests/CDU.pdf",
+    "expected_page": 165
+  },
+  {
+    "question": "Welche Unterstützung plant die CDU für die Ukraine im Hinblick auf diplomatische, finanzielle und militärische Mittel?",
+    "language": "German",
+    "expected_party": "CDU",
+    "expected_chunk_id": "744c8baacb6f3609",
+    "expected_source": "resources/manifests/CDU.pdf",
+    "expected_page": 109
+  },
+  {
+    "question": "Welche Position hat die CDU zur Asylpolitik und zum Schutz der EU-Außengrenzen?",
+    "language": "German",
+    "expected_party": "CDU",
+    "expected_chunk_id": "e058edb67f4a1501",
+    "expected_source": "resources/manifests/CDU.pdf",
+    "expected_page": 100
+  },
+  {
+    "question": "What commitments is Die Grünen making to address the challenges of affordability and the climate crisis in Germany?",
+    "language": "English",
+    "expected_party": "DG",
+    "expected_chunk_id": "3f5c0ad822ff3e7c",
+    "expected_source": "resources/manifests/DG.pdf",
+    "expected_page": 0
+  },
+  {
+    "question": "Was plant Die Grünen, um die Rechte und den Schutz von queerem Leben in Deutschland zu stärken?",
+    "language": "German",
+    "expected_party": "DG",
+    "expected_chunk_id": "f6722518c3e8c0c0",
+    "expected_source": "resources/manifests/DG.pdf",
+    "expected_page": 47
+  },
+  {
+    "question": "Welche Position vertritt Die Grünen zur nuklearen Abrüstung und den Einsatz autonomer Waffensysteme?",
+    "language": "German",
+    "expected_party": "DG",
+    "expected_chunk_id": "3110dbb5d42664bb",
+    "expected_source": "resources/manifests/DG.pdf",
+    "expected_page": 60
+  },
+  {
+    "question": "Welche digitalen Verwaltungsangebote plant Die Grünen, um den Bürgern den Kontakt mit dem Staat zu erleichtern?",
+    "language": "German",
+    "expected_party": "DG",
+    "expected_chunk_id": "e44db43af5112613",
+    "expected_source": "resources/manifests/DG.pdf",
+    "expected_page": 12
+  },
+  {
+    "question": "What is Die Grünen's plan to improve working conditions for nursing staff?",
+    "language": "English",
+    "expected_party": "DG",
+    "expected_chunk_id": "3745851017c21f04",
+    "expected_source": "resources/manifests/DG.pdf",
+    "expected_page": 36
+  },
+  {
+    "question": "Was sind die Pläne von Die Grünen, um lokale Medien und den Journalismus in Deutschland zu unterstützen?",
+    "language": "German",
+    "expected_party": "DG",
+    "expected_chunk_id": "d43702325e295f07",
+    "expected_source": "resources/manifests/DG.pdf",
+    "expected_page": 40
+  },
+  {
+    "question": "Welche Maßnahmen plant Die Grünen, um die Erinnerung an die Verbrechen des Nationalsozialismus und die Aufarbeitung der GDR-Unrecht zu fördern?",
+    "language": "German",
+    "expected_party": "DG",
+    "expected_chunk_id": "3618275db1da7948",
+    "expected_source": "resources/manifests/DG.pdf",
+    "expected_page": 41
+  },
+  {
+    "question": "Welche Position hat Die Grünen zur Reform der Gemeinsamen Außen- und Sicherheitspolitik der EU?",
+    "language": "German",
+    "expected_party": "DG",
+    "expected_chunk_id": "f47f2965b1503aa4",
+    "expected_source": "resources/manifests/DG.pdf",
+    "expected_page": 57
+  },
+  {
+    "question": "What is Die Linke's plan to improve urban living conditions in response to climate change?",
+    "language": "English",
+    "expected_party": "DL",
+    "expected_chunk_id": "4cd5975ab05bf8ba",
+    "expected_source": "resources/manifests/DL.pdf",
+    "expected_page": 63
+  },
+  {
+    "question": "Welche Position hat Die Linke zur Finanzierung und Zugänglichkeit von Bildungseinrichtungen?",
+    "language": "German",
+    "expected_party": "DL",
+    "expected_chunk_id": "cb859f545bf76778",
+    "expected_source": "resources/manifests/DL.pdf",
+    "expected_page": 52
+  },
+  {
+    "question": "Was plant Die Linke, um die Bürgerbeteiligung und direkte Demokratie in Deutschland zu fördern?",
+    "language": "German",
+    "expected_party": "DL",
+    "expected_chunk_id": "f1abbde8efb3c132",
+    "expected_source": "resources/manifests/DL.pdf",
+    "expected_page": 68
+  },
+  {
+    "question": "Welche Position vertritt Die Linke in Bezug auf die militärische Aufrüstung und die Rolle Deutschlands in internationalen Konflikten?",
+    "language": "German",
+    "expected_party": "DL",
+    "expected_chunk_id": "5dd7473428af5351",
+    "expected_source": "resources/manifests/DL.pdf",
+    "expected_page": 27
+  },
+  {
+    "question": "What is Die Linke's position on the future of the automotive industry and the transition to sustainable mobility?",
+    "language": "English",
+    "expected_party": "DL",
+    "expected_chunk_id": "45325eb510ee9159",
+    "expected_source": "resources/manifests/DL.pdf",
+    "expected_page": 42
+  },
+  {
+    "question": "Welche Maßnahmen plant Die Linke, um die Gesundheitsversorgung für alle Bürger zu verbessern?",
+    "language": "German",
+    "expected_party": "DL",
+    "expected_chunk_id": "326c0a3dd34a179a",
+    "expected_source": "resources/manifests/DL.pdf",
+    "expected_page": 21
+  },
+  {
+    "question": "Was sind die umweltpolitischen Ziele von Die Linke in Bezug auf Recycling und Rohstoffnutzung?",
+    "language": "German",
+    "expected_party": "DL",
+    "expected_chunk_id": "1470c02e9135d6cf",
+    "expected_source": "resources/manifests/DL.pdf",
+    "expected_page": 47
+  },
+  {
+    "question": "Welche Maßnahmen plant Die Linke, um soziale und ökologische Standards in der digitalen Wirtschaft zu fördern?",
+    "language": "German",
+    "expected_party": "DL",
+    "expected_chunk_id": "df3328ab45735d0f",
+    "expected_source": "resources/manifests/DL.pdf",
+    "expected_page": 81
+  },
+  {
+    "question": "What is the FDP's position on the use of combustion engines and greenhouse gas technologies?",
+    "language": "English",
+    "expected_party": "FDP",
+    "expected_chunk_id": "615653b0f3f05422",
+    "expected_source": "resources/manifests/FDP.pdf",
+    "expected_page": 35
+  },
+  {
+    "question": "Welche Position hat die FDP zur Integration von Asylbewerbern in den Arbeitsmarkt?",
+    "language": "German",
+    "expected_party": "FDP",
+    "expected_chunk_id": "a1daac07528dc3c9",
+    "expected_source": "resources/manifests/FDP.pdf",
+    "expected_page": 23
+  },
+  {
+    "question": "Welche Maßnahmen plant die FDP, um die berufliche Bildung und die lebenslange Lernmöglichkeiten zu stärken?",
+    "language": "German",
+    "expected_party": "FDP",
+    "expected_chunk_id": "06a7f9db06304ccc",
+    "expected_source": "resources/manifests/FDP.pdf",
+    "expected_page": 4
+  },
+  {
+    "question": "Was plant die FDP, um die Bekämpfung von Clan-Kriminalität und organisierter Kriminalität zu verbessern?",
+    "language": "German",
+    "expected_party": "FDP",
+    "expected_chunk_id": "40d2e690a99a9bcd",
+    "expected_source": "resources/manifests/FDP.pdf",
+    "expected_page": 18
+  },
+  {
+    "question": "What is the FDP's position on inheritance and gift taxes for companies?",
+    "language": "English",
+    "expected_party": "FDP",
+    "expected_chunk_id": "03b43a9de3b056c6",
+    "expected_source": "resources/manifests/FDP.pdf",
+    "expected_page": 10
+  },
+  {
+    "question": "Welche Position hat die FDP zur Förderung von Freihandel und transatlantischen Handelsbeziehungen?",
+    "language": "German",
+    "expected_party": "FDP",
+    "expected_chunk_id": "0206d83ca2e8b05c",
+    "expected_source": "resources/manifests/FDP.pdf",
+    "expected_page": 47
+  },
+  {
+    "question": "Welche Position hat die FDP zur Einführung eines europäischen Einlagensicherungssystems (EDIS)?",
+    "language": "German",
+    "expected_party": "FDP",
+    "expected_chunk_id": "ab09829ffcf7fe47",
+    "expected_source": "resources/manifests/FDP.pdf",
+    "expected_page": 12
+  },
+  {
+    "question": "Was sind die Positionen der FDP zur Menschenrechtslage in Russland und China?",
+    "language": "German",
+    "expected_party": "FDP",
+    "expected_chunk_id": "703c7db052dc2e0b",
+    "expected_source": "resources/manifests/FDP.pdf",
+    "expected_page": 44
+  },
+  {
+    "question": "What is the SPD's position on supporting households that are burdened by rising CO2 prices?",
+    "language": "English",
+    "expected_party": "SPD",
+    "expected_chunk_id": "fc9cfcdbd4a05243",
+    "expected_source": "resources/manifests/SPD.pdf",
+    "expected_page": 29
+  },
+  {
+    "question": "Welche Maßnahmen plant die SPD, um queere Lebensweisen vor Diskriminierung zu schützen?",
+    "language": "German",
+    "expected_party": "SPD",
+    "expected_chunk_id": "36244bdf238cc0ed",
+    "expected_source": "resources/manifests/SPD.pdf",
+    "expected_page": 45
+  },
+  {
+    "question": "Welche Maßnahmen plant die SPD, um die Effizienz der Bundesverwaltung zu steigern?",
+    "language": "German",
+    "expected_party": "SPD",
+    "expected_chunk_id": "21822405d3fe0012",
+    "expected_source": "resources/manifests/SPD.pdf",
+    "expected_page": 33
+  },
+  {
+    "question": "Was sind die Positionen der SPD zur Situation im Nahen Osten und zur Rolle Israels?",
+    "language": "German",
+    "expected_party": "SPD",
+    "expected_chunk_id": "05dbc2012e80503a",
+    "expected_source": "resources/manifests/SPD.pdf",
+    "expected_page": 58
+  },
+  {
+    "question": "What is the SPD's plan to combat discrimination in Germany?",
+    "language": "English",
+    "expected_party": "SPD",
+    "expected_chunk_id": "e853e082235e5590",
+    "expected_source": "resources/manifests/SPD.pdf",
+    "expected_page": 37
+  },
+  {
+    "question": "Welche Pläne hat die SPD, um die Innovationskraft in Deutschland zu stärken?",
+    "language": "German",
+    "expected_party": "SPD",
+    "expected_chunk_id": "0a11048b8684b4f3",
+    "expected_source": "resources/manifests/SPD.pdf",
+    "expected_page": 5
+  },
+  {
+    "question": "Welche Maßnahmen plant die SPD, um die Kosten der Pflege zu begrenzen und eine solidarische Pflegeversicherung zu schaffen?",
+    "language": "German",
+    "expected_party": "SPD",
+    "expected_chunk_id": "fd8e5eacf7789f0e",
+    "expected_source": "resources/manifests/SPD.pdf",
+    "expected_page": 27
+  },
+  {
+    "question": "Was plant die SPD, um zukünftige Investitionen in Infrastruktur und Bildung zu finanzieren?",
+    "language": "German",
+    "expected_party": "SPD",
+    "expected_chunk_id": "7e5a2488305e7b90",
+    "expected_source": "resources/manifests/SPD.pdf",
+    "expected_page": 13
+  }
+]
