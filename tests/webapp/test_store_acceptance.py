@@ -21,8 +21,16 @@ def init_vector_store():
     print("Vector store initialized")
 
 
-def tests_store_cleanup():
+def tests_store_cleanup_requires_confirmation():
     response = client.post("/api/store/clean", headers={"Authorization": f"Basic {basic_auth}"})
+
+    assert response.status_code == 400
+    assert os.path.exists("faiss/index.faiss"), "the index must survive an unconfirmed request"
+
+
+def tests_store_cleanup():
+    response = client.post("/api/store/clean?confirm=delete-the-index",
+                           headers={"Authorization": f"Basic {basic_auth}"})
 
     assert response.status_code == 200
 

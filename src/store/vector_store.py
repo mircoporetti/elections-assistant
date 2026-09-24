@@ -1,6 +1,7 @@
 from filelock import FileLock
 import logging
 import os
+import shutil
 
 from langchain_community.vectorstores import FAISS, VectorStore
 from langchain_community.document_loaders import PyPDFDirectoryLoader
@@ -14,7 +15,9 @@ logger = logging.getLogger("uvicorn")
 
 PROGRAMS_PATH = "resources/manifests/"
 FAISS_PATH = "faiss"
+INDEX_FILES = ("index.faiss", "index.pkl")
 INDEX_FILE = os.path.join(FAISS_PATH, "index.faiss")
+STAGING_PATH = os.path.join(FAISS_PATH, ".staging")
 MODEL_MARKER = os.path.join(FAISS_PATH, "embedding_model.txt")
 EMBEDDING_MODEL = "intfloat/multilingual-e5-small"
 RESULTS = 4
@@ -68,10 +71,22 @@ def init():
 
 def build_from_documents(docs_chunks):
     store = FAISS.from_documents(docs_chunks, embeddings)
-    store.save_local(FAISS_PATH)
+    save_atomically(store)
+    return store
+
+
+def save_atomically(store):
+    shutil.rmtree(STAGING_PATH, ignore_errors=True)
+    store.save_local(STAGING_PATH)
+
+    if os.path.exists(MODEL_MARKER):
+        os.remove(MODEL_MARKER)
+    for filename in INDEX_FILES:
+        os.replace(os.path.join(STAGING_PATH, filename), os.path.join(FAISS_PATH, filename))
     with open(MODEL_MARKER, "w") as marker:
         marker.write(EMBEDDING_MODEL)
-    return store
+
+    shutil.rmtree(STAGING_PATH, ignore_errors=True)
 
 
 def chunk_manifests_pdfs():
@@ -92,9 +107,11 @@ def clean():
             for filename in os.listdir(FAISS_PATH):
                 if filename == "init.lock":
                     continue
-                file_path = os.path.join(FAISS_PATH, filename)
-                if os.path.isfile(file_path):
-                    os.remove(file_path)
+                path = os.path.join(FAISS_PATH, filename)
+                if os.path.isfile(path):
+                    os.remove(path)
+                else:
+                    shutil.rmtree(path, ignore_errors=True)
         logger.info("Vector Store cleanup successful.")
 
 
