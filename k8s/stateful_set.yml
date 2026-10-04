@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: elections-assistant-container
-          image: $CI_REGISTRY/gitlab-mirco/elections-assistant:$CI_COMMIT_SHA
+          image: $IMAGE
           env:
             - name: API_USERNAME
               valueFrom:
@@ -41,7 +41,7 @@ spec:
           ports:
             - containerPort: 8000
       imagePullSecrets:
-        - name: gitlab-registry-secret
+        - name: ghcr-registry-secret
   volumeClaimTemplates:
     - metadata:
         name: faiss-storage
