@@ -1,0 +1,26 @@
+# Quiz statements (lang: de | en)
+GET {{host}}/api/quiz?lang=en
+Accept: application/json
+Authorization: Basic {{basic_auth}}
+
+###
+
+# Score answers (agree | neutral | disagree | skip), weighted statements count double
+POST {{host}}/api/quiz/score
+Accept: application/json
+Content-Type: application/json
+Authorization: Basic {{basic_auth}}
+
+{
+  "answers": {
+    "conscription": "agree",
+    "nuclear-power": "agree",
+    "wealth-tax": "disagree",
+    "speed-limit": "disagree",
+    "cannabis": "skip"
+  },
+  "weighted": ["nuclear-power"],
+  "lang": "en"
+}
+
+###

@@ -9,6 +9,7 @@ from .auth import security
 from .exception_handlers import party_not_found_exception_handler, daily_limit_exception_handler
 from .api.chat import router as chat_router
 from .api.store import router as store_router
+from .api.quiz import router as quiz_router
 from .logging_config import log_config
 
 dictConfig(log_config)
@@ -30,6 +31,7 @@ app.add_middleware(
 
 app.include_router(chat_router)
 app.include_router(store_router)
+app.include_router(quiz_router)
 app.add_exception_handler(PartyNotFoundError, party_not_found_exception_handler)
 app.add_exception_handler(DailyLimitExceededException, daily_limit_exception_handler)
 

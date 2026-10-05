@@ -40,6 +40,11 @@ spec:
               mountPath: /app/faiss
           ports:
             - containerPort: 8000
+          resources:
+            requests:
+              memory: "1Gi"
+            limits:
+              memory: "2Gi"
           readinessProbe:
             tcpSocket:
               port: 8000

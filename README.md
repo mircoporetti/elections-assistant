@@ -27,3 +27,8 @@ Requirements:
 ```bash
 make test
 ```
+
+### Party match quiz
+
+The quiz data is generated offline from the manifestos and reviewed by hand. See
+[quiz/README.md](quiz/README.md) for the steps.

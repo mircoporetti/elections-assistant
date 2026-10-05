@@ -1,0 +1,2423 @@
+[
+  {
+    "statement_id": "border-rejections",
+    "party": "SPD",
+    "position": "disagree",
+    "quote": "Border closures and blanket rejections at internal borders contradict the spirit of a common area of freedom, security and justice.",
+    "source": "SPD p.52",
+    "reasoning": "The SPD manifesto explicitly opposes blanket rejections of asylum seekers, indicating a commitment to humane treatment and legal standards.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto explicitly opposes border closures and blanket rejections, indicating a disagreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "border-rejections",
+    "party": "CDU",
+    "position": "agree",
+    "quote": "We are rejecting those at the German borders who enter Germany from another EU member state or the Schengen area and want to apply for asylum with us.",
+    "source": "CDU p.98",
+    "reasoning": "The passages clearly support the statement by indicating that asylum seekers from safe third countries will be rejected at the borders.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that the party supports rejecting asylum seekers at the borders if they come from another EU member state or Schengen area, which aligns with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "border-rejections",
+    "party": "AFD",
+    "position": "agree",
+    "quote": "German law excludes entry for the purpose of granting asylum if applicants come from a safe third country.",
+    "source": "AFD p.26",
+    "reasoning": "The passage explicitly states that asylum seekers from safe third countries should be denied entry, aligning with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage clearly states that German law excludes asylum entry from safe third countries, aligning with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "border-rejections",
+    "party": "FDP",
+    "position": "agree",
+    "quote": "We want to support the model testing of rejections at Germany's external borders in order to exhaust all legal options for limiting irregular migration.",
+    "source": "FDP p.24",
+    "reasoning": "The passage explicitly supports the idea of rejections at Germany's borders for asylum seekers from safe third countries.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party's manifesto explicitly supports the idea of rejections at Germany's external borders for asylum seekers from safe third countries, aligning with the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "border-rejections",
+    "party": "DL",
+    "position": "disagree",
+    "quote": "We reject systematic internal border controls and rejections of people seeking protection at the borders are inadmissible.",
+    "source": "DL p.75",
+    "reasoning": "The passages clearly oppose the idea of rejecting asylum seekers at the borders, emphasizing the right to asylum and the inadmissibility of such rejections.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto explicitly states that rejections of people seeking protection at the borders are inadmissible, indicating a clear disagreement with the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "border-rejections",
+    "party": "DG",
+    "position": "disagree",
+    "quote": "We are opposed to the outsourcing of asylum procedures to third countries because it has been shown time and again that these initiatives end up costing a lot of taxpayers' money, failing in court and distracting from real solutions.",
+    "source": "DG p.52",
+    "reasoning": "The passages clearly oppose the idea of rejecting asylum seekers at the borders based on their country of origin.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly opposes the outsourcing of asylum procedures and emphasizes the right to individual case assessment, indicating they disagree with rejecting asylum seekers at the borders.",
+    "flags": []
+  },
+  {
+    "statement_id": "border-rejections",
+    "party": "BSW",
+    "position": "agree",
+    "quote": "From now on, the following principle should apply: - Anyone entering from a safe third country has no right to stay. Anyone who has no right to stay has no right to an asylum procedure and no entitlement to social benefits.",
+    "source": "BSW p.34",
+    "reasoning": "The passages explicitly state that individuals entering from safe third countries should not be allowed to stay in Germany.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states that anyone entering from a safe third country has no right to stay, which directly supports the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "family-reunification",
+    "party": "SPD",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the specific issue of family reunification for those with subsidiary protection status.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "family-reunification",
+    "party": "CDU",
+    "position": "agree",
+    "quote": "No family reunification. We are suspending family reunification for those entitled to subsidiary protection and ending all voluntary admission programs.",
+    "source": "CDU p.98",
+    "reasoning": "The passage explicitly states the suspension of family reunification for those entitled to subsidiary protection, directly supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The evidence clearly states that the party is suspending family reunification for those entitled to subsidiary protection, which directly supports the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "family-reunification",
+    "party": "AFD",
+    "position": "agree",
+    "quote": "Abolition of the basic right to family reunification for family members of those granted subsidiary protection",
+    "source": "AFD p.27",
+    "reasoning": "The passage explicitly states the abolition of family reunification rights for those with subsidiary protection, supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party's manifesto explicitly states the abolition of the basic right to family reunification for family members of those granted subsidiary protection, which aligns with the statement that family reunification should be suspended.",
+    "flags": []
+  },
+  {
+    "statement_id": "family-reunification",
+    "party": "FDP",
+    "position": "agree",
+    "quote": "We want to suspend family reunification for those entitled to subsidiary protection and pause admission programs.",
+    "source": "FDP p.24",
+    "reasoning": "The passage explicitly states the intention to suspend family reunification for those entitled to subsidiary protection, which aligns with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states they want to suspend family reunification for those entitled to subsidiary protection, which aligns with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "family-reunification",
+    "party": "DL",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the issue of family reunification for those with subsidiary protection, so there is insufficient information to determine the party's position on the statement.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "family-reunification",
+    "party": "DG",
+    "position": "disagree",
+    "quote": "We therefore want to continue to enable family reunification and lift existing restrictions.",
+    "source": "DG p.51",
+    "reasoning": "The passages clearly advocate for family reunification and oppose restrictions on it.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states their intention to continue enabling family reunification, which contradicts the statement advocating for its suspension.",
+    "flags": []
+  },
+  {
+    "statement_id": "family-reunification",
+    "party": "BSW",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the issue of family reunification for those with subsidiary protection, so there is insufficient information to determine the party's position on the statement.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "citizenship",
+    "party": "SPD",
+    "position": "agree",
+    "quote": "By making it easier to acquire German citizenship, we have helped many people to identify with Germany. Germany and sent a strong signal for participation and belonging.",
+    "source": "SPD p.51",
+    "reasoning": "The passage indicates a commitment to modernizing citizenship law and making it easier to acquire German citizenship, which aligns with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states the SPD's commitment to modernizing citizenship law and making it easier to acquire German citizenship, which aligns with the statement about allowing naturalization after five years.",
+    "flags": []
+  },
+  {
+    "statement_id": "citizenship",
+    "party": "CDU",
+    "position": "disagree",
+    "quote": "That is why we reject the express naturalization of the traffic light coalition after only three years of residence just as firmly as the general possibility of dual citizenship.",
+    "source": "CDU p.133",
+    "reasoning": "The CDU/CSU explicitly rejects naturalization after three years of residence, indicating a preference for a longer duration.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly rejects the idea of naturalization after only three years of residence, indicating they disagree with the statement that naturalization should be possible after five years.",
+    "flags": []
+  },
+  {
+    "statement_id": "citizenship",
+    "party": "AFD",
+    "position": "disagree",
+    "quote": "The AfD therefore demands that the ability to integrate be restored by strictly limiting access. No integration of those without residency rights at any price / limit the asylum industry.",
+    "source": "AFD p.28",
+    "reasoning": "The AfD's manifesto emphasizes strict limitations on immigration and integration, opposing the idea of citizenship after five years.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The AfD's manifesto emphasizes strict limitations on access to citizenship and a return to more stringent requirements, indicating disagreement with the idea of allowing naturalization after five years.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "citizenship",
+    "party": "FDP",
+    "position": "neutral",
+    "quote": "We Free Democrats want the granting of German citizenship to be the end result of successful integration. We have enforced that people can only be naturalized if they earn their own living.",
+    "source": "FDP p.25",
+    "reasoning": "The passage discusses conditions for naturalization but does not explicitly support or oppose the five-year residency requirement.",
+    "verifier_position": "not_addressed",
+    "verifier_reasoning": "The passage discusses the conditions for naturalization and successful integration but does not explicitly state a position on the specific timeframe of five years for citizenship.",
+    "flags": [
+      "quote_not_verbatim",
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "citizenship",
+    "party": "DL",
+    "position": "agree",
+    "quote": "After five years of residence in the Federal Republic, everyone should have a legal right to naturalization.",
+    "source": "DL p.76",
+    "reasoning": "The passage explicitly states that after five years of residence, individuals should have the right to naturalization, directly supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that after five years of residence, everyone should have a legal right to naturalization, which directly supports the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "citizenship",
+    "party": "DG",
+    "position": "agree",
+    "quote": "Citizenship ensures participation and belonging for people who have lived here for a long time - for example the generation of guest workers.",
+    "source": "DG p.50",
+    "reasoning": "The passage supports the idea of modern citizenship law that facilitates integration and belonging for long-term residents, aligning with the statement about naturalization after five years.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage emphasizes the importance of citizenship for long-term residents, suggesting support for a five-year residency requirement for naturalization.",
+    "flags": []
+  },
+  {
+    "statement_id": "citizenship",
+    "party": "BSW",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not specifically address the statement regarding the possibility of naturalization after five years of residence in Germany.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "debt-brake",
+    "party": "SPD",
+    "position": "agree",
+    "quote": "We therefore want to reform the debt rule in the Basic Law so that investments in the future viability of our country and in prosperity are not hindered.",
+    "source": "SPD p.14",
+    "reasoning": "The passage explicitly states the intention to reform the debt rule to facilitate future investments, aligning with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states the party's intention to reform the debt rule in the Basic Law to facilitate necessary public investments, aligning with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "debt-brake",
+    "party": "CDU",
+    "position": "disagree",
+    "quote": "Adhere to the constitutional debt brake. It ensures that burdens are not placed on our children and grandchildren.",
+    "source": "CDU p.185",
+    "reasoning": "The passages emphasize the importance of adhering to the constitutional debt brake, which contradicts the idea of reforming it to allow for more public investments.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states the importance of adhering to the constitutional debt brake, indicating a disagreement with reforming it to allow for more public investments.",
+    "flags": []
+  },
+  {
+    "statement_id": "debt-brake",
+    "party": "AFD",
+    "position": "disagree",
+    "quote": "We must not continue to burden future generations with debt and interest. We therefore call for tax waste to be avoided. Key examples include reducing pointless expenditure on the supposed \"climate rescue\" and ending the financing of superfluous prestige projects, especially abroad.",
+    "source": "AFD p.14",
+    "reasoning": "The AfD emphasizes compliance with the debt brake and reducing debt, opposing any reform that would increase public investment through additional borrowing.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto emphasizes compliance with the debt brake and reducing debt, indicating opposition to reforming it for increased public investment.",
+    "flags": []
+  },
+  {
+    "statement_id": "debt-brake",
+    "party": "FDP",
+    "position": "disagree",
+    "quote": "For us Free Democrats, compliance with the debt brake enshrined in the Basic Law is therefore a central requirement of intergenerational justice.",
+    "source": "FDP p.31",
+    "reasoning": "The FDP emphasizes the importance of adhering to the debt brake, indicating a clear opposition to reforming it for increased public investment.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party emphasizes the importance of adhering to the debt brake for intergenerational justice, indicating a disagreement with reforming it to allow for more public investments.",
+    "flags": []
+  },
+  {
+    "statement_id": "debt-brake",
+    "party": "DL",
+    "position": "agree",
+    "quote": "We demand the abolition of the debt brake. It must again be possible to finance public investments in infrastructure, a climate-neutral industry and social compensation through loans.",
+    "source": "DL p.15",
+    "reasoning": "The passages clearly support the need to reform or abolish the debt brake to enable more public investments.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly demands the abolition of the debt brake to enable more public investments, which aligns with the statement about reforming it for that purpose.",
+    "flags": []
+  },
+  {
+    "statement_id": "debt-brake",
+    "party": "DG",
+    "position": "agree",
+    "quote": "We want to reform the debt brake in order to finance the economic recovery of our country and a strong, future-proof economy.",
+    "source": "DG p.15",
+    "reasoning": "The passage explicitly states the intention to reform the debt brake to enable more public investments, aligning with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their intention to reform the debt brake to enable more public investments, aligning with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "debt-brake",
+    "party": "BSW",
+    "position": "agree",
+    "quote": "The debt brake has not prevented unsound budgeting, but has become a brake on investment. That is why it must be reformed.",
+    "source": "BSW p.14",
+    "reasoning": "The passage explicitly states that the debt brake should be reformed to facilitate more investment, directly supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states that the debt brake has become a brake on investment and advocates for its reform to enable more public investments.",
+    "flags": []
+  },
+  {
+    "statement_id": "wealth-tax",
+    "party": "SPD",
+    "position": "agree",
+    "quote": "We want to revitalize the suspended wealth tax for very high assets.",
+    "source": "SPD p.16",
+    "reasoning": "The passage explicitly states the intention to revitalize the wealth tax for very high assets, which directly supports the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their intention to revitalize the suspended wealth tax for very high assets, which aligns with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "wealth-tax",
+    "party": "CDU",
+    "position": "disagree",
+    "quote": "We reject a wealth tax.",
+    "source": "CDU p.76",
+    "reasoning": "The passages clearly oppose the introduction of a wealth tax, stating that they do not want to punish those who have worked hard and built wealth.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states, 'We reject a wealth tax,' indicating a clear disagreement with the introduction of a wealth tax for very high assets.",
+    "flags": []
+  },
+  {
+    "statement_id": "wealth-tax",
+    "party": "AFD",
+    "position": "disagree",
+    "quote": "The AfD wants to abolish the wealth tax, which is currently suspended, and the inheritance tax.",
+    "source": "AFD p.15",
+    "reasoning": "The passage explicitly states that the AfD wants to abolish the wealth tax, which directly opposes the idea of introducing a wealth tax.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The AfD explicitly states its intention to abolish the wealth tax, indicating a disagreement with the introduction of a wealth tax for high assets.",
+    "flags": []
+  },
+  {
+    "statement_id": "wealth-tax",
+    "party": "FDP",
+    "position": "disagree",
+    "quote": "We need a tax system that rewards performance and investment... We therefore need to make work more attractive again.",
+    "source": "FDP p.10",
+    "reasoning": "The FDP emphasizes a tax system that rewards performance and investment rather than introducing new taxes like a wealth tax.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto emphasizes making work more attractive and reducing taxes on income, which suggests a rejection of a wealth tax.",
+    "flags": [
+      "quote_not_verbatim",
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "wealth-tax",
+    "party": "DL",
+    "position": "agree",
+    "quote": "The Left demands that the wealth tax be reintroduced. So that we only tax the richest 2.5 percent of our society, we demand an allowance for private assets of one million euros per person (minus all debts, such as mortgages on a home).",
+    "source": "DL p.10",
+    "reasoning": "The passages clearly support the introduction of a wealth tax targeting the richest individuals.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage clearly states that Die Linke demands the reintroduction of a wealth tax targeting the richest individuals, which aligns with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "wealth-tax",
+    "party": "DG",
+    "position": "agree",
+    "quote": "Germany is a wealthy country. Many people are doing well. But there are also those who can hardly afford anything other than rent and food. [...] a national wealth tax. We want to bring together justice, financing of the common good and the preservation of companies.",
+    "source": "DG p.29",
+    "reasoning": "The passage explicitly mentions the desire for a national wealth tax to address wealth inequality.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly mentions the need for a national wealth tax as a measure to address wealth inequality, which supports the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "wealth-tax",
+    "party": "BSW",
+    "position": "neutral",
+    "quote": "We want to reduce tax burdens on incomes of up to 7,500 euros gross. The top tax rate should spare middle incomes and only be raised for very high use income.",
+    "source": "BSW p.15",
+    "reasoning": "The passages discuss tax burdens and fairness but do not explicitly support or oppose the introduction of a wealth tax.",
+    "verifier_position": "not_addressed",
+    "verifier_reasoning": "The passage discusses tax burdens and relief for low and middle incomes but does not explicitly mention a wealth tax for very high assets.",
+    "flags": [
+      "quote_not_verbatim",
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "solidarity-surcharge",
+    "party": "SPD",
+    "position": "disagree",
+    "quote": "We will continue to use this instrument; it serves to finance the transformation of our country. In income tax, we have already covered 90 percent of taxpayers have been exempted from paying the solidarity surcharge for some time.",
+    "source": "SPD p.16",
+    "reasoning": "The SPD manifesto indicates a commitment to maintaining the solidarity surcharge as a necessary financial instrument.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states they will continue to use the solidarity surcharge, indicating they do not support its abolition.",
+    "flags": []
+  },
+  {
+    "statement_id": "solidarity-surcharge",
+    "party": "CDU",
+    "position": "agree",
+    "quote": "Get rid of the remaining solidarity surcharge. We are abolishing the remaining solidarity surcharge. It has long since fulfilled its purpose, is no longer justifiable almost 35 years after reunification and is a burden on companies, skilled workers and savers.",
+    "source": "CDU p.31",
+    "reasoning": "The passage explicitly states the intention to abolish the solidarity surcharge, directly supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their intention to abolish the solidarity surcharge, indicating agreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "solidarity-surcharge",
+    "party": "AFD",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not mention the solidarity surcharge or provide a clear stance on its abolition.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "solidarity-surcharge",
+    "party": "FDP",
+    "position": "agree",
+    "quote": "In addition, we want to completely abolish the solidarity surcharge. This has now become a punitive tax for the middle class.",
+    "source": "FDP p.10",
+    "reasoning": "The passage explicitly states the party's intention to abolish the solidarity surcharge, aligning with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their desire to completely abolish the solidarity surcharge, indicating agreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "solidarity-surcharge",
+    "party": "DL",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not mention the solidarity surcharge or provide a clear stance on its abolition.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "solidarity-surcharge",
+    "party": "DG",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not mention the solidarity surcharge or provide a clear stance on its abolition.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "solidarity-surcharge",
+    "party": "BSW",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not mention the Solidaritätszuschlag or provide a clear stance on its abolition.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "corporate-tax",
+    "party": "SPD",
+    "position": "disagree",
+    "quote": "We want (high-)wealth people to also make a fair contribution to financing investments in our future. In Germany, income from work is taxed more heavily than assets. We want to change this and create more tax justice.",
+    "source": "SPD p.16",
+    "reasoning": "The SPD manifesto emphasizes increasing taxes on wealth and assets rather than reducing corporate taxes.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto emphasizes the need for higher taxation on wealth and corporate assets, indicating a disagreement with lowering corporate taxes to 25 percent.",
+    "flags": []
+  },
+  {
+    "statement_id": "corporate-tax",
+    "party": "CDU",
+    "position": "agree",
+    "quote": "Our goal is an attractive corporate tax rate of a maximum of 25 percent on retained profits, which we want to implement gradually.",
+    "source": "CDU p.31",
+    "reasoning": "The passage explicitly states the goal of reducing corporate tax rates to a maximum of 25 percent, directly supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their goal of reducing corporate tax rates to a maximum of 25 percent, which aligns with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "corporate-tax",
+    "party": "AFD",
+    "position": "agree",
+    "quote": "We will lower the tax rates and, in turn, the write-off options for \"tax-saving models\". We will make the corporate tax neutral in terms of legal form.",
+    "source": "AFD p.14",
+    "reasoning": "The passage indicates a commitment to lowering corporate tax rates, aligning with the statement's proposal.",
+    "verifier_position": "neutral",
+    "verifier_reasoning": "The passage discusses lowering corporate tax rates but does not specify a maximum rate of 25 percent, making the party's position on that specific statement unclear.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "corporate-tax",
+    "party": "FDP",
+    "position": "agree",
+    "quote": "We demand that the corporate tax burden be reduced to below 25 percent. To achieve this, we will completely abolish the solidarity surcharge and reduce the corporate tax.",
+    "source": "FDP p.11",
+    "reasoning": "The passage explicitly states a demand to reduce the corporate tax burden to below 25 percent, which aligns with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states a demand to reduce the corporate tax burden to below 25 percent, which aligns with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "corporate-tax",
+    "party": "DL",
+    "position": "disagree",
+    "quote": "The Left demands that the wealth tax be reintroduced. So that we only tax the richest 2.5 percent of our society, we demand an allowance for private assets of one million euros per person (minus all debts, such as mortgages on a home).",
+    "source": "DL p.10",
+    "reasoning": "The passages advocate for higher taxes on the wealthy and do not support lowering corporate taxes.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party advocates for higher taxes on the wealthy and does not support lowering corporate taxes to 25 percent.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "corporate-tax",
+    "party": "DG",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not specifically address the issue of corporate tax rates or propose a specific maximum tax rate.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "corporate-tax",
+    "party": "BSW",
+    "position": "disagree",
+    "quote": "The tax system in Germany penalises work and rewards large fortunes, although these are often not based on one's own achievements, but on inheritances or the exploitation of the work of others.",
+    "source": "BSW p.14",
+    "reasoning": "The passage criticizes the current tax system and implies a need for higher corporate taxes rather than a reduction.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The passage criticizes the current tax system for favoring capital gains over labor, indicating a disagreement with lowering corporate taxes to 25 percent.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "minimum-wage",
+    "party": "SPD",
+    "position": "agree",
+    "quote": "Accordingly, the minimum wage must be 15 euros by 2026 at the latest.",
+    "source": "SPD p.20",
+    "reasoning": "The passage explicitly states that the minimum wage should be 15 euros by 2026, directly supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that the minimum wage must be 15 euros by 2026, indicating agreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "minimum-wage",
+    "party": "CDU",
+    "position": "disagree",
+    "quote": "We stand for a new basic security that reintroduces the principle of \"encouragement and demand\" and strengthens cohesion because it makes it clear that our state supports people who are dependent on help. At the same time, it makes a clear demand: those who can work must work and must not live at the expense of the community.",
+    "source": "CDU p.69",
+    "reasoning": "The CDU/CSU emphasizes the need for work and discourages dependency on state support, which contradicts the idea of raising the minimum wage to 15 euros.",
+    "verifier_position": "not_addressed",
+    "verifier_reasoning": "The passage does not explicitly mention a position on raising the minimum wage to 15 euros per hour.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "minimum-wage",
+    "party": "AFD",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the issue of raising the minimum wage to 15 euros per hour, so there is insufficient information to determine the party's position on this statement.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "minimum-wage",
+    "party": "FDP",
+    "position": "disagree",
+    "quote": "We respect collective bargaining autonomy and reject political interference in the work of the independent minimum wage commission.",
+    "source": "FDP p.14",
+    "reasoning": "The FDP manifesto explicitly states a rejection of political interference in minimum wage decisions, indicating opposition to a mandated increase.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto explicitly states a rejection of political interference in minimum wage decisions, indicating disagreement with raising the minimum wage to a specified amount.",
+    "flags": []
+  },
+  {
+    "statement_id": "minimum-wage",
+    "party": "DL",
+    "position": "agree",
+    "quote": "The statutory minimum wage must be increased in accordance with the European directive - to at least 60 percent of the average income (median wage). That would be around 15 euros by 2025. In order to clearly comply with the European directive, we are calling for a minimum wage of 16 euros by 2026 at the latest.",
+    "source": "DL p.35",
+    "reasoning": "The passages explicitly state a commitment to raising the minimum wage to at least 15 euros.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly calls for an increase in the statutory minimum wage to at least 15 euros, aligning with the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "minimum-wage",
+    "party": "DG",
+    "position": "agree",
+    "quote": "In order to compensate for the inflation of recent years, we now need a minimum wage of initially 15 euros in 2025, which also applies to those under 18.",
+    "source": "DG p.27",
+    "reasoning": "The passage explicitly states the need for a minimum wage of 15 euros, directly supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states the need for a minimum wage of initially 15 euros in 2025, which supports the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "minimum-wage",
+    "party": "BSW",
+    "position": "agree",
+    "quote": "We want to raise the statutory minimum wage to 15 euros without delay.",
+    "source": "BSW p.19",
+    "reasoning": "The passage explicitly states the party's intention to raise the minimum wage to 15 euros, directly supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their intention to raise the statutory minimum wage to 15 euros without delay, which directly supports the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "citizens-income",
+    "party": "SPD",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the specific statement about replacing Bürgergeld with stricter sanctions, focusing instead on financial policy, healthcare, family support, and taxation.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "citizens-income",
+    "party": "CDU",
+    "position": "agree",
+    "quote": "We are abolishing the so-called “citizen’s allowance” and replacing it with a new basic security. Encouraging and demanding must always apply.",
+    "source": "CDU p.6",
+    "reasoning": "The passage explicitly states the intention to abolish the citizen's allowance and replace it with a new basic security, aligning with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states they are abolishing the citizen's allowance and replacing it with a new basic security, which implies support for stricter sanctions.",
+    "flags": []
+  },
+  {
+    "statement_id": "citizens-income",
+    "party": "AFD",
+    "position": "agree",
+    "quote": "We will resolutely counteract these negative developments through a fundamental reform of the citizen’s income. For a functioning basic security for job seekers We want to get employable basic security recipients back into work more quickly so that they can stand on their own two feet again.",
+    "source": "AFD p.10",
+    "reasoning": "The passages advocate for a reform of the citizen's allowance to encourage work and reduce dependency, aligning with the statement's call for stricter measures.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage advocates for a fundamental reform of the citizen's income system, implying a shift towards stricter measures and a focus on work, which aligns with the statement about replacing the citizen's allowance with a basic security system that has stricter sanctions.",
+    "flags": []
+  },
+  {
+    "statement_id": "citizens-income",
+    "party": "FDP",
+    "position": "agree",
+    "quote": "To this end, we Free Democrats want to fundamentally reform the citizen's allowance. We want a reform of basic security, away from a citizen's allowance that supports people and towards more activation, where work makes the difference.",
+    "source": "FDP p.15",
+    "reasoning": "The passage clearly supports the idea of replacing the citizen's allowance with a system that includes stricter sanctions.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage clearly indicates a desire to replace the current citizen's allowance with a system that includes stricter sanctions and emphasizes work over benefits.",
+    "flags": []
+  },
+  {
+    "statement_id": "citizens-income",
+    "party": "DL",
+    "position": "disagree",
+    "quote": "We want to transform the citizen's allowance into a sanction-free individual minimum income. Anyone who does not have sufficient income or assets is entitled to it.",
+    "source": "DL p.18",
+    "reasoning": "The passages advocate for a sanction-free minimum income, opposing the idea of stricter sanctions.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states they want to transform the citizen's allowance into a sanction-free individual minimum income, which contradicts the idea of replacing it with stricter sanctions.",
+    "flags": []
+  },
+  {
+    "statement_id": "citizens-income",
+    "party": "DG",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the specific statement about replacing the Bürgergeld with a Grundsicherung and stricter sanctions.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "citizens-income",
+    "party": "BSW",
+    "position": "agree",
+    "quote": "We want to replace the Citizen’s Allowance with a high-performance and performance-based unemployment insurance and replace a fair basic security.",
+    "source": "BSW p.20",
+    "reasoning": "The passage explicitly states a desire to replace the Citizen's Allowance, aligning with the statement's proposal.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their intention to replace the Citizen’s Allowance with a performance-based unemployment insurance, which aligns with the statement advocating for stricter sanctions.",
+    "flags": []
+  },
+  {
+    "statement_id": "retirement-age",
+    "party": "SPD",
+    "position": "agree",
+    "quote": "The SPD will continue to allow people to retire two years earlier without any deductions after 45 years of contributions. We reject an increase in the standard retirement age.",
+    "source": "SPD p.22",
+    "reasoning": "The SPD supports lowering the retirement age by allowing earlier retirement without deductions, which aligns with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party's manifesto explicitly states that they reject an increase in the standard retirement age and support allowing earlier retirement without deductions, which aligns with the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "retirement-age",
+    "party": "CDU",
+    "position": "disagree",
+    "quote": "We are sticking to the existing legal regulations on retirement age. There will be no pension cuts under our supervision.",
+    "source": "CDU p.7",
+    "reasoning": "The passage explicitly states that the party is committed to the existing legal regulations on retirement age, opposing any reduction.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states they are sticking to the existing legal regulations on retirement age, which implies they do not support lowering it to 65 years.",
+    "flags": []
+  },
+  {
+    "statement_id": "retirement-age",
+    "party": "AFD",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not specifically address the retirement age or the proposal to lower it to 65 years.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "retirement-age",
+    "party": "FDP",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the specific issue of lowering the retirement age to 65, focusing instead on bureaucracy, social benefits, and work incentives.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "retirement-age",
+    "party": "DL",
+    "position": "agree",
+    "quote": "We are calling for a standard retirement age of 65. Anyone who has worked for 40 years and paid contributions themselves should be able to retire at 60 without any reductions.",
+    "source": "DL p.19",
+    "reasoning": "The passage explicitly states a call for a standard retirement age of 65, directly supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly calls for a standard retirement age of 65 and allows for retirement at 60 after 40 years of contributions, supporting the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "retirement-age",
+    "party": "DG",
+    "position": "disagree",
+    "quote": "We are sticking to the retirement age of 67.",
+    "source": "DG p.39",
+    "reasoning": "The passages clearly state that the party is committed to maintaining the retirement age at 67, which directly opposes the statement of lowering it to 65.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states they are sticking to the retirement age of 67, which contradicts the statement of lowering it to 65.",
+    "flags": []
+  },
+  {
+    "statement_id": "retirement-age",
+    "party": "BSW",
+    "position": "disagree",
+    "quote": "We clearly reject demands to further increase the retirement age.",
+    "source": "BSW p.21",
+    "reasoning": "The passage explicitly states a rejection of increasing the retirement age, which implies a disagreement with lowering the retirement age to 65.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states that they reject demands to further increase the retirement age, which implies they support lowering it to 65.",
+    "flags": []
+  },
+  {
+    "statement_id": "health-insurance",
+    "party": "SPD",
+    "position": "agree",
+    "quote": "A solidarity-based financing system creates trust and relieves citizens of worries about financial burdens. That is why we are strengthening the contribution-financed pay-as-you-go system. Health insurance companies and private health insurance companies thus form a system of solidarity-based citizen insurance in which everyone participates.",
+    "source": "SPD p.26",
+    "reasoning": "The passages advocate for integrating private insurance into a solidarity-based citizen insurance system, aligning with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage supports the integration of private health insurance into a solidarity-based citizen insurance system, indicating agreement with the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "health-insurance",
+    "party": "CDU",
+    "position": "disagree",
+    "quote": "We stand by the cornerstones of the German health care system with its proven self-administration, the duality of statutory and private health insurance, our commitment to the principle of freelance work and solidarity.",
+    "source": "CDU p.164",
+    "reasoning": "The CDU/CSU manifesto emphasizes the importance of maintaining the duality of statutory and private health insurance, opposing the integration of private health insurance into a universal system.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto emphasizes the importance of maintaining the duality of statutory and private health insurance, which indicates a disagreement with integrating private health insurance into a universal system.",
+    "flags": []
+  },
+  {
+    "statement_id": "health-insurance",
+    "party": "AFD",
+    "position": "disagree",
+    "quote": "Non-insurance benefits are therefore not to be financed from social insurance contributions, but from the federal budget.",
+    "source": "AFD p.11",
+    "reasoning": "The AfD's position on financing social benefits indicates a clear opposition to integrating private health insurance into a public system.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto emphasizes that non-insurance benefits should not be financed from social insurance contributions, indicating a disagreement with integrating private health insurance into a public system.",
+    "flags": []
+  },
+  {
+    "statement_id": "health-insurance",
+    "party": "FDP",
+    "position": "disagree",
+    "quote": "We therefore reject a single fund (so-called citizens' insurance).",
+    "source": "FDP p.29",
+    "reasoning": "The FDP explicitly rejects the idea of integrating private health insurance into a citizens' insurance system, indicating a clear opposition to the statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states that they reject a single fund (citizens' insurance), indicating a disagreement with the integration of private health insurance into a citizens' insurance system.",
+    "flags": []
+  },
+  {
+    "statement_id": "health-insurance",
+    "party": "DL",
+    "position": "agree",
+    "quote": "Privately insured people are taken over into statutory health insurance. This means that the health insurance contribution falls from the current 17.1 to around 13.3 percent of gross wages.",
+    "source": "DL p.22",
+    "reasoning": "The passage supports the integration of private health insurance into a solidarity-based system, aligning with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that privately insured people should be integrated into statutory health insurance, which aligns with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "health-insurance",
+    "party": "DG",
+    "position": "agree",
+    "quote": "On the way to a citizen's insurance, we will include not only those with statutory health insurance but also those with private insurance in the solidarity-based financial equalization of the",
+    "source": "DG p.37",
+    "reasoning": "The passages clearly support the integration of private health insurance into a citizen's insurance scheme.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that the party aims to include private insurance in the solidarity-based financial equalization as part of the transition to a citizen's insurance, indicating agreement with the integration of private health insurance.",
+    "flags": []
+  },
+  {
+    "statement_id": "health-insurance",
+    "party": "BSW",
+    "position": "agree",
+    "quote": "We demand the abolition of additional contributions and the introduction of a citizen's insurance scheme into which all citizens pay according to their income and receive, in principle, the same benefits at the level of the highest medical standards.",
+    "source": "BSW p.25",
+    "reasoning": "The passage explicitly calls for the introduction of a citizen's insurance scheme, which implies the integration of private health insurance into a broader public system.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party's manifesto explicitly calls for the introduction of a citizen's insurance scheme, which implies the integration of private health insurance into a unified system.",
+    "flags": []
+  },
+  {
+    "statement_id": "rent-cap",
+    "party": "SPD",
+    "position": "agree",
+    "quote": "The rent cap should apply indefinitely and also to properties that were occupied up until 2019 in order to ensure stable and affordable rents in tight housing markets in the long term.",
+    "source": "SPD p.17",
+    "reasoning": "The passage explicitly states that the rent cap should apply indefinitely, supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that the rent cap should apply indefinitely, supporting the claim that the SPD agrees with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "rent-cap",
+    "party": "CDU",
+    "position": "neutral",
+    "quote": "We stand for effective and appropriate tenant protection - this also includes the rules on rent levels. Social housing must be solidly supported and housing benefits must be regularly adjusted.",
+    "source": "CDU p.18",
+    "reasoning": "The passages discuss tenant protection and housing affordability but do not explicitly support or oppose the idea of a permanent rent cap.",
+    "verifier_position": "not_addressed",
+    "verifier_reasoning": "The passage discusses tenant protection and housing policies but does not explicitly state a position on the permanence of the rent control measure (Mietpreisbremse).",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "rent-cap",
+    "party": "AFD",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the issue of a permanent rent cap or provide a clear stance on rental price controls.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "rent-cap",
+    "party": "FDP",
+    "position": "disagree",
+    "quote": "The rent cap has been proven to be a brake on investment. That is why we are allowing it to expire. In order to create incentives for urgently needed new construction, we are breaking the state regulation spiral in the rental market.",
+    "source": "FDP p.40",
+    "reasoning": "The passages clearly oppose the idea of a permanent rent cap, stating it hinders investment and is set to expire.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states that they will not introduce a nationwide rent cap and are allowing the current rent cap to expire, indicating disagreement with the idea of a permanent rent cap.",
+    "flags": []
+  },
+  {
+    "statement_id": "rent-cap",
+    "party": "DL",
+    "position": "agree",
+    "quote": "That's why we want to implement a nationwide rent cap. This will allow everyone to continue to live at home in peace.",
+    "source": "DL p.1",
+    "reasoning": "The passage explicitly states the party's intention to implement a nationwide rent cap, which aligns with the idea of a permanent rent control measure.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their intention to implement a nationwide rent cap, which aligns with the statement that the rent control measure should be permanent.",
+    "flags": []
+  },
+  {
+    "statement_id": "rent-cap",
+    "party": "DG",
+    "position": "agree",
+    "quote": "The rent cap must be extended. It should also put a stronger limit on rent increases above the local comparative rent.",
+    "source": "DG p.28",
+    "reasoning": "The passages explicitly support the idea of extending the rent cap, which aligns with the statement that the rent control measure should be permanent.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that 'The rent cap must be extended' and discusses measures to strengthen limits on rent increases, indicating a clear agreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "rent-cap",
+    "party": "BSW",
+    "position": "agree",
+    "quote": "We demand a nationwide rent cap instead of an ineffective rent brake. In all regions where it is no longer possible to afford adequate housing on a normal income, we want to freeze rents until the end of the decade.",
+    "source": "BSW p.26",
+    "reasoning": "The passages explicitly call for a nationwide rent cap and freezing rents, which aligns with the statement about the permanent application of the rent brake.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly demands a nationwide rent cap and proposes to freeze rents, which aligns with the statement that the rent brake should be permanent.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "ukraine-weapons",
+    "party": "SPD",
+    "position": "disagree",
+    "quote": "We support Ukraine. The SPD is clearly committed to diplomatic, military, financial and humanitarian Support the Ukrainians in their fight against Russian aggression, which is contrary to international law – for as long as necessary.",
+    "source": "SPD p.55",
+    "reasoning": "The SPD explicitly states its commitment to supporting Ukraine, including military support.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The SPD explicitly states its commitment to supporting Ukraine with military aid, which contradicts the statement that Germany should not supply weapons to Ukraine.",
+    "flags": []
+  },
+  {
+    "statement_id": "ukraine-weapons",
+    "party": "CDU",
+    "position": "disagree",
+    "quote": "We are therefore supporting Ukraine with all the necessary diplomatic, financial and humanitarian means, as well as with arms deliveries. It must be able to exercise its right to self-defense.",
+    "source": "CDU p.110",
+    "reasoning": "The passages clearly state that the CDU/CSU supports arms deliveries to Ukraine, opposing the statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto explicitly states support for arms deliveries to Ukraine, indicating disagreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "ukraine-weapons",
+    "party": "AFD",
+    "position": "agree",
+    "quote": "We reject the ongoing transfer of operational material and weapons systems from the Bundeswehr's stocks to Ukraine and the constant strain on the troops caused by the training of Ukrainian soldiers.",
+    "source": "AFD p.24",
+    "reasoning": "The passage explicitly rejects the transfer of weapons to Ukraine, aligning with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly rejects the transfer of weapons to Ukraine, aligning with the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "ukraine-weapons",
+    "party": "FDP",
+    "position": "disagree",
+    "quote": "For us Free Democrats, it is clear that the defense of Ukraine must not fail because of money and arms deliveries, since a Russian victory will be more expensive and our freedom is also being defended in Ukraine.",
+    "source": "FDP p.43",
+    "reasoning": "The passages clearly advocate for continued support and arms deliveries to Ukraine.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto clearly states that they support arms deliveries to Ukraine, indicating a disagreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "ukraine-weapons",
+    "party": "DL",
+    "position": "agree",
+    "quote": "But we are calling for a change in strategy: instead of more and more arms deliveries, we finally need a joint initiative by the German government and the EU... We reject arms deliveries to war and crisis zones.",
+    "source": "DL p.28",
+    "reasoning": "The passages clearly advocate against arms deliveries, aligning with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly calls for no more arms deliveries to Ukraine and advocates for a change in strategy towards diplomatic initiatives instead.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "ukraine-weapons",
+    "party": "DG",
+    "position": "disagree",
+    "quote": "We stand firmly by its side - with diplomatic, financial, humanitarian and military support. Ukraine must be able to defend itself and ensure a strong position for a possible peace process.",
+    "source": "DG p.57",
+    "reasoning": "The passages clearly express support for military assistance to Ukraine, opposing the statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto explicitly states support for military assistance to Ukraine, indicating disagreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "ukraine-weapons",
+    "party": "BSW",
+    "position": "agree",
+    "quote": "We do not want any more German tax money to be provided to prolong this senseless war.",
+    "source": "BSW p.6",
+    "reasoning": "The passage explicitly states a desire to stop financial support for the war, aligning with the statement against weapon deliveries to Ukraine.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states they do not want to provide more German tax money to prolong the war, which aligns with the statement against arms deliveries to Ukraine.",
+    "flags": []
+  },
+  {
+    "statement_id": "russia-sanctions",
+    "party": "SPD",
+    "position": "disagree",
+    "quote": "We brought the exploding energy prices resulting from the war against Ukraine under control – and quickly made Germany independent of Russian gas.",
+    "source": "SPD p.1",
+    "reasoning": "The SPD's manifesto states that they have made Germany independent of Russian gas, indicating opposition to resuming gas imports from Russia.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto explicitly states that they made Germany independent of Russian gas, indicating a disagreement with the idea of resuming gas imports from Russia.",
+    "flags": []
+  },
+  {
+    "statement_id": "russia-sanctions",
+    "party": "CDU",
+    "position": "disagree",
+    "quote": "The Russian Dictator has started a war that is challenging us as Europeans and members of NATO. There is no question: The turning point has arrived.",
+    "source": "CDU p.86",
+    "reasoning": "The passage clearly indicates a strong opposition to Russia due to its aggressive actions, suggesting a stance against resuming gas imports from Russia.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The passage clearly indicates a strong opposition to Russia due to the war initiated by the Russian leader, suggesting that Germany should not resume gas imports from Russia.",
+    "flags": []
+  },
+  {
+    "statement_id": "russia-sanctions",
+    "party": "AFD",
+    "position": "agree",
+    "quote": "Restoring uninterrupted trade with Russia includes the immediate lifting of economic sanctions against Russia and the repair of the Nord Stream pipelines.",
+    "source": "AFD p.24",
+    "reasoning": "The passage explicitly supports restoring trade with Russia, which includes resuming gas imports.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states the need to restore trade with Russia, including lifting sanctions and repairing pipelines, which aligns with the statement about resuming gas imports from Russia.",
+    "flags": []
+  },
+  {
+    "statement_id": "russia-sanctions",
+    "party": "FDP",
+    "position": "disagree",
+    "quote": "We demand that Russian war crimes, crimes against humanity and the crime of aggression be prosecuted. Furthermore, we consistently advocate economic sanctions, including the most extensive possible trade embargo, diplomatic measures, visa revocations against the Russian leadership and other responsible parties.",
+    "source": "FDP p.45",
+    "reasoning": "The passages clearly oppose resuming gas imports from Russia due to the condemnation of its actions and the call for sanctions.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly advocates for an EU-wide exit plan from Russian energy purchases and condemns the war in Ukraine, indicating a clear disagreement with resuming gas imports from Russia.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "russia-sanctions",
+    "party": "DL",
+    "position": "disagree",
+    "quote": "The phase-out of nuclear and coal must be followed by a phase-out of the combustion of fossil natural gas.",
+    "source": "DL p.46",
+    "reasoning": "The party's manifesto explicitly states a commitment to phasing out fossil natural gas, which contradicts the idea of resuming gas imports from Russia.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states a desire to phase out the combustion of fossil natural gas, indicating disagreement with the idea of resuming gas imports from Russia.",
+    "flags": []
+  },
+  {
+    "statement_id": "russia-sanctions",
+    "party": "DG",
+    "position": "disagree",
+    "quote": "We stand for a final rejection of gas extraction throughout Germany - on land and at sea.",
+    "source": "DG p.18",
+    "reasoning": "The passages clearly oppose the idea of resuming gas imports from Russia, emphasizing a commitment to phasing out fossil fuels.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states a final rejection of gas extraction throughout Germany, indicating disagreement with the idea of resuming gas imports from Russia.",
+    "flags": []
+  },
+  {
+    "statement_id": "russia-sanctions",
+    "party": "BSW",
+    "position": "agree",
+    "quote": "The German government should negotiate with Russia to obtain cheap natural gas again via the remaining section of the Nord Stream pipeline.",
+    "source": "BSW p.8",
+    "reasoning": "The passage explicitly states that the German government should negotiate with Russia for gas, indicating support for the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states that the German government should negotiate with Russia to obtain cheap natural gas again, which aligns with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "conscription",
+    "party": "SPD",
+    "position": "disagree",
+    "quote": "In view of the changed security situation, the SPD is planning to introduce a new, flexible military service. The new military service should be voluntary and geared to the needs of the Bundeswehr.",
+    "source": "SPD p.55",
+    "reasoning": "The SPD plans for a voluntary military service, which opposes the reintroduction of mandatory conscription.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The SPD explicitly states plans for a new, voluntary military service, indicating disagreement with reintroducing mandatory conscription.",
+    "flags": []
+  },
+  {
+    "statement_id": "conscription",
+    "party": "CDU",
+    "position": "agree",
+    "quote": "Introduce progressive military conscription. In the future, we are focusing on a compulsory social year, which we are considering together with progressive military conscription.",
+    "source": "CDU p.123",
+    "reasoning": "The passage explicitly mentions the introduction of progressive military conscription, which aligns with the statement about reintroducing compulsory military service.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly discusses the introduction of progressive military conscription, indicating support for reinstating compulsory military service.",
+    "flags": []
+  },
+  {
+    "statement_id": "conscription",
+    "party": "AFD",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not mention the reintroduction of conscription or military service, thus not providing a clear position on the statement.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "conscription",
+    "party": "FDP",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the issue of reintroducing conscription or military service, leaving the party's position on this statement unclear.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "conscription",
+    "party": "DL",
+    "position": "disagree",
+    "quote": "No stationing of US medium-range missiles in Germany and no further rearmament, but rather disarmament in Germany and Europe.",
+    "source": "DL p.30",
+    "reasoning": "The passages advocate for disarmament and oppose rearmament, which contradicts the idea of reintroducing military conscription.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto advocates for disarmament and explicitly opposes rearmament, which implies disagreement with reintroducing conscription.",
+    "flags": []
+  },
+  {
+    "statement_id": "conscription",
+    "party": "DG",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the issue of reintroducing conscription or military service, leaving the party's position on this statement unclear.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "conscription",
+    "party": "BSW",
+    "position": "disagree",
+    "quote": "We reject the deployment of German soldiers in international wars. We reject this as well as their stationing on the Russian border or in the South China Sea.",
+    "source": "BSW p.4",
+    "reasoning": "The passages clearly oppose the idea of reintroducing conscription by rejecting military deployments and emphasizing a defensive military stance.",
+    "verifier_position": "not_addressed",
+    "verifier_reasoning": "The passage discusses the party's stance on military deployment and defense but does not explicitly address the reintroduction of conscription.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "defence-spending",
+    "party": "SPD",
+    "position": "agree",
+    "quote": "We will therefore continue to advocate for sustainable defense funding of at least two percent of GDP in the future.",
+    "source": "SPD p.54",
+    "reasoning": "The SPD explicitly states their commitment to sustainable defense funding of at least two percent of GDP, which aligns with the statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The SPD advocates for defense spending of at least two percent of GDP, which contradicts the statement suggesting they should spend significantly more than that.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "defence-spending",
+    "party": "CDU",
+    "position": "agree",
+    "quote": "We see NATO's current two percent target as the lower limit of our defense spending in order to enable a fully operational Bundeswehr with full personnel and material resources.",
+    "source": "CDU p.121",
+    "reasoning": "The passage explicitly states that the two percent target is seen as a lower limit for defense spending, indicating support for increasing defense expenditure.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states that the two percent target is seen as the lower limit for defense spending, indicating support for spending more than that.",
+    "flags": []
+  },
+  {
+    "statement_id": "defence-spending",
+    "party": "AFD",
+    "position": "agree",
+    "quote": "In order to be able to fulfill the main mission of national and alliance defense again, our Bundeswehr must not only be well equipped financially, but must also be given back its operational readiness, particularly in terms of material and personnel.",
+    "source": "AFD p.22",
+    "reasoning": "The passage emphasizes the need for increased financial support to restore the Bundeswehr's operational readiness, aligning with the statement's call for higher defense spending.",
+    "verifier_position": "not_addressed",
+    "verifier_reasoning": "The passage discusses the need for better funding and operational readiness of the Bundeswehr but does not specify a percentage of GDP for defense spending.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "defence-spending",
+    "party": "FDP",
+    "position": "agree",
+    "quote": "We are committed to ensuring that Germany fully meets NATO requirements and objectives. This includes Germany meeting at least NATO's 2% target.",
+    "source": "FDP p.44",
+    "reasoning": "The passage explicitly states the commitment to meet NATO's 2% defense spending target, which aligns with the statement.",
+    "verifier_position": "neutral",
+    "verifier_reasoning": "The passage emphasizes meeting NATO's 2% target but does not explicitly advocate for spending significantly more than that.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "defence-spending",
+    "party": "DL",
+    "position": "disagree",
+    "quote": "We reject NATO's arms buildup target of 2 percent of GDP or even more. The \"special funds\" of the turning point should flow into civilian infrastructure.",
+    "source": "DL p.31",
+    "reasoning": "The passages clearly oppose increasing military spending to 2 percent of GDP, indicating a commitment to reducing military expenditure.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly rejects the NATO target of 2 percent of GDP for defense spending, indicating a disagreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "defence-spending",
+    "party": "DG",
+    "position": "agree",
+    "quote": "This requires reliable financing with a defense budget that permanently meets the goals and needs agreed in NATO and also defined nationally and permanently invests significantly more than 2 percent of gross domestic product in our security and defense capabilities.",
+    "source": "DG p.61",
+    "reasoning": "The passage explicitly states the need for a defense budget that exceeds 2 percent of GDP, supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states the need to invest significantly more than 2 percent of GDP in defense, aligning with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "defence-spending",
+    "party": "BSW",
+    "position": "disagree",
+    "quote": "We reject higher military spending, the fulfillment of NATO's two percent target or even higher spending, as well as further special assets or debt funds for the rearmament of the Bundeswehr or military aid.",
+    "source": "BSW p.5",
+    "reasoning": "The passages clearly oppose increasing military spending, including the NATO target.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly rejects higher military spending and the NATO two percent target, indicating a disagreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "eu-integration",
+    "party": "SPD",
+    "position": "agree",
+    "quote": "For us, an essential component of institutional reforms is to replace the principle of unanimity in the European Council and the Council of Ministers with the introduction of majority decisions.",
+    "source": "SPD p.57",
+    "reasoning": "The passage explicitly states the party's commitment to replacing unanimity with majority decisions in the EU.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states the party's support for replacing unanimity with majority decisions in the EU, aligning with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "eu-integration",
+    "party": "CDU",
+    "position": "neutral",
+    "quote": "The EU is strong when it acts in a united manner and finds common positions on important decisions.",
+    "source": "CDU p.112",
+    "reasoning": "The passage emphasizes the importance of unity and common positions in the EU but does not explicitly support or oppose the idea of majority decisions over unanimity.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that abstentions in key policy areas must no longer be allowed, indicating support for majority decisions over unanimity.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "eu-integration",
+    "party": "AFD",
+    "position": "disagree",
+    "quote": "The AfD demands an immediate halt to all borrowing by the EU: No unconstitutional communitisation from Debt, no ideological and centralist monetary and economic policy and a return to capital allocation via functioning markets.",
+    "source": "AFD p.17",
+    "reasoning": "The AfD's position against EU centralization and borrowing indicates a disagreement with majority decision-making in the EU.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The AfD's manifesto emphasizes a rejection of EU borrowing and centralization, which aligns with opposing majority decisions in favor of unanimity.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "eu-integration",
+    "party": "FDP",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the issue of majority decisions versus unanimity in the EU, so there is insufficient information to determine the party's position on the statement.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "eu-integration",
+    "party": "DL",
+    "position": "neutral",
+    "quote": "Fundamental decisions must be made by the European Parliament - not by executive bodies such as the Commission, Eurogroup or Council.",
+    "source": "DL p.32",
+    "reasoning": "The passages discuss the need for more democratic processes in the EU but do not explicitly support or oppose the idea of majority decisions over unanimity.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party emphasizes that fundamental decisions should be made by the European Parliament rather than through majority voting, indicating a preference for maintaining the current system of decision-making.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "eu-integration",
+    "party": "DG",
+    "position": "agree",
+    "quote": "That is why we want to strengthen, expand and reform the EU.",
+    "source": "DG p.40",
+    "reasoning": "The passage expresses a desire to strengthen and reform the EU, which aligns with the idea of introducing majority decisions instead of unanimity.",
+    "verifier_position": "not_addressed",
+    "verifier_reasoning": "The passage discusses the need to strengthen and reform the EU but does not explicitly mention a preference for majority decisions over unanimity.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "eu-integration",
+    "party": "BSW",
+    "position": "disagree",
+    "quote": "We do not want a further centralisation of power in the EU Commission, but a shift of competences back to the Member States.",
+    "source": "BSW p.7",
+    "reasoning": "The passage clearly opposes the idea of majority decisions in the EU, advocating instead for a decentralization of power back to member states.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states a desire to avoid further centralization of power in the EU, which aligns with disagreeing with the introduction of majority decisions.",
+    "flags": []
+  },
+  {
+    "statement_id": "nuclear-power",
+    "party": "SPD",
+    "position": "disagree",
+    "quote": "Wind power and photovoltaics are already the cheapest form of electricity production. Their consistent expansion and the integration of storage systems will make our energy supply secure and permanently affordable.",
+    "source": "SPD p.31",
+    "reasoning": "The SPD manifesto emphasizes renewable energy sources like wind and solar, opposing the use of nuclear power.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's emphasis on renewable energy sources like wind and solar power suggests a clear opposition to the use of nuclear power.",
+    "flags": []
+  },
+  {
+    "statement_id": "nuclear-power",
+    "party": "CDU",
+    "position": "neutral",
+    "quote": "Nuclear energy is an option. This plays an important role, particularly with regard to climate goals and security of supply. We are focusing on research into fourth and fifth generation nuclear energy, small modular reactors and fusion power plants.",
+    "source": "CDU p.45",
+    "reasoning": "The passages indicate that nuclear energy is considered an option and that research is ongoing, but do not explicitly state a clear position on resuming operations of nuclear power plants.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage indicates that the CDU/CSU sees nuclear energy as a viable option and is exploring the possibility of resuming operations of recently shut down nuclear power plants, which aligns with supporting the statement.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "nuclear-power",
+    "party": "AFD",
+    "position": "agree",
+    "quote": "Returning to the use of nuclear energy",
+    "source": "AFD p.2",
+    "reasoning": "The manifesto explicitly states a commitment to returning to the use of nuclear energy, which directly supports the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that the party supports 'returning to the use of nuclear energy', which aligns with the statement about allowing the use of nuclear power plants.",
+    "flags": []
+  },
+  {
+    "statement_id": "nuclear-power",
+    "party": "FDP",
+    "position": "agree",
+    "quote": "We want to facilitate the recommissioning of existing nuclear power plants legally and leave the decision to the operators.",
+    "source": "FDP p.14",
+    "reasoning": "The passage indicates support for the recommissioning of nuclear power plants, aligning with the statement that Germany should allow the use of nuclear power.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states the party's intention to facilitate the recommissioning of existing nuclear power plants, indicating support for the use of nuclear energy.",
+    "flags": []
+  },
+  {
+    "statement_id": "nuclear-power",
+    "party": "DL",
+    "position": "disagree",
+    "quote": "We are committed to phasing out nuclear power in Europe and all over the world.",
+    "source": "DL p.46",
+    "reasoning": "The passages clearly oppose the use of nuclear power, advocating for its phase-out instead.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states its commitment to phasing out nuclear power, which directly contradicts the statement advocating for the allowance of nuclear power plants.",
+    "flags": []
+  },
+  {
+    "statement_id": "nuclear-power",
+    "party": "DG",
+    "position": "disagree",
+    "quote": "A return to nuclear power is neither necessary for achieving climate targets nor for security of supply - in any case, new nuclear power plants are not a realistic option due to the extremely long planning and construction times, the high financial risks and the perpetual costs.",
+    "source": "DG p.18",
+    "reasoning": "The passages clearly oppose the idea of allowing nuclear power again.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states that a return to nuclear power is neither necessary nor realistic, indicating a clear disagreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "nuclear-power",
+    "party": "BSW",
+    "position": "disagree",
+    "quote": "We reject the construction of new conventional nuclear power plants. The same currently applies to mini power plants (SMR), the operation of which generates up to 30 times more radioactive waste than conventional reactors.",
+    "source": "BSW p.10",
+    "reasoning": "The passages clearly oppose the construction of new nuclear power plants.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly rejects the construction of new nuclear power plants, indicating a disagreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "heating-law",
+    "party": "SPD",
+    "position": "disagree",
+    "quote": "We are clearly committed to the climate goals for Germany and the EU. We must limit the increase in the global average temperature to well below two degrees Celsius and, if possible, lead to a 1.5 degree path.",
+    "source": "SPD p.30",
+    "reasoning": "The SPD's commitment to climate goals suggests they would oppose the abolition of the building energy law.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's commitment to climate goals and support for climate-neutral energy supply indicates they would disagree with abolishing the Gebäudeenergiegesetz.",
+    "flags": []
+  },
+  {
+    "statement_id": "heating-law",
+    "party": "CDU",
+    "position": "agree",
+    "quote": "We are abolishing the traffic light heating law.",
+    "source": "CDU p.47",
+    "reasoning": "The passages explicitly state the intention to abolish the traffic light heating law, which aligns with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states they are abolishing the 'traffic light heating law', which aligns with the statement that the Gebäudeenergiegesetz (Heizungsgesetz) should be abolished.",
+    "flags": []
+  },
+  {
+    "statement_id": "heating-law",
+    "party": "AFD",
+    "position": "agree",
+    "quote": "Excessive legal requirements for building and tenancy law, such as the so-called Heating Act, are hindering the construction of affordable housing. We will free housing construction from these shackles so that in the future every citizen will be able to afford an apartment or a house again.",
+    "source": "AFD p.3",
+    "reasoning": "The passage explicitly mentions the Heating Act as an excessive legal requirement hindering housing construction, indicating support for its abolition.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states that the Heating Act is hindering affordable housing and expresses a desire to abolish it.",
+    "flags": []
+  },
+  {
+    "statement_id": "heating-law",
+    "party": "FDP",
+    "position": "agree",
+    "quote": "The Heating Act with its excessive requirements must be completely phased out.",
+    "source": "FDP p.41",
+    "reasoning": "The passage explicitly states that the FDP wants to phase out the Heating Act, which aligns with the statement advocating for the abolition of the Building Energy Act.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states that the Heating Act must be completely phased out, which aligns with the statement that it should be abolished.",
+    "flags": []
+  },
+  {
+    "statement_id": "heating-law",
+    "party": "DL",
+    "position": "disagree",
+    "quote": "The traffic light coalition's heating law has divided society because it ignored people's concerns and gave the right the opportunity to play ecological and social issues off against each other.",
+    "source": "DL p.47",
+    "reasoning": "The passage criticizes the current heating law, indicating a preference for reform rather than outright abolition.",
+    "verifier_position": "not_addressed",
+    "verifier_reasoning": "The passage criticizes the heating law but does not explicitly state that it should be abolished, indicating a neutral stance rather than outright disagreement.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "heating-law",
+    "party": "DG",
+    "position": "disagree",
+    "quote": "With the existing Building Energy Act and a subsidy of up to 70 percent for the installation of fossil-free heating systems, we are giving homeowners, businesses, tenants and landlords the necessary planning security for the purchase and installation of modern, climate-friendly heating systems, such as heat pumps, by 2045.",
+    "source": "DG p.19",
+    "reasoning": "The passages support the continuation and expansion of the Building Energy Act, indicating a commitment to climate-friendly heating solutions.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The passage clearly supports the continuation and expansion of the Building Energy Act, indicating a disagreement with the statement that it should be abolished.",
+    "flags": []
+  },
+  {
+    "statement_id": "heating-law",
+    "party": "BSW",
+    "position": "agree",
+    "quote": "Another negative example is the ill-conceived heating law, which hardly brings any CO2 savings, but not only causes homeowners to incur high acquisition costs, but also extremely high conversion costs if the heat pump is able to heat the house halfway efficiently.",
+    "source": "BSW p.8",
+    "reasoning": "The passage explicitly states a desire to abolish the heating law, indicating agreement with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states the party's desire to abolish the heating law, indicating agreement with the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "combustion-ban",
+    "party": "SPD",
+    "position": "neutral",
+    "quote": "For those who drive a combustion engine today, we want to make it attractive to switch to an electric car the next time they buy or lease a car.",
+    "source": "SPD p.33",
+    "reasoning": "The SPD expresses a desire to encourage the transition to electric vehicles but does not explicitly support a ban on new combustion engine cars by 2035.",
+    "verifier_position": "not_addressed",
+    "verifier_reasoning": "The passage discusses promoting electric vehicles and improving infrastructure but does not explicitly state a position on banning the sale of new combustion engine vehicles by 2035.",
+    "flags": [
+      "quote_not_verbatim",
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "combustion-ban",
+    "party": "CDU",
+    "position": "disagree",
+    "quote": "The ban on combustion engines must be reversed.",
+    "source": "CDU p.176",
+    "reasoning": "The passages clearly oppose the idea of banning combustion engine vehicles, indicating a commitment to maintaining their use.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states that the ban on combustion engines must be reversed, indicating a disagreement with the proposed ban on new combustion engine vehicles.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "combustion-ban",
+    "party": "AFD",
+    "position": "disagree",
+    "quote": "the continued existence of the combustion engine... must not be based on ideological prohibition policies.",
+    "source": "AFD p.2",
+    "reasoning": "The AfD manifesto explicitly opposes the prohibition of combustion engines, indicating a clear disagreement with the statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The passage clearly states that the AfD opposes ideological prohibition policies regarding the combustion engine, indicating disagreement with a ban on new combustion engine vehicles.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "combustion-ban",
+    "party": "FDP",
+    "position": "disagree",
+    "quote": "That is why we are committed to an immediate lifting of the de facto ban on combustion engines from 2035 and an innovation-friendly regulation of the removal, use and storage of greenhouse gases.",
+    "source": "FDP p.36",
+    "reasoning": "The FDP explicitly opposes a ban on combustion engines, indicating a clear disagreement with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party's manifesto explicitly states a commitment to lifting the ban on combustion engines, indicating they disagree with the statement that Germany should ban the sale of new combustion engine vehicles by 2035.",
+    "flags": [
+      "quote_not_verbatim",
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "combustion-ban",
+    "party": "DL",
+    "position": "agree",
+    "quote": "That is why the focus on e-cars is the right thing to do. Consumers and industry need long-term planning security, which is why we are sticking to the phasing out of new car sales for combustion engines in accordance with the current EU directive.",
+    "source": "DL p.51",
+    "reasoning": "The passage explicitly supports phasing out new car sales for combustion engines, aligning with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their commitment to phasing out new car sales for combustion engines, aligning with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "combustion-ban",
+    "party": "DG",
+    "position": "agree",
+    "quote": "Globally, the competition between combustion engines and electric cars has long been decided. For companies in the automotive industry, planning security is crucial: that we stick to only allowing new climate-friendly drives from 2035 onwards.",
+    "source": "DG p.9",
+    "reasoning": "The passage explicitly states the intention to only allow new climate-friendly drives from 2035, which supports the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states that they support only allowing new climate-friendly drives from 2035 onwards, which aligns with the statement about banning the sale of new combustion engine vehicles.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "combustion-ban",
+    "party": "BSW",
+    "position": "disagree",
+    "quote": "We want to demand the repeal of the combustion engine ban and the heating law.",
+    "source": "BSW p.8",
+    "reasoning": "The party explicitly states a desire to repeal the combustion engine ban, indicating opposition to the proposed ban on new combustion engine vehicles.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states they want to repeal the combustion engine ban, indicating disagreement with the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "climate-target",
+    "party": "SPD",
+    "position": "disagree",
+    "quote": "We are clearly committed to the climate goals for Germany and the EU. We must limit the increase in the global average temperature to well below two degrees Celsius and, if possible, lead to a 1.5 degree path.",
+    "source": "SPD p.30",
+    "reasoning": "The SPD's commitment to specific climate goals contradicts the idea of delaying climate neutrality beyond 2045.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's commitment to climate goals and the urgency of achieving climate neutrality contradicts the idea of delaying the timeline beyond 2045.",
+    "flags": []
+  },
+  {
+    "statement_id": "climate-target",
+    "party": "CDU",
+    "position": "disagree",
+    "quote": "We have our sights firmly set on 2045.",
+    "source": "CDU p.50",
+    "reasoning": "The CDU/CSU manifesto explicitly states a commitment to achieving climate neutrality by 2045, which contradicts the statement suggesting a longer timeline.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states they are focused on achieving climate neutrality by 2045, indicating they do not support taking more time than that.",
+    "flags": []
+  },
+  {
+    "statement_id": "climate-target",
+    "party": "AFD",
+    "position": "disagree",
+    "quote": "The AfD therefore rejects any policy and any tax that claims to protect the climate, because humans cannot protect the climate.",
+    "source": "AFD p.20",
+    "reasoning": "The AfD's manifesto explicitly rejects climate policies aimed at achieving climate neutrality, indicating a disagreement with the statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The AfD explicitly rejects climate policies and timelines aimed at achieving climate neutrality, indicating a disagreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "climate-target",
+    "party": "FDP",
+    "position": "agree",
+    "quote": "We want to replace the target of climate neutrality by 2045 in the German Climate Protection Act with the European target of climate neutrality by 2050. This gives companies, especially energy-intensive industries, more time to switch to climate-friendly technologies.",
+    "source": "FDP p.36",
+    "reasoning": "The passage explicitly states a preference for a later target of climate neutrality by 2050 instead of 2045.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states a preference for extending the timeline for climate neutrality to 2050, which aligns with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "climate-target",
+    "party": "DL",
+    "position": "disagree",
+    "quote": "We want to make Germany climate-neutral by 2040.",
+    "source": "DL p.44",
+    "reasoning": "The passages clearly state a commitment to achieving climate neutrality by 2040, which contradicts the statement suggesting a longer timeline.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states they want to make Germany climate-neutral by 2040, which contradicts the statement advocating for a longer timeline.",
+    "flags": []
+  },
+  {
+    "statement_id": "climate-target",
+    "party": "DG",
+    "position": "disagree",
+    "quote": "We are therefore sticking to the legally stipulated goals of climate neutrality by 2045 and the binding interim targets.",
+    "source": "DG p.16",
+    "reasoning": "The passages clearly state a commitment to achieving climate neutrality by 2045, opposing the idea of taking more time.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states they are committed to achieving climate neutrality by 2045, which contradicts the statement suggesting they should take more time.",
+    "flags": []
+  },
+  {
+    "statement_id": "climate-target",
+    "party": "BSW",
+    "position": "agree",
+    "quote": "We call for a departure from the wishful thinking of quickly achieving complete climate neutrality. This is because it leads to the requirement that only technologies based on 100% renewable energy are sustainable.",
+    "source": "BSW p.8",
+    "reasoning": "The passage indicates a preference for a slower approach to achieving climate neutrality, aligning with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party advocates for a slower transition to climate neutrality, emphasizing the need for realistic and sustainable energy solutions rather than a rapid shift to 100% renewable energy.",
+    "flags": []
+  },
+  {
+    "statement_id": "co2-price",
+    "party": "SPD",
+    "position": "neutral",
+    "quote": "We are convinced that climate protection must be affordable. Everyone must be able to live and participate in a climate-neutral way, regardless of income, wealth or place of residence.",
+    "source": "SPD p.30",
+    "reasoning": "The passages discuss affordability and accessibility in climate protection but do not explicitly support or oppose the specific proposal of distributing CO2 price revenues as climate money.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage emphasizes the importance of making climate protection affordable for everyone, which aligns with the idea of distributing CO2 price revenues as climate money to all citizens.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "co2-price",
+    "party": "CDU",
+    "position": "neutral",
+    "quote": "We are expanding CO2 pricing to become the leading instrument in the mix of instruments and returning the revenues to consumers and businesses.",
+    "source": "CDU p.51",
+    "reasoning": "The passages indicate a return of CO2 revenues to consumers but do not explicitly support the idea of distributing it as a 'Klimageld' per capita.",
+    "verifier_position": "not_addressed",
+    "verifier_reasoning": "The passage discusses CO2 pricing and returning revenues to consumers and businesses but does not explicitly support or oppose the specific idea of distributing it as 'Klimageld' per capita.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "co2-price",
+    "party": "AFD",
+    "position": "disagree",
+    "quote": "The AfD therefore rejects any policy and any tax that claims to protect the climate, because humans cannot protect the climate.",
+    "source": "AFD p.20",
+    "reasoning": "The AfD explicitly rejects climate-related taxes and policies, which includes the CO2 price mentioned in the statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The AfD explicitly rejects any policy or tax aimed at climate protection, which includes the CO2 price and its proposed redistribution as climate money.",
+    "flags": []
+  },
+  {
+    "statement_id": "co2-price",
+    "party": "FDP",
+    "position": "agree",
+    "quote": "We Free Democrats want to introduce a climate dividend in order to pay revenue from emissions trading back to citizens directly and at a flat rate per capita.",
+    "source": "FDP p.36",
+    "reasoning": "The passage explicitly states the intention to pay back revenue from emissions trading to citizens, which aligns with the statement about CO2 pricing and climate money.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their intention to introduce a climate dividend that pays revenue from emissions trading back to citizens at a flat rate per capita, which directly supports the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "co2-price",
+    "party": "DL",
+    "position": "agree",
+    "quote": "The Left therefore wants to introduce a social climate allowance of 320 euros per person per year as a direct payment, retroactive to January 1, 2025. Greenpeace has calculated that this can be financed from current CO2 revenues.",
+    "source": "DL p.4",
+    "reasoning": "The passage explicitly supports the idea of distributing CO2 revenue as a direct payment to citizens.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their intention to introduce a social climate allowance, which aligns with the statement about CO2 revenue being paid out to citizens.",
+    "flags": []
+  },
+  {
+    "statement_id": "co2-price",
+    "party": "DG",
+    "position": "agree",
+    "quote": "We make a security promise: All people with low and middle incomes will receive a large part of the revenue from the CO2 pricing of building heating and transport as climate money.",
+    "source": "DG p.17",
+    "reasoning": "The passage explicitly states that revenue from CO2 pricing will be distributed as climate money to citizens, supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that low and middle-income individuals will receive a significant portion of CO2 pricing revenue as climate money, aligning with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "co2-price",
+    "party": "BSW",
+    "position": "disagree",
+    "quote": "Instead of relying on the CO2 price, we want to enable technological change by promoting innovation and providing targeted incentives. - We want to abolish the CO2 price, which makes everything more expensive without offering any alternatives for most people.",
+    "source": "BSW p.9",
+    "reasoning": "The passages clearly oppose the idea of a CO2 price, indicating a disagreement with the statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states their intention to abolish the CO2 price, which contradicts the idea of distributing CO2 revenue as climate money to citizens.",
+    "flags": []
+  },
+  {
+    "statement_id": "speed-limit",
+    "party": "SPD",
+    "position": "agree",
+    "quote": "We want to introduce a speed limit of 130 km/h on federal motorways. A speed limit has so many advantages that it is almost impossible to justify not introducing it.",
+    "source": "SPD p.33",
+    "reasoning": "The passage explicitly states the party's intention to introduce a speed limit of 130 km/h on federal motorways.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their intention to introduce a speed limit of 130 km/h on federal motorways, indicating agreement with the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "speed-limit",
+    "party": "CDU",
+    "position": "disagree",
+    "quote": "We reject anti-car attitudes, driving bans in inner cities, the repurposing of parking spaces and a general speed limit on German motorways.",
+    "source": "CDU p.176",
+    "reasoning": "The passages clearly oppose the idea of a general speed limit on German motorways.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly rejects a general speed limit on German motorways, indicating disagreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "speed-limit",
+    "party": "AFD",
+    "position": "disagree",
+    "quote": "The AfD strictly rejects a general speed limit on federal motorways.",
+    "source": "AFD p.6",
+    "reasoning": "The passage explicitly states the AfD's opposition to a general speed limit, indicating a clear disagreement with the statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states that it strictly rejects a general speed limit on federal motorways.",
+    "flags": []
+  },
+  {
+    "statement_id": "speed-limit",
+    "party": "FDP",
+    "position": "disagree",
+    "quote": "We Free Democrats reject a general speed limit on motorways.",
+    "source": "FDP p.37",
+    "reasoning": "The passage explicitly states the party's rejection of a general speed limit on motorways, indicating a clear opposition to the proposed statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states that they reject a general speed limit on motorways, which directly supports the position of disagreeing with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "speed-limit",
+    "party": "DL",
+    "position": "agree",
+    "quote": "To protect people and the climate, we finally need a speed limit of 120 km/h on motorways and 30 km/h in towns - except on main traffic routes.",
+    "source": "DL p.51",
+    "reasoning": "The passage explicitly supports the implementation of a speed limit on motorways, which aligns with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states the need for a speed limit of 120 km/h on motorways, which aligns with the statement of introducing a speed limit of 130 km/h.",
+    "flags": []
+  },
+  {
+    "statement_id": "speed-limit",
+    "party": "DG",
+    "position": "agree",
+    "quote": "Germany is the only country in the world that allows unlimited speeding on motorways - to the detriment of human life and the environment. A safety speed limit of 130 km/h on motorways as a general Speed limits are therefore overdue.",
+    "source": "DG p.20",
+    "reasoning": "The passage explicitly supports the introduction of a speed limit of 130 km/h on motorways.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states that a safety speed limit of 130 km/h on motorways is overdue, indicating their support for the implementation of such a limit.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "speed-limit",
+    "party": "BSW",
+    "position": "disagree",
+    "quote": "We want to put an end to the anti-car attitude that the Greens in particular stand for in transport policy. Making driving more and more expensive is inconsiderate towards those who depend on their cars.",
+    "source": "BSW p.27",
+    "reasoning": "The passages emphasize support for car use and oppose measures that would make driving more expensive, such as a speed limit.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto emphasizes an anti-regulation stance towards driving and a preference for maintaining low costs for motorists, which implies opposition to a speed limit.",
+    "flags": []
+  },
+  {
+    "statement_id": "deutschlandticket",
+    "party": "SPD",
+    "position": "agree",
+    "quote": "We want to offer the Deutschlandticket permanently. The low price and ease of use are the ticket's recipe for success - we want the price to remain at its current level permanently. To this end, we will finance the ticket adequately together with the states.",
+    "source": "SPD p.32",
+    "reasoning": "The passages clearly support the idea of permanent federal co-financing for the Deutschlandticket.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states the party's intention to finance the Deutschlandticket adequately and maintain its low price permanently, indicating agreement with the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "deutschlandticket",
+    "party": "CDU",
+    "position": "neutral",
+    "quote": "Make public transport more attractive and reliable. It is important to have a needs-based and future-proof local public transport system. This also includes a reliable and robust infrastructure and an attractive range of services in town and country.",
+    "source": "CDU p.176",
+    "reasoning": "The passage discusses improving public transport but does not explicitly support or oppose the idea of permanent federal funding for the Deutschlandticket.",
+    "verifier_position": "not_addressed",
+    "verifier_reasoning": "The passage discusses the importance of public transport but does not explicitly state a position on the permanent federal funding of the Deutschlandticket.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "deutschlandticket",
+    "party": "AFD",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the specific issue of the Deutschlandticket or its funding by the federal government.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "deutschlandticket",
+    "party": "FDP",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not specifically address the issue of permanent federal funding for the Deutschlandticket.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "deutschlandticket",
+    "party": "DL",
+    "position": "agree",
+    "quote": "We want to reduce the price of the Deutschlandticket again to 9 euros. The Deutschlandticket will be free for schoolchildren, trainees, senior citizens and students.",
+    "source": "DL p.3",
+    "reasoning": "The passage indicates a commitment to reducing the cost of the Deutschlandticket, aligning with the idea of federal co-financing.",
+    "verifier_position": "not_addressed",
+    "verifier_reasoning": "The passage discusses reducing the price of the Deutschlandticket and making it free for certain groups, but it does not explicitly state that the Bund should permanently co-finance it.",
+    "flags": [
+      "quote_not_verbatim",
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "deutschlandticket",
+    "party": "DG",
+    "position": "agree",
+    "quote": "We want to continue this success story and continue to offer the Deutschlandticket at a reasonable price for everyone. Our goal is to ensure a ticket price of 49 euros together with the states. We will continue to improve local transport services in Germany in order to double the number of passengers on climate-neutral buses and trains by 2040.",
+    "source": "DG p.21",
+    "reasoning": "The passages express a commitment to maintaining and improving the Deutschlandticket, indicating support for its continued federal funding.",
+    "verifier_position": "neutral",
+    "verifier_reasoning": "The passage discusses the desire to maintain the Deutschlandticket at a reasonable price and improve local transport, but does not explicitly state that it should be permanently funded by the federal government.",
+    "flags": [
+      "quote_not_verbatim",
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "deutschlandticket",
+    "party": "BSW",
+    "position": "agree",
+    "quote": "We are committed to lower prices for buses and trains and to maintaining the Germany Ticket at an affordable price.",
+    "source": "BSW p.27",
+    "reasoning": "The passage explicitly states a commitment to maintaining the Germany Ticket at an affordable price, which aligns with the idea of it being permanently co-financed by the federal government.",
+    "verifier_position": "neutral",
+    "verifier_reasoning": "The passage emphasizes maintaining affordable public transport but does not explicitly support permanent federal funding for the Deutschlandticket.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "cannabis",
+    "party": "SPD",
+    "position": "disagree",
+    "quote": "In the case of cannabis, in order to improve health protection, the protection of minors and the fight against organised crime, we want to take the necessary steps to enable legalisation in accordance with European law.",
+    "source": "SPD p.43",
+    "reasoning": "The SPD manifesto explicitly states a commitment to legalizing cannabis.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto explicitly states a desire to enable legalization of cannabis, indicating a disagreement with the statement that legalization should be reversed.",
+    "flags": []
+  },
+  {
+    "statement_id": "cannabis",
+    "party": "CDU",
+    "position": "agree",
+    "quote": "We are therefore reversing the legalization of this drug.",
+    "source": "CDU p.89",
+    "reasoning": "The passage explicitly states the intention to reverse the legalization of cannabis, clearly supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states they are reversing the legalization of cannabis, which aligns with the claim of agreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "cannabis",
+    "party": "AFD",
+    "position": "agree",
+    "quote": "We consider the approval of cannabis consumption outside of certain medical indications to be a mistake that must be corrected immediately.",
+    "source": "AFD p.13",
+    "reasoning": "The passage explicitly states that the party views the approval of cannabis consumption as a mistake that should be reversed.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states that they consider the legalization of cannabis outside of medical indications to be a mistake that should be corrected, indicating agreement with the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "cannabis",
+    "party": "FDP",
+    "position": "disagree",
+    "quote": "We therefore remain committed to the legalization of cannabis.",
+    "source": "FDP p.30",
+    "reasoning": "The passage explicitly states the party's commitment to the legalization of cannabis, which directly contradicts the statement that it should be reversed.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states their commitment to the legalization of cannabis, indicating they do not support reversing it.",
+    "flags": []
+  },
+  {
+    "statement_id": "cannabis",
+    "party": "DL",
+    "position": "disagree",
+    "quote": "We want to achieve complete legalization of cannabis and push through the necessary changes at EU and UN level.",
+    "source": "DL p.27",
+    "reasoning": "The passages clearly advocate for the complete legalization of cannabis, which directly contradicts the statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states their intention to achieve complete legalization of cannabis, which contradicts the statement that legalization should be reversed.",
+    "flags": []
+  },
+  {
+    "statement_id": "cannabis",
+    "party": "DG",
+    "position": "disagree",
+    "quote": "With the Cannabis Act, we have placed the protection of health, young people and consumers at the centre and are focusing on reason instead of criminalisation. This change in drug policy, which focuses on the ability to deal with risks independently, we want to continue.",
+    "source": "DG p.38",
+    "reasoning": "The passages clearly advocate for the legalization and regulation of cannabis, opposing any reversal of its legalization.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto explicitly supports the legalization of cannabis and emphasizes a focus on health and consumer protection, indicating disagreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "cannabis",
+    "party": "BSW",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the topic of cannabis legalization or its repeal, thus providing no clear position on the statement.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "abortion",
+    "party": "SPD",
+    "position": "agree",
+    "quote": "We will decriminalize abortion and regulate it outside of criminal law - except when it is carried out against or without the will of the pregnant woman. We want to make abortion a part of basic medical care.",
+    "source": "SPD p.45",
+    "reasoning": "The passage explicitly states the intention to decriminalize abortion, aligning with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their intention to decriminalize abortion and regulate it outside of criminal law, which aligns with the statement that abortion should be removed from criminal law.",
+    "flags": []
+  },
+  {
+    "statement_id": "abortion",
+    "party": "CDU",
+    "position": "disagree",
+    "quote": "Paragraph 218 remains. The current legal situation regarding abortion represents a laboriously found social compromise that takes into account the woman's right to self-determination and the protection of the unborn child. We stand by this legal situation.",
+    "source": "CDU p.150",
+    "reasoning": "The passage explicitly states that the current legal situation regarding abortion (Paragraph 218) will remain, indicating opposition to removing abortion from criminal law.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states that they support the current legal situation regarding abortion, which indicates disagreement with the removal of abortion from criminal law.",
+    "flags": []
+  },
+  {
+    "statement_id": "abortion",
+    "party": "AFD",
+    "position": "disagree",
+    "quote": "The right to life is a fundamental human right. Without this right, no other human right can be claimed. Fertilization turns the egg cell into a human embryo. The unborn child's right to life is diametrically opposed to the mother's wish for an abortion.",
+    "source": "AFD p.38",
+    "reasoning": "The passages clearly oppose the removal of abortion from criminal law, emphasizing the unborn child's right to life.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto clearly states that abortion should remain an exception and emphasizes the unborn child's right to life, indicating a disagreement with the removal of abortion from criminal law.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "abortion",
+    "party": "FDP",
+    "position": "agree",
+    "quote": "A reform of the regulations on abortion (§§218, 218a StGB) should be discussed in the next Bundestag by means of so-called cross-party group motions with freedom of conscience for every member of parliament.",
+    "source": "FDP p.25",
+    "reasoning": "The passage indicates a desire to reform abortion regulations, aligning with the statement to remove abortion from criminal law.",
+    "verifier_position": "neutral",
+    "verifier_reasoning": "The passage discusses the need for reforming abortion regulations but does not explicitly state that abortion should be removed from criminal law.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "abortion",
+    "party": "DL",
+    "position": "agree",
+    "quote": "Therefore, the decision against pregnancy must be possible without constraints, obstacles and stigmatization. Section 218 of the Criminal Code must be deleted without replacement.",
+    "source": "DL p.67",
+    "reasoning": "The passage explicitly states the need to remove Section 218 from the Criminal Code, which aligns with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that Section 218 of the Criminal Code must be deleted, indicating agreement with the removal of abortion from criminal law.",
+    "flags": []
+  },
+  {
+    "statement_id": "abortion",
+    "party": "DG",
+    "position": "agree",
+    "quote": "Self-determination over one's own body is a basic right that must apply to everyone. This includes the right to access safe and legal abortions. We want self-determined abortions to be regulated outside of criminal law.",
+    "source": "DG p.47",
+    "reasoning": "The passage explicitly states the desire to regulate abortions outside of criminal law, supporting the removal of abortion from criminal law.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that self-determined abortions should be regulated outside of criminal law, indicating agreement with the removal of abortion from criminal law.",
+    "flags": []
+  },
+  {
+    "statement_id": "abortion",
+    "party": "BSW",
+    "position": "agree",
+    "quote": "The free, self-determined decision about one's own body and about whether or not to have a child must be guaranteed. The BSW demands that abortion should be exempt from punishment in principle up to the 12th week of pregnancy.",
+    "source": "BSW p.31",
+    "reasoning": "The passage explicitly states that abortion should be exempt from punishment, supporting the removal of abortion from criminal law.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states that abortion should be exempt from punishment, aligning with the statement that it should be removed from criminal law.",
+    "flags": []
+  },
+  {
+    "statement_id": "self-determination",
+    "party": "SPD",
+    "position": "disagree",
+    "quote": "The SPD stands behind the Self-Determination Act and the queer political achievements to date. There will be no turning back with us.",
+    "source": "SPD p.46",
+    "reasoning": "The SPD explicitly supports the Self-Determination Act, indicating a clear opposition to its abolition.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The SPD explicitly supports the Self-Determination Act, indicating they disagree with the statement advocating for its abolition.",
+    "flags": []
+  },
+  {
+    "statement_id": "self-determination",
+    "party": "CDU",
+    "position": "agree",
+    "quote": "The self-determination law of the traffic light coalition allows children and young people to change their gender entry and first name without an expert opinion or advice or a court decision. We firmly reject this.",
+    "source": "CDU p.151",
+    "reasoning": "The passage explicitly states the party's rejection of the self-determination law, indicating agreement with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their rejection of the self-determination law, indicating agreement with the statement that it should be abolished.",
+    "flags": []
+  },
+  {
+    "statement_id": "self-determination",
+    "party": "AFD",
+    "position": "agree",
+    "quote": "The Self-Determination Act, which replaced the Transsexual Act of 1980 on November 1, 2024, must be repealed in its entirety.",
+    "source": "AFD p.39",
+    "reasoning": "The passage explicitly states that the AfD demands the repeal of the Self-Determination Act, which aligns with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states that the Self-Determination Act must be repealed in its entirety, indicating agreement with the statement that it should be abolished.",
+    "flags": []
+  },
+  {
+    "statement_id": "self-determination",
+    "party": "FDP",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the specific statement regarding the abolition of the self-determination law for gender entry.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "self-determination",
+    "party": "DL",
+    "position": "disagree",
+    "quote": "The Self-Determination Act (SBGG) is inadequate in its current form and must be improved.",
+    "source": "DL p.68",
+    "reasoning": "The party's manifesto indicates that they believe the Self-Determination Act needs improvement, which suggests they do not support its abolition.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states that the Self-Determination Act is inadequate and needs improvement, indicating a disagreement with the idea of abolishing it.",
+    "flags": []
+  },
+  {
+    "statement_id": "self-determination",
+    "party": "DG",
+    "position": "disagree",
+    "quote": "Queer people have a right to good and non-discriminatory health care. Therefore, there should be a right to medical measures necessary for a transition, and the costs should be covered by health insurance companies, and counseling services should be expanded.",
+    "source": "DG p.48",
+    "reasoning": "The passages advocate for the rights and healthcare of queer individuals, indicating opposition to the abolition of self-determination laws.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party's manifesto advocates for the rights and healthcare of queer individuals, which implies support for the self-determination law rather than its abolition.",
+    "flags": []
+  },
+  {
+    "statement_id": "self-determination",
+    "party": "BSW",
+    "position": "disagree",
+    "quote": "We expressly reject this law. For the few who really need it for a happy life, changing their gender identity should be possible without discrimination and with a medical certificate.",
+    "source": "BSW p.32",
+    "reasoning": "The passage clearly states the BSW's rejection of the self-determination law, indicating opposition to the statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states their rejection of the self-determination law, indicating a disagreement with its continuation.",
+    "flags": []
+  },
+  {
+    "statement_id": "voting-age",
+    "party": "SPD",
+    "position": "agree",
+    "quote": "From the age of 16, young people should be able to participate in decision-making, which is why we are lowering the voting age.",
+    "source": "SPD p.24",
+    "reasoning": "The passage explicitly states the intention to lower the voting age to 16, directly supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that young people should be able to participate in decision-making from the age of 16, which supports the claim of lowering the voting age.",
+    "flags": []
+  },
+  {
+    "statement_id": "voting-age",
+    "party": "CDU",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the issue of lowering the voting age to 16, so there is not enough information to determine the party's position on this statement.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "voting-age",
+    "party": "AFD",
+    "position": "disagree",
+    "quote": "We reject lowering the voting age below 18.",
+    "source": "AFD p.34",
+    "reasoning": "The manifesto explicitly states a rejection of lowering the voting age, indicating a clear opposition to the statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states that they reject lowering the voting age below 18, which directly contradicts the statement.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "voting-age",
+    "party": "FDP",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not address the issue of lowering the voting age to 16, so there is insufficient information to determine the party's position on this statement.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "voting-age",
+    "party": "DL",
+    "position": "agree",
+    "quote": "The Left is committed to lowering the voting age to 16 in all democratic decision-making processes at European, federal, state and local levels.",
+    "source": "DL p.69",
+    "reasoning": "The passage explicitly states the party's commitment to lowering the voting age to 16, directly supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states its commitment to lowering the voting age to 16 in all democratic decision-making processes.",
+    "flags": []
+  },
+  {
+    "statement_id": "voting-age",
+    "party": "DG",
+    "position": "agree",
+    "quote": "To finally write children's rights into the constitution and to lower the voting age to 16 at the federal level.",
+    "source": "DG p.35",
+    "reasoning": "The passage explicitly states the intention to lower the voting age to 16, clearly supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states their intention to lower the voting age to 16 at the federal level.",
+    "flags": []
+  },
+  {
+    "statement_id": "voting-age",
+    "party": "BSW",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not mention the voting age or provide any stance on lowering it to 16 years.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "referendums",
+    "party": "SPD",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not specifically address the introduction of nationwide referendums in Germany.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "referendums",
+    "party": "CDU",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not mention or address the introduction of nationwide referendums, leaving the party's position on this statement unclear.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "referendums",
+    "party": "AFD",
+    "position": "agree",
+    "quote": "We demand referendums based on the Swiss model for Germany too. Because the unrestricted sovereignty of the people in its tried and tested form for almost 200 years has secured the Swiss federal state a continuing leading position in prosperity, peace and freedom.",
+    "source": "AFD p.33",
+    "reasoning": "The passages explicitly call for the introduction of referendums in Germany, aligning with the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states that the AfD demands the introduction of referendums based on the Swiss model for Germany, indicating agreement with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "referendums",
+    "party": "FDP",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not mention or address the topic of nationwide referendums in Germany.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "referendums",
+    "party": "DL",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not mention or address the introduction of nationwide referendums in Germany.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "referendums",
+    "party": "DG",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not mention or address the introduction of nationwide referendums in Germany.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "referendums",
+    "party": "BSW",
+    "position": "agree",
+    "quote": "We will strive to obtain the necessary majorities to initiate a constitutional amendment that will allow referendums on important issues, for example on pension reform as in Austria or the question of EU enlargement.",
+    "source": "BSW p.42",
+    "reasoning": "The passage explicitly supports the introduction of referendums at the federal level.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The party explicitly states the desire to introduce referendums at the federal level, which aligns with the statement advocating for nationwide referendums.",
+    "flags": []
+  },
+  {
+    "statement_id": "data-retention",
+    "party": "SPD",
+    "position": "not_addressed",
+    "quote": "",
+    "source": null,
+    "reasoning": "The manifesto passages do not explicitly address the requirement for internet providers to store IP addresses without specific suspicion, leaving the party's position on this statement unclear.",
+    "flags": [
+      "not_addressed"
+    ]
+  },
+  {
+    "statement_id": "data-retention",
+    "party": "CDU",
+    "position": "agree",
+    "quote": "In the fight against serious crimes, such as sexual violence against children, or to prevent terrorist attacks, we oblige Internet providers to",
+    "source": "CDU p.90",
+    "reasoning": "The passages explicitly state the obligation for Internet providers to store IP addresses to combat serious crimes, supporting the statement.",
+    "verifier_position": "agree",
+    "verifier_reasoning": "The passage explicitly states the party's commitment to obliging Internet providers to store IP addresses to combat serious crimes, which aligns with the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "data-retention",
+    "party": "AFD",
+    "position": "disagree",
+    "quote": "In addition, electronic systems are not fail-safe and tamper-proof. The AfD demands that cash be permanently retained as an unrestricted legal means of payment and that its use be enshrined in the Basic Law as an important civil liberty.",
+    "source": "AFD p.18",
+    "reasoning": "The AfD opposes total surveillance and control, which contradicts the idea of mandatory IP address storage.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The passage expresses strong opposition to surveillance and control over financial transactions, which contradicts the idea of mandatory IP address storage.",
+    "flags": [
+      "verifier_disagrees"
+    ]
+  },
+  {
+    "statement_id": "data-retention",
+    "party": "FDP",
+    "position": "disagree",
+    "quote": "We reject network blocks, chat controls, upload filters, data retention and other forms of data collection without cause.",
+    "source": "FDP p.20",
+    "reasoning": "The FDP manifesto explicitly rejects data retention without cause, which directly opposes the statement about mandatory IP address storage.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly rejects data retention and other forms of data collection without cause, which aligns with a disagreement on the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "data-retention",
+    "party": "DL",
+    "position": "disagree",
+    "quote": "We want to secure the right to informational self-determination: against data retention, inventory data disclosure and online searches (state trojans), non-individualized cell tower queries, dragnet searches (including by cell phone), ubiquitous video surveillance, spying and wiretapping.",
+    "source": "DL p.70",
+    "reasoning": "The party explicitly opposes data retention practices, which contradicts the statement.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly opposes data retention and emphasizes the right to informational self-determination, which contradicts the idea of mandatory IP address storage.",
+    "flags": [
+      "quote_not_verbatim"
+    ]
+  },
+  {
+    "statement_id": "data-retention",
+    "party": "DG",
+    "position": "disagree",
+    "quote": "We reject the storage of data without cause and chat control.",
+    "source": "DG p.45",
+    "reasoning": "The passage explicitly states a rejection of data storage without cause, which opposes the idea of requiring internet providers to store IP addresses without specific suspicion.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly states that they reject the storage of data without cause, which aligns with a disagreement to the statement.",
+    "flags": []
+  },
+  {
+    "statement_id": "data-retention",
+    "party": "BSW",
+    "position": "disagree",
+    "quote": "In addition to the private sector's greed for data, there are also repeated calls from the state to record data on a massive scale and without cause and to allow complete access to the private communications of all citizens.",
+    "source": "BSW p.40",
+    "reasoning": "The passages clearly oppose the idea of mandatory data retention without cause.",
+    "verifier_position": "disagree",
+    "verifier_reasoning": "The party explicitly opposes the collection and storage of individual behavioral data and surveillance, which aligns with a disagreement on the statement about mandatory IP address storage.",
+    "flags": []
+  }
+]

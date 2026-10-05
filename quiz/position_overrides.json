@@ -1,0 +1,314 @@
+[
+  {
+    "statement_id": "conscription",
+    "party": "FDP",
+    "position": "disagree",
+    "source": "FDP p.44",
+    "quote": "We reject the reinstatement of general conscription.",
+    "note": "Labeller missed this passage."
+  },
+  {
+    "statement_id": "conscription",
+    "party": "BSW",
+    "position": "disagree",
+    "source": "BSW p.5",
+    "quote": "We reject the reintroduction of conscription.",
+    "note": "Original quote was about foreign deployments, not conscription."
+  },
+  {
+    "statement_id": "conscription",
+    "party": "DG",
+    "position": "disagree",
+    "source": "DG p.62",
+    "quote": "we want to make voluntary military service and the reserve more attractive for a broad target group",
+    "note": "Commits to voluntary service; no explicit rejection of conscription. Could be neutral. Confirmed by the user."
+  },
+  {
+    "statement_id": "wealth-tax",
+    "party": "BSW",
+    "position": "agree",
+    "source": "BSW p.15",
+    "quote": "We want to impose a wealth tax on assets of 25 million euros or more",
+    "note": "Labeller said neutral based on an income-tax passage."
+  },
+  {
+    "statement_id": "wealth-tax",
+    "party": "FDP",
+    "position": "disagree",
+    "source": "FDP p.10",
+    "quote": "We reject any form of wealth tax or wealth levy.",
+    "note": "Position was right, quote was not."
+  },
+  {
+    "statement_id": "minimum-wage",
+    "party": "CDU",
+    "position": "neutral",
+    "source": "CDU p.6",
+    "quote": "We support the statutory minimum wage and a strong, independent minimum wage commission.",
+    "note": "Supports the minimum wage via the commission, no commitment for or against 15 euros."
+  },
+  {
+    "statement_id": "family-reunification",
+    "party": "SPD",
+    "position": "disagree",
+    "source": "SPD p.52",
+    "quote": "We will continue to facilitate family reunification for those in need of subsidiary protection",
+    "note": "Was not_addressed; retrieval missed the passage."
+  },
+  {
+    "statement_id": "family-reunification",
+    "party": "DL",
+    "position": "disagree",
+    "source": "DL p.77",
+    "quote": "we are pushing for improvements from a human rights perspective, for example in the rules on family reunification.",
+    "note": "Was not_addressed."
+  },
+  {
+    "statement_id": "solidarity-surcharge",
+    "party": "AFD",
+    "position": "agree",
+    "source": "AFD p.3",
+    "quote": "abolishing the solidarity surcharge for all",
+    "note": "Was not_addressed."
+  },
+  {
+    "statement_id": "solidarity-surcharge",
+    "party": "DL",
+    "position": "disagree",
+    "source": "DL p.11",
+    "quote": "We want to maintain the solidarity surcharge for the richest 10 percent of incomes",
+    "note": "Was not_addressed."
+  },
+  {
+    "statement_id": "solidarity-surcharge",
+    "party": "DG",
+    "position": "neutral",
+    "source": "DG p.30",
+    "quote": "We will integrate the solidarity surcharge into the income tax tariff.",
+    "note": "Abolishes it as a separate tax but keeps the revenue."
+  },
+  {
+    "statement_id": "corporate-tax",
+    "party": "DL",
+    "position": "disagree",
+    "source": "DL p.12",
+    "quote": "We demand that the corporate tax rate be increased to 25 percent.",
+    "note": "Position was right, quote was about the wealth tax."
+  },
+  {
+    "statement_id": "corporate-tax",
+    "party": "BSW",
+    "position": "not_addressed",
+    "source": null,
+    "quote": "",
+    "note": "Quote was about capital gains and inheritance, not corporate tax."
+  },
+  {
+    "statement_id": "defence-spending",
+    "party": "SPD",
+    "position": "neutral",
+    "source": "SPD p.54",
+    "quote": "We will therefore continue to advocate for sustainable defense funding of at least two percent of GDP in the future.",
+    "note": "The statement says well over 2%; SPD commits to at least 2%."
+  },
+  {
+    "statement_id": "defence-spending",
+    "party": "CDU",
+    "position": "neutral",
+    "source": "CDU p.121",
+    "quote": "We see NATO's current two percent target as the lower limit of our defense spending",
+    "note": "2% as a floor, no commitment to well over."
+  },
+  {
+    "statement_id": "defence-spending",
+    "party": "FDP",
+    "position": "neutral",
+    "source": "FDP p.44",
+    "quote": "This includes Germany meeting at least NATO's 2% target.",
+    "note": "At least 2%, not well over."
+  },
+  {
+    "statement_id": "defence-spending",
+    "party": "DG",
+    "position": "agree",
+    "source": "DG p.61",
+    "quote": "permanently invests significantly more than 2 percent of gross domestic product in our security and defense capabilities",
+    "note": "Explicitly well over 2%."
+  },
+  {
+    "statement_id": "defence-spending",
+    "party": "AFD",
+    "position": "not_addressed",
+    "source": null,
+    "quote": "",
+    "note": "Wants a well-equipped Bundeswehr but names no spending level."
+  },
+  {
+    "statement_id": "eu-integration",
+    "party": "FDP",
+    "position": "agree",
+    "source": "FDP p.47",
+    "quote": "We Free Democrats are therefore committed to qualified majority decisions in the EU's foreign and security policy .",
+    "note": "Was not_addressed."
+  },
+  {
+    "statement_id": "eu-integration",
+    "party": "DG",
+    "position": "agree",
+    "source": "DG p.57",
+    "quote": "the principle of unanimity should be applied in all policy areas – including the Common Foreign and Security Policy – be replaced by majority decisions.",
+    "note": "Sentence spans pages 57-58 in the PDF, which is why it looked garbled. Confirmed by the user."
+  },
+  {
+    "statement_id": "eu-integration",
+    "party": "CDU",
+    "position": "not_addressed",
+    "source": null,
+    "quote": "",
+    "note": "Quote about acting united does not address majority vs unanimity."
+  },
+  {
+    "statement_id": "eu-integration",
+    "party": "AFD",
+    "position": "not_addressed",
+    "source": null,
+    "quote": "",
+    "note": "Quote was about EU borrowing, not voting rules."
+  },
+  {
+    "statement_id": "nuclear-power",
+    "party": "CDU",
+    "position": "agree",
+    "source": "CDU p.4",
+    "quote": "We are sticking to the nuclear energy option.",
+    "note": "Also says it will examine restarting the last decommissioned plants."
+  },
+  {
+    "statement_id": "heating-law",
+    "party": "DL",
+    "position": "neutral",
+    "source": "DL p.47",
+    "quote": "The traffic light coalition's heating law has divided society because it ignored people's concerns",
+    "note": "Criticises the law but does not call for repeal."
+  },
+  {
+    "statement_id": "co2-price",
+    "party": "SPD",
+    "position": "agree",
+    "source": "SPD p.31",
+    "quote": "we will ensure that no one is overburdened through appropriate measures at European and national level (for example climate money).",
+    "note": "Names climate money explicitly, as one option."
+  },
+  {
+    "statement_id": "deutschlandticket",
+    "party": "CDU",
+    "position": "not_addressed",
+    "source": null,
+    "quote": "",
+    "note": "Manifesto never mentions the Deutschlandticket."
+  },
+  {
+    "statement_id": "abortion",
+    "party": "FDP",
+    "position": "neutral",
+    "source": "FDP p.25",
+    "quote": "A reform of the regulations on abortion (§§218, 218a StGB) should be discussed in the next Bundestag by means of so-called cross-party group motions with freedom of conscience for every member of parliament.",
+    "note": "Leaves it to a free vote; no position."
+  },
+  {
+    "statement_id": "data-retention",
+    "party": "AFD",
+    "position": "not_addressed",
+    "source": null,
+    "quote": "",
+    "note": "Quote was about cash payments."
+  },
+  {
+    "statement_id": "data-retention",
+    "party": "SPD",
+    "position": "neutral",
+    "source": "SPD p.42",
+    "quote": "At the same time, we are creating a better basis for the effective criminal prosecution in cases of specific suspicion of crime.",
+    "note": "PDF text is cut off where an IP storage obligation may be described; set to neutral by the user's decision (targeted approach, no clear suspicionless storage)."
+  },
+  {
+    "statement_id": "wealth-tax",
+    "party": "DG",
+    "position": "agree",
+    "source": "DG p.29",
+    "quote": "a global billionaire tax, a fairer inheritance tax, fair property taxation without loopholes or a national wealth tax.",
+    "note": "Lists a national wealth tax as one of several instruments rather than a firm commitment."
+  },
+  {
+    "statement_id": "ukraine-weapons",
+    "party": "AFD",
+    "position": "agree",
+    "source": "AFD p.22",
+    "quote": "the ongoing transfer of operational material and weapons systems from the Bundeswehr's stocks to Ukraine and the constant strain on the troops caused by the training of Ukrainian soldiers, the German armed forces are in a desolate state.",
+    "note": "Wrong page in the generated label (p.24). Criticises deliveries from Bundeswehr stocks."
+  },
+  {
+    "statement_id": "ukraine-weapons",
+    "party": "DL",
+    "position": "agree",
+    "source": "DL p.30",
+    "quote": "We reject arms deliveries to war and crisis zones.",
+    "note": "Clearer quote than the generated one."
+  },
+  {
+    "statement_id": "combustion-ban",
+    "party": "AFD",
+    "position": "disagree",
+    "source": "AFD p.2",
+    "quote": "Whether the combustion engine will one day be replaced by other forms of propulsion or whether it will continue to exist must again be a question of technical progress and the market",
+    "note": "Generated quote stitched two sentences together with an ellipsis."
+  },
+  {
+    "statement_id": "deutschlandticket",
+    "party": "DG",
+    "position": "agree",
+    "source": "DG p.21",
+    "quote": "We want to continue this success story and continue to offer the Deutschlandticket at a reasonable price for everyone.",
+    "note": "Generated quote was paraphrased."
+  },
+  {
+    "statement_id": "cannabis",
+    "party": "AFD",
+    "position": "agree",
+    "source": "AFD p.13",
+    "quote": "cannabis consumption outside of certain medical indications to be a mistake that must be corrected immediately.",
+    "note": "PDF page footer is printed in the middle of this sentence; quote starts after it."
+  },
+  {
+    "statement_id": "retirement-age",
+    "party": "SPD",
+    "position": "neutral",
+    "source": "SPD p.22",
+    "quote": "We reject an increase in the standard retirement age.",
+    "note": "Rejects raising it and keeps early retirement after 45 years, but does not call for lowering it to 65."
+  },
+  {
+    "statement_id": "climate-target",
+    "party": "AFD",
+    "position": "agree",
+    "source": "AFD p.20",
+    "quote": "The AfD therefore rejects any policy and any tax that claims to protect the climate, because humans cannot protect the climate.",
+    "note": "Rejecting climate policy altogether means agreeing to drop the 2045 deadline; generated label had the direction inverted."
+  },
+  {
+    "statement_id": "citizenship",
+    "party": "AFD",
+    "position": "disagree",
+    "source": "AFD p.28",
+    "quote": "only such naturalisations are to be carried out which strengthen the community by adding a loyal new citizen",
+    "note": "Generated quote was about asylum and integration, not naturalisation."
+  },
+  {
+    "statement_id": "referendums",
+    "party": "DL",
+    "position": "agree",
+    "source": "DL p.69",
+    "quote": "We want to introduce popular initiatives, referendums and popular votes, citizens' initiatives, citizens' petitions and citizens' votes at the federal level.",
+    "note": "Was not_addressed; retrieval missed the passage."
+  }
+]

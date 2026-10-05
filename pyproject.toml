@@ -19,7 +19,10 @@ pypdf = "5.1.0"
 sentencepiece = "^0.2.0"
 protobuf = "^5.29.3"
 lingua-language-detector = "2.0.2"
-torch = { version = "2.6.0", source = "pytorch-cpu" }
+torch = [
+    { version = "2.6.0", source = "pytorch-cpu", markers = "sys_platform == 'linux'" },
+    { version = "2.6.0", source = "pypi", markers = "sys_platform != 'linux'" },
+]
 
 [[tool.poetry.source]]
 name = "pytorch-cpu"

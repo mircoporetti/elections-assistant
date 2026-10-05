@@ -1,0 +1,1363 @@
+{
+  "parties": [
+    "SPD",
+    "CDU",
+    "AFD",
+    "FDP",
+    "DL",
+    "DG",
+    "BSW"
+  ],
+  "statements": [
+    {
+      "id": "border-rejections",
+      "area": "Migration",
+      "text": {
+        "de": "Asylsuchende sollten an den deutschen Grenzen abgewiesen werden, wenn sie aus einem sicheren Drittland kommen.",
+        "en": "Asylum seekers should be rejected at the German borders if they come from a safe third country."
+      },
+      "positions": {
+        "SPD": {
+          "position": "disagree",
+          "source": "SPD p.52",
+          "quote": "Border closures and blanket rejections at internal borders contradict the spirit of a common area of freedom, security and justice."
+        },
+        "CDU": {
+          "position": "agree",
+          "source": "CDU p.98",
+          "quote": "We are rejecting those at the German borders who enter Germany from another EU member state or the Schengen area and want to apply for asylum with us."
+        },
+        "AFD": {
+          "position": "agree",
+          "source": "AFD p.26",
+          "quote": "German law excludes entry for the purpose of granting asylum if applicants come from a safe third country."
+        },
+        "FDP": {
+          "position": "agree",
+          "source": "FDP p.24",
+          "quote": "As Free Democrats, we support the model testing of rejections at Germany's external borders in order to exhaust all legal options for limiting irregular migration."
+        },
+        "DL": {
+          "position": "disagree",
+          "source": "DL p.75",
+          "quote": "Systematic internal border controls and rejections of people seeking protection at the borders are inadmissible."
+        },
+        "DG": {
+          "position": "disagree",
+          "source": "DG p.52",
+          "quote": "We are opposed to the outsourcing of asylum procedures to third countries because it has been shown time and again that these initiatives end up costing a lot of taxpayers' money, failing in court and distracting from real solutions."
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.34",
+          "quote": "From now on, the following principle should apply: - Anyone entering from a safe third country has no right to stay. Anyone who has no right to stay has no right to 36 an asylum procedure and no entitlement to social benefits."
+        }
+      }
+    },
+    {
+      "id": "family-reunification",
+      "area": "Migration",
+      "text": {
+        "de": "Der Familiennachzug für subsidiär Schutzberechtigte sollte ausgesetzt werden.",
+        "en": "Family reunification for those entitled to subsidiary protection should be suspended."
+      },
+      "positions": {
+        "SPD": {
+          "position": "disagree",
+          "source": "SPD p.52",
+          "quote": "We will continue to facilitate family reunification for those in need of subsidiary protection"
+        },
+        "CDU": {
+          "position": "agree",
+          "source": "CDU p.98",
+          "quote": "No family reunification. We are suspending family reunification for those entitled to subsidiary protection and ending all voluntary admission programs."
+        },
+        "AFD": {
+          "position": "agree",
+          "source": "AFD p.27",
+          "quote": "Abolition of the basic right to family reunification for family members of those granted subsidiary protection"
+        },
+        "FDP": {
+          "position": "agree",
+          "source": "FDP p.24",
+          "quote": "We want to suspend family reunification for those entitled to subsidiary protection and pause admission programs."
+        },
+        "DL": {
+          "position": "disagree",
+          "source": "DL p.77",
+          "quote": "we are pushing for improvements from a human rights perspective, for example in the rules on family reunification."
+        },
+        "DG": {
+          "position": "disagree",
+          "source": "DG p.51",
+          "quote": "We therefore want to continue to enable family reunification and lift existing restrictions."
+        },
+        "BSW": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        }
+      }
+    },
+    {
+      "id": "citizenship",
+      "area": "Migration",
+      "text": {
+        "de": "Die Einbürgerung sollte nach fünf Jahren Aufenthalt in Deutschland möglich sein.",
+        "en": "Naturalization should be possible after five years of residence in Germany."
+      },
+      "positions": {
+        "SPD": {
+          "position": "agree",
+          "source": "SPD p.51",
+          "quote": "By making it easier to acquire German citizenship, we have helped many people to identify with Germany. Germany and sent a strong signal for participation and belonging."
+        },
+        "CDU": {
+          "position": "disagree",
+          "source": "CDU p.133",
+          "quote": "That is why we reject the express naturalization of the traffic light coalition after only three years of residence just as firmly as the general possibility of dual citizenship."
+        },
+        "AFD": {
+          "position": "disagree",
+          "source": "AFD p.28",
+          "quote": "only such naturalisations are to be carried out which strengthen the community by adding a loyal new citizen"
+        },
+        "FDP": {
+          "position": "neutral",
+          "source": "FDP p.25",
+          "quote": "We Free Democrats want the granting of German citizenship to be the end result of successful integration . We have enforced that people can only be naturalized if they earn their own living ."
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.76",
+          "quote": "After five years of residence in the Federal Republic, everyone should have a legal right to naturalization."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.50",
+          "quote": "Citizenship ensures participation and belonging for people who have lived here for a long time - for example the generation of guest workers."
+        },
+        "BSW": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        }
+      }
+    },
+    {
+      "id": "debt-brake",
+      "area": "Economy & Finance",
+      "text": {
+        "de": "Die Schuldenbremse im Grundgesetz sollte reformiert werden, um mehr öffentliche Investitionen zu ermöglichen.",
+        "en": "The debt brake in the Basic Law should be reformed to allow for more public investments."
+      },
+      "positions": {
+        "SPD": {
+          "position": "agree",
+          "source": "SPD p.14",
+          "quote": "We therefore want to reform the debt rule in the Basic Law so that investments in the future viability of our country and in prosperity are not hindered."
+        },
+        "CDU": {
+          "position": "disagree",
+          "source": "CDU p.185",
+          "quote": "Adhere to the constitutional debt brake. It ensures that burdens are not placed on our children and grandchildren."
+        },
+        "AFD": {
+          "position": "disagree",
+          "source": "AFD p.14",
+          "quote": "We must not continue to burden future generations with debt and interest. We therefore call for tax waste to be avoided. Key examples include reducing pointless expenditure on the supposed \"climate rescue\" and ending the financing of superfluous prestige projects, especially abroad."
+        },
+        "FDP": {
+          "position": "disagree",
+          "source": "FDP p.31",
+          "quote": "For us Free Democrats, compliance with the debt brake enshrined in the Basic Law is therefore a central requirement of intergenerational justice."
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.15",
+          "quote": "We demand the abolition of the debt brake. It must again be possible to finance public investments in infrastructure, a climate-neutral industry and social compensation through loans."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.15",
+          "quote": "We want to reform the debt brake in order to finance the economic recovery of our country and a strong, future-proof economy."
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.14",
+          "quote": "The debt brake has not prevented unsound budgeting, but has become a brake on investment. That is why it must be reformed."
+        }
+      }
+    },
+    {
+      "id": "wealth-tax",
+      "area": "Economy & Finance",
+      "text": {
+        "de": "Deutschland sollte eine Vermögensteuer für sehr hohe Vermögen einführen.",
+        "en": "Germany should introduce a wealth tax for very high assets."
+      },
+      "positions": {
+        "SPD": {
+          "position": "agree",
+          "source": "SPD p.16",
+          "quote": "We want to revitalize the suspended wealth tax for very high assets."
+        },
+        "CDU": {
+          "position": "disagree",
+          "source": "CDU p.76",
+          "quote": "We reject a wealth tax."
+        },
+        "AFD": {
+          "position": "disagree",
+          "source": "AFD p.15",
+          "quote": "The AfD wants to abolish the wealth tax, which is currently suspended, and the inheritance tax."
+        },
+        "FDP": {
+          "position": "disagree",
+          "source": "FDP p.10",
+          "quote": "We reject any form of wealth tax or wealth levy."
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.10",
+          "quote": "The Left demands that the wealth tax be reintroduced. So that we only tax the richest 2.5 percent of our society, we demand an allowance for private assets of one million euros per person (minus all debts, such as mortgages on a home)."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.29",
+          "quote": "a global billionaire tax, a fairer inheritance tax, fair property taxation without loopholes or a national wealth tax."
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.15",
+          "quote": "We want to impose a wealth tax on assets of 25 million euros or more"
+        }
+      }
+    },
+    {
+      "id": "solidarity-surcharge",
+      "area": "Economy & Finance",
+      "text": {
+        "de": "Der Solidaritätszuschlag sollte abgeschafft werden.",
+        "en": "The solidarity surcharge should be abolished."
+      },
+      "positions": {
+        "SPD": {
+          "position": "disagree",
+          "source": "SPD p.16",
+          "quote": "We will continue to use this instrument; it serves to finance the transformation of our country. In income tax, we have already covered 90 percent of taxpayers have been exempted from paying the solidarity surcharge for some time."
+        },
+        "CDU": {
+          "position": "agree",
+          "source": "CDU p.31",
+          "quote": "Get rid of the remaining solidarity surcharge. We are abolishing the remaining solidarity surcharge. It has long since fulfilled its purpose, is no longer justifiable almost 35 years after reunification and is a burden on companies, skilled workers and savers."
+        },
+        "AFD": {
+          "position": "agree",
+          "source": "AFD p.3",
+          "quote": "abolishing the solidarity surcharge for all"
+        },
+        "FDP": {
+          "position": "agree",
+          "source": "FDP p.10",
+          "quote": "In addition, we want to completely abolish the solidarity surcharge. This has now become a punitive tax for the middle class."
+        },
+        "DL": {
+          "position": "disagree",
+          "source": "DL p.11",
+          "quote": "We want to maintain the solidarity surcharge for the richest 10 percent of incomes"
+        },
+        "DG": {
+          "position": "neutral",
+          "source": "DG p.30",
+          "quote": "We will integrate the solidarity surcharge into the income tax tariff."
+        },
+        "BSW": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        }
+      }
+    },
+    {
+      "id": "corporate-tax",
+      "area": "Economy & Finance",
+      "text": {
+        "de": "Die Unternehmenssteuern sollten auf maximal 25 Prozent gesenkt werden.",
+        "en": "Corporate taxes should be reduced to a maximum of 25 percent."
+      },
+      "positions": {
+        "SPD": {
+          "position": "disagree",
+          "source": "SPD p.16",
+          "quote": "We want (high-)wealth people to also make a fair contribution to financing investments in our future. In Germany, income from work is taxed more heavily than assets. We want to change this and create more tax justice."
+        },
+        "CDU": {
+          "position": "agree",
+          "source": "CDU p.31",
+          "quote": "Our goal is an attractive corporate tax rate of a maximum of 25 percent on retained profits, which we want to implement gradually."
+        },
+        "AFD": {
+          "position": "agree",
+          "source": "AFD p.14",
+          "quote": "We will lower the tax rates and, in turn, the write-off options for \"tax-saving models\". We will make the corporate tax neutral in terms of legal form."
+        },
+        "FDP": {
+          "position": "agree",
+          "source": "FDP p.11",
+          "quote": "We demand that the corporate tax burden be reduced to below 25 percent. To achieve this, we will completely abolish the solidarity surcharge and reduce the corporate tax."
+        },
+        "DL": {
+          "position": "disagree",
+          "source": "DL p.12",
+          "quote": "We demand that the corporate tax rate be increased to 25 percent."
+        },
+        "DG": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "BSW": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        }
+      }
+    },
+    {
+      "id": "minimum-wage",
+      "area": "Labour & Social",
+      "text": {
+        "de": "Der gesetzliche Mindestlohn sollte auf mindestens 15 Euro pro Stunde angehoben werden.",
+        "en": "The statutory minimum wage should be raised to at least 15 euros per hour."
+      },
+      "positions": {
+        "SPD": {
+          "position": "agree",
+          "source": "SPD p.20",
+          "quote": "Accordingly, the minimum wage must be 15 euros by 2026 at the latest."
+        },
+        "CDU": {
+          "position": "neutral",
+          "source": "CDU p.6",
+          "quote": "We support the statutory minimum wage and a strong, independent minimum wage commission."
+        },
+        "AFD": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "FDP": {
+          "position": "disagree",
+          "source": "FDP p.14",
+          "quote": "We respect collective bargaining autonomy and reject political interference in the work of the independent minimum wage commission."
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.35",
+          "quote": "The statutory minimum wage must be increased in accordance with the European directive - to at least 60 percent of the average income (median wage). That would be around 15 euros by 2025. In order to clearly comply with the European directive, we are calling for a minimum wage of 16 euros by 2026 at the latest, which should be permanently adjusted to the development of the median wage, but must increase at least annually by the rate of inflation."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.27",
+          "quote": "In order to compensate for the inflation of recent years, we now need a minimum wage of initially 15 euros in 2025, which also applies to those under 18."
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.19",
+          "quote": "We want to raise the statutory minimum wage to 15 euros without delay."
+        }
+      }
+    },
+    {
+      "id": "citizens-income",
+      "area": "Labour & Social",
+      "text": {
+        "de": "Das Bürgergeld sollte durch eine Grundsicherung mit strengeren Sanktionen ersetzt werden.",
+        "en": "The citizen's allowance (Bürgergeld) should be replaced by basic support with stricter sanctions."
+      },
+      "positions": {
+        "SPD": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "CDU": {
+          "position": "agree",
+          "source": "CDU p.6",
+          "quote": "We are abolishing the so-called “citizen’s allowance” and replacing it with a new basic security. Encouraging and demanding must always apply."
+        },
+        "AFD": {
+          "position": "agree",
+          "source": "AFD p.10",
+          "quote": "We will resolutely counteract these negative developments through a fundamental reform of the citizen’s income. For a functioning basic security for job seekers We want to get employable basic security recipients back into work more quickly so that they can stand on their own two feet again."
+        },
+        "FDP": {
+          "position": "agree",
+          "source": "FDP p.15",
+          "quote": "To this end, we Free Democrats want to fundamentally reform the citizen's allowance. We want a reform of basic security, away from a citizen's allowance that supports people and towards more activation, where work makes the difference."
+        },
+        "DL": {
+          "position": "disagree",
+          "source": "DL p.18",
+          "quote": "We want to transform the citizen's allowance into a sanction-free individual minimum income. Anyone who does not have sufficient income or assets is entitled to it."
+        },
+        "DG": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.20",
+          "quote": "We want to replace the Citizen’s Allowance with a high-performance and performance-based unemployment insurance and replace a fair basic security."
+        }
+      }
+    },
+    {
+      "id": "retirement-age",
+      "area": "Labour & Social",
+      "text": {
+        "de": "Das Renteneintrittsalter sollte auf 65 Jahre gesenkt werden.",
+        "en": "The retirement age should be lowered to 65 years."
+      },
+      "positions": {
+        "SPD": {
+          "position": "neutral",
+          "source": "SPD p.22",
+          "quote": "We reject an increase in the standard retirement age."
+        },
+        "CDU": {
+          "position": "disagree",
+          "source": "CDU p.7",
+          "quote": "We are sticking to the existing legal regulations on retirement age. There will be no pension cuts under our supervision."
+        },
+        "AFD": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "FDP": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.19",
+          "quote": "We are calling for a standard retirement age of 65. Anyone who has worked for 40 years and paid contributions themselves should be able to retire at 60 without any reductions."
+        },
+        "DG": {
+          "position": "disagree",
+          "source": "DG p.39",
+          "quote": "We are sticking to the retirement age of 67."
+        },
+        "BSW": {
+          "position": "disagree",
+          "source": "BSW p.21",
+          "quote": "We clearly reject demands to further increase the retirement age."
+        }
+      }
+    },
+    {
+      "id": "health-insurance",
+      "area": "Labour & Social",
+      "text": {
+        "de": "Die private Krankenversicherung sollte in die Bürgerversicherung integriert werden.",
+        "en": "Private health insurance should be integrated into citizen insurance."
+      },
+      "positions": {
+        "SPD": {
+          "position": "agree",
+          "source": "SPD p.26",
+          "quote": "A solidarity-based financing system creates trust and relieves citizens of worries about financial burdens. That is why we are strengthening the contribution-financed pay-as-you-go system. Health insurance companies and private health insurance companies thus form a system of solidarity-based citizen insurance in which everyone participates and with which medical and nursing care as well as access to this care is equally guaranteed."
+        },
+        "CDU": {
+          "position": "disagree",
+          "source": "CDU p.164",
+          "quote": "We stand by the cornerstones of the German health care system with its proven self-administration, the duality of statutory and private health insurance, our commitment to the principle of freelance work and solidarity."
+        },
+        "AFD": {
+          "position": "disagree",
+          "source": "AFD p.11",
+          "quote": "Non-insurance benefits are therefore not to be financed from social insurance contributions, but from the federal budget."
+        },
+        "FDP": {
+          "position": "disagree",
+          "source": "FDP p.29",
+          "quote": "We therefore reject a single fund (so-called citizens' insurance)."
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.22",
+          "quote": "Privately insured people are taken over into statutory health insurance. This means that the health insurance contribution falls from the current 17.1 to around 13.3 percent of gross wages."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.37",
+          "quote": "On the way to a citizen's insurance, we will include not only those with statutory health insurance but also those with private insurance in the solidarity-based financial equalization of the"
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.25",
+          "quote": "We demand the abolition of additional contributions and the introduction of a citizen's insurance scheme into which all citizens pay according to their income and receive, in principle, the same benefits at the level of the highest medical standards."
+        }
+      }
+    },
+    {
+      "id": "rent-cap",
+      "area": "Housing",
+      "text": {
+        "de": "Die Mietpreisbremse sollte dauerhaft gelten.",
+        "en": "The rent brake (Mietpreisbremse) should apply permanently."
+      },
+      "positions": {
+        "SPD": {
+          "position": "agree",
+          "source": "SPD p.17",
+          "quote": "The rent cap should apply indefinitely and also to properties that were occupied up until 2019 in order to ensure stable and affordable rents in tight housing markets in the long term."
+        },
+        "CDU": {
+          "position": "neutral",
+          "source": "CDU p.18",
+          "quote": "We stand for effective and appropriate tenant protection - this also includes the rules on rent levels. Social housing must be solidly supported and housing benefits must be regularly adjusted."
+        },
+        "AFD": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "FDP": {
+          "position": "disagree",
+          "source": "FDP p.40",
+          "quote": "The rent cap has been proven to be a brake on investment. That is why we are allowing it to expire. In order to create incentives for urgently needed new construction, we are breaking the state regulation spiral in the rental market."
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.1",
+          "quote": "That's why we want to implement a nationwide rent cap. This will allow everyone to continue to live at home in peace."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.28",
+          "quote": "The rent cap must be extended. It should also put a stronger limit on rent increases above the local comparative rent."
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.26",
+          "quote": "We demand a nationwide rent cap instead of an ineffective rent brake. - In all regions where it is no longer possible to afford adequate housing on a normal income, we want to freeze rents until the end of the decade."
+        }
+      }
+    },
+    {
+      "id": "ukraine-weapons",
+      "area": "Foreign & Defence",
+      "text": {
+        "de": "Deutschland sollte keine Waffenlieferungen an die Ukraine mehr leisten.",
+        "en": "Germany should stop delivering weapons to Ukraine."
+      },
+      "positions": {
+        "SPD": {
+          "position": "disagree",
+          "source": "SPD p.55",
+          "quote": "We support Ukraine. The SPD is clearly committed to diplomatic, military, financial and humanitarian Support the Ukrainians in their fight against Russian aggression, which is contrary to international law – for as long as necessary."
+        },
+        "CDU": {
+          "position": "disagree",
+          "source": "CDU p.110",
+          "quote": "We are therefore supporting Ukraine with all the necessary diplomatic, financial and humanitarian means, as well as with arms deliveries. It must be able to exercise its right to self-defense."
+        },
+        "AFD": {
+          "position": "agree",
+          "source": "AFD p.22",
+          "quote": "the ongoing transfer of operational material and weapons systems from the Bundeswehr's stocks to Ukraine and the constant strain on the troops caused by the training of Ukrainian soldiers, the German armed forces are in a desolate state."
+        },
+        "FDP": {
+          "position": "disagree",
+          "source": "FDP p.43",
+          "quote": "For us Free Democrats, it is clear that the defense of Ukraine must not fail because of money and arms deliveries, since a Russian victory will be more expensive and our freedom is also being defended in Ukraine."
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.30",
+          "quote": "We reject arms deliveries to war and crisis zones."
+        },
+        "DG": {
+          "position": "disagree",
+          "source": "DG p.57",
+          "quote": "We stand firmly by its side - with diplomatic, financial, humanitarian and military support. Ukraine must be able to defend itself and ensure a strong position for a possible peace process."
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.6",
+          "quote": "We do not want any more German tax money to be provided to prolong this senseless war."
+        }
+      }
+    },
+    {
+      "id": "russia-sanctions",
+      "area": "Foreign & Defence",
+      "text": {
+        "de": "Deutschland sollte wieder Gas aus Russland beziehen.",
+        "en": "Germany should buy gas from Russia again."
+      },
+      "positions": {
+        "SPD": {
+          "position": "disagree",
+          "source": "SPD p.1",
+          "quote": "We brought the exploding energy prices resulting from the war against Ukraine under control – and quickly made Germany independent of Russian gas."
+        },
+        "CDU": {
+          "position": "disagree",
+          "source": "CDU p.86",
+          "quote": "The Russian Dictator has started a war that is challenging us as Europeans and members of NATO. There is no question: The turning point has arrived."
+        },
+        "AFD": {
+          "position": "agree",
+          "source": "AFD p.24",
+          "quote": "Restoring uninterrupted trade with Russia includes the immediate lifting of economic sanctions against Russia and the repair of the Nord Stream pipelines."
+        },
+        "FDP": {
+          "position": "disagree",
+          "source": "FDP p.45",
+          "quote": "We demand that Russian war crimes, crimes against humanity and the crime of aggression be prosecuted. Furthermore, we consistently advocate economic sanctions, including the most extensive possible trade embargo, diplomatic measures, visa revocations against the Russian leadership and other responsible parties ."
+        },
+        "DL": {
+          "position": "disagree",
+          "source": "DL p.46",
+          "quote": "The phase-out of nuclear and coal must be followed by a phase-out of the combustion of fossil natural gas."
+        },
+        "DG": {
+          "position": "disagree",
+          "source": "DG p.18",
+          "quote": "We stand for a final rejection of gas extraction throughout Germany - on land and at sea."
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.8",
+          "quote": "The German government should negotiate with Russia to obtain cheap natural gas again via the remaining section of the Nord Stream pipeline."
+        }
+      }
+    },
+    {
+      "id": "conscription",
+      "area": "Foreign & Defence",
+      "text": {
+        "de": "Deutschland sollte die Wehrpflicht wieder einführen.",
+        "en": "Germany should reintroduce compulsory military service."
+      },
+      "positions": {
+        "SPD": {
+          "position": "disagree",
+          "source": "SPD p.55",
+          "quote": "In view of the changed security situation, the SPD is planning to introduce a new, flexible military service. The new military service should be voluntary and geared to the needs of the Bundeswehr."
+        },
+        "CDU": {
+          "position": "agree",
+          "source": "CDU p.123",
+          "quote": "Introduce progressive military conscription. In the future, we are focusing on a compulsory social year, which we are considering together with progressive military conscription."
+        },
+        "AFD": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "FDP": {
+          "position": "disagree",
+          "source": "FDP p.44",
+          "quote": "We reject the reinstatement of general conscription."
+        },
+        "DL": {
+          "position": "disagree",
+          "source": "DL p.30",
+          "quote": "No stationing of US medium-range missiles in Germany and no further rearmament, but rather disarmament in Germany and Europe."
+        },
+        "DG": {
+          "position": "disagree",
+          "source": "DG p.62",
+          "quote": "we want to make voluntary military service and the reserve more attractive for a broad target group"
+        },
+        "BSW": {
+          "position": "disagree",
+          "source": "BSW p.5",
+          "quote": "We reject the reintroduction of conscription."
+        }
+      }
+    },
+    {
+      "id": "defence-spending",
+      "area": "Foreign & Defence",
+      "text": {
+        "de": "Deutschland sollte deutlich mehr als zwei Prozent seiner Wirtschaftsleistung für Verteidigung ausgeben.",
+        "en": "Germany should spend well over two percent of its GDP on defence."
+      },
+      "positions": {
+        "SPD": {
+          "position": "neutral",
+          "source": "SPD p.54",
+          "quote": "We will therefore continue to advocate for sustainable defense funding of at least two percent of GDP in the future."
+        },
+        "CDU": {
+          "position": "neutral",
+          "source": "CDU p.121",
+          "quote": "We see NATO's current two percent target as the lower limit of our defense spending"
+        },
+        "AFD": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "FDP": {
+          "position": "neutral",
+          "source": "FDP p.44",
+          "quote": "This includes Germany meeting at least NATO's 2% target."
+        },
+        "DL": {
+          "position": "disagree",
+          "source": "DL p.31",
+          "quote": "We reject NATO's arms buildup target of 2 percent of GDP or even more. The \"special funds\" of the turning point should flow into civilian infrastructure."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.61",
+          "quote": "permanently invests significantly more than 2 percent of gross domestic product in our security and defense capabilities"
+        },
+        "BSW": {
+          "position": "disagree",
+          "source": "BSW p.5",
+          "quote": "We reject higher military spending, the fulfillment of NATO's two percent target or even higher spending, as well as further special assets or debt funds for the rearmament of the Bundeswehr or military aid."
+        }
+      }
+    },
+    {
+      "id": "eu-integration",
+      "area": "Europe",
+      "text": {
+        "de": "Die EU sollte mehrheitliche Entscheidungen anstelle von Einstimmigkeit einführen.",
+        "en": "The EU should introduce majority decisions instead of unanimity."
+      },
+      "positions": {
+        "SPD": {
+          "position": "agree",
+          "source": "SPD p.57",
+          "quote": "For us, an essential component of institutional reforms is to replace the principle of unanimity in the European Council and the Council of Ministers with the introduction of majority decisions."
+        },
+        "CDU": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "AFD": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "FDP": {
+          "position": "agree",
+          "source": "FDP p.47",
+          "quote": "We Free Democrats are therefore committed to qualified majority decisions in the EU's foreign and security policy ."
+        },
+        "DL": {
+          "position": "neutral",
+          "source": "DL p.32",
+          "quote": "Fundamental decisions must be made by the European Parliament - not by executive bodies such as the Commission, Eurogroup or Council."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.57",
+          "quote": "the principle of unanimity should be applied in all policy areas – including the Common Foreign and Security Policy – be replaced by majority decisions."
+        },
+        "BSW": {
+          "position": "disagree",
+          "source": "BSW p.7",
+          "quote": "We do not want a further centralisation of power in the EU Commission, but a shift of competences back to the Member States."
+        }
+      }
+    },
+    {
+      "id": "nuclear-power",
+      "area": "Energy & Climate",
+      "text": {
+        "de": "Deutschland sollte die Nutzung von Atomkraftwerken wieder erlauben.",
+        "en": "Germany should allow the use of nuclear power plants again."
+      },
+      "positions": {
+        "SPD": {
+          "position": "disagree",
+          "source": "SPD p.31",
+          "quote": "Wind power and photovoltaics are already the cheapest form of electricity production. Their consistent expansion and the integration of storage systems will make our energy supply secure and permanently affordable."
+        },
+        "CDU": {
+          "position": "agree",
+          "source": "CDU p.4",
+          "quote": "We are sticking to the nuclear energy option."
+        },
+        "AFD": {
+          "position": "agree",
+          "source": "AFD p.2",
+          "quote": "Returning to the use of nuclear energy"
+        },
+        "FDP": {
+          "position": "agree",
+          "source": "FDP p.14",
+          "quote": "We want to facilitate the recommissioning of existing nuclear power plants legally and leave the decision to the operators."
+        },
+        "DL": {
+          "position": "disagree",
+          "source": "DL p.46",
+          "quote": "We are committed to phasing out nuclear power in Europe and all over the world."
+        },
+        "DG": {
+          "position": "disagree",
+          "source": "DG p.18",
+          "quote": "A return to nuclear power is neither necessary for achieving climate targets nor for security of supply - in any case, new nuclear power plants are not a realistic option due to the extremely long planning and construction times, the high financial risks and the perpetual costs."
+        },
+        "BSW": {
+          "position": "disagree",
+          "source": "BSW p.10",
+          "quote": "We reject the construction of new conventional nuclear power plants. The same currently applies to mini power plants (SMR), the operation of which generates up to 30 times more radioactive waste than conventional reactors."
+        }
+      }
+    },
+    {
+      "id": "heating-law",
+      "area": "Energy & Climate",
+      "text": {
+        "de": "Das Gebäudeenergiegesetz (Heizungsgesetz) sollte abgeschafft werden.",
+        "en": "The Buildings Energy Act (heating law) should be repealed."
+      },
+      "positions": {
+        "SPD": {
+          "position": "disagree",
+          "source": "SPD p.30",
+          "quote": "We are clearly committed to the climate goals for Germany and the EU. We must limit the increase in the global average temperature to well below two degrees Celsius and, if possible, lead to a 1.5 degree path."
+        },
+        "CDU": {
+          "position": "agree",
+          "source": "CDU p.47",
+          "quote": "We are abolishing the traffic light heating law."
+        },
+        "AFD": {
+          "position": "agree",
+          "source": "AFD p.3",
+          "quote": "Excessive legal requirements for building and tenancy law, such as the so-called Heating Act, are hindering the construction of affordable housing. We will free housing construction from these shackles so that in the future every citizen will be able to afford an apartment or a house again."
+        },
+        "FDP": {
+          "position": "agree",
+          "source": "FDP p.41",
+          "quote": "The Heating Act with its excessive requirements must be completely phased out."
+        },
+        "DL": {
+          "position": "neutral",
+          "source": "DL p.47",
+          "quote": "The traffic light coalition's heating law has divided society because it ignored people's concerns"
+        },
+        "DG": {
+          "position": "disagree",
+          "source": "DG p.19",
+          "quote": "With the existing Building Energy Act and a subsidy of up to 70 percent for the installation of fossil-free heating systems, we are giving homeowners, businesses, tenants and landlords the necessary planning security for the purchase and installation of modern, climate-friendly heating systems, such as heat pumps, by 2045."
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.8",
+          "quote": "Another negative example is the ill-conceived heating law, which hardly brings any CO2 savings, but not only causes homeowners to incur high acquisition costs, but also extremely high conversion costs if the heat pump is able to heat the house halfway."
+        }
+      }
+    },
+    {
+      "id": "combustion-ban",
+      "area": "Energy & Climate",
+      "text": {
+        "de": "Deutschland sollte den Verkauf von Neuwagen mit Verbrennungsmotoren ab 2035 verbieten.",
+        "en": "Germany should ban the sale of new cars with combustion engines from 2035."
+      },
+      "positions": {
+        "SPD": {
+          "position": "neutral",
+          "source": "SPD p.33",
+          "quote": "For those who drive a combustion engine today, we want to make it attractive to switch to an electric car the next time they buy or lease a car ."
+        },
+        "CDU": {
+          "position": "disagree",
+          "source": "CDU p.176",
+          "quote": "The ban on combustion engines must be reversed."
+        },
+        "AFD": {
+          "position": "disagree",
+          "source": "AFD p.2",
+          "quote": "Whether the combustion engine will one day be replaced by other forms of propulsion or whether it will continue to exist must again be a question of technical progress and the market"
+        },
+        "FDP": {
+          "position": "disagree",
+          "source": "FDP p.36",
+          "quote": "That is why we are committed to an immediate lifting of the de facto ban on combustion engines from 2035 and an innovation-friendly regulation of the removal, use and storage of greenhouse gases, because the use of these technologies is essential for achieving the climate goals."
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.51",
+          "quote": "That is why the focus on e-cars is the right thing to do. Consumers and industry need long-term planning security, which is why we are sticking to the phasing out of new car sales for combustion engines in accordance with the current EU directive."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.9",
+          "quote": "Globally, the competition between combustion engines and electric cars has long been decided. For companies in the automotive industry, the largest branch of industry in our country with its medium-sized suppliers, planning security is crucial: that we stick to only allowing new climate-friendly drives from 2035 onwards."
+        },
+        "BSW": {
+          "position": "disagree",
+          "source": "BSW p.8",
+          "quote": "We demand the repeal of the combustion engine ban and the heating law."
+        }
+      }
+    },
+    {
+      "id": "climate-target",
+      "area": "Energy & Climate",
+      "text": {
+        "de": "Deutschland sollte sich mehr Zeit lassen, klimaneutral zu werden, als bis 2045.",
+        "en": "Germany should take longer than 2045 to become climate neutral."
+      },
+      "positions": {
+        "SPD": {
+          "position": "disagree",
+          "source": "SPD p.30",
+          "quote": "We are clearly committed to the climate goals for Germany and the EU. We must limit the increase in the global average temperature to well below two degrees Celsius and, if possible, lead to a 1.5 degree path."
+        },
+        "CDU": {
+          "position": "disagree",
+          "source": "CDU p.50",
+          "quote": "We have our sights firmly set on 2045."
+        },
+        "AFD": {
+          "position": "agree",
+          "source": "AFD p.20",
+          "quote": "The AfD therefore rejects any policy and any tax that claims to protect the climate, because humans cannot protect the climate."
+        },
+        "FDP": {
+          "position": "agree",
+          "source": "FDP p.36",
+          "quote": "We want to replace the target of climate neutrality by 2045 in the German Climate Protection Act with the European target of climate neutrality by 2050. This gives companies, especially energy-intensive industries, more time to switch to climate-friendly technologies."
+        },
+        "DL": {
+          "position": "disagree",
+          "source": "DL p.44",
+          "quote": "We want to make Germany climate-neutral by 2040."
+        },
+        "DG": {
+          "position": "disagree",
+          "source": "DG p.16",
+          "quote": "We are therefore sticking to the legally stipulated goals of climate neutrality by 2045 and the binding interim targets."
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.8",
+          "quote": "We call for a departure from the wishful thinking of quickly achieving complete climate neutrality. This is because it leads to the requirement that only technologies based on 100% renewable energy are sustainable."
+        }
+      }
+    },
+    {
+      "id": "co2-price",
+      "area": "Energy & Climate",
+      "text": {
+        "de": "Die Einnahmen aus dem CO2-Preis sollten als Klimageld pro Kopf an alle Bürger ausgezahlt werden.",
+        "en": "Revenue from the CO2 price should be paid back to all citizens as an equal per-capita climate dividend."
+      },
+      "positions": {
+        "SPD": {
+          "position": "agree",
+          "source": "SPD p.31",
+          "quote": "we will ensure that no one is overburdened through appropriate measures at European and national level (for example climate money)."
+        },
+        "CDU": {
+          "position": "neutral",
+          "source": "CDU p.51",
+          "quote": "We are expanding CO2 pricing to become the leading instrument in the mix of instruments and returning the revenues to consumers and businesses."
+        },
+        "AFD": {
+          "position": "disagree",
+          "source": "AFD p.20",
+          "quote": "The AfD therefore rejects any policy and any tax that claims to protect the climate, because humans cannot protect the climate."
+        },
+        "FDP": {
+          "position": "agree",
+          "source": "FDP p.36",
+          "quote": "We Free Democrats want to introduce a climate dividend in order to pay revenue from emissions trading back to citizens directly and at a flat rate per capita."
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.4",
+          "quote": "The Left therefore wants to introduce a social climate allowance of 320 euros per person per year as a direct payment, retroactive to January 1, 2025. Greenpeace has calculated that this can be financed from current CO2 revenues."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.17",
+          "quote": "We make a security promise: All people with low and middle incomes will receive a large part of the revenue from the CO2 pricing of building heating and transport as climate money."
+        },
+        "BSW": {
+          "position": "disagree",
+          "source": "BSW p.9",
+          "quote": "Instead of relying on the CO2 price, we want to enable technological change by promoting innovation and providing targeted incentives. - We want to abolish the CO2 price, which makes everything more expensive without offering any alternatives for most people."
+        }
+      }
+    },
+    {
+      "id": "speed-limit",
+      "area": "Transport",
+      "text": {
+        "de": "Auf Autobahnen sollte ein Tempolimit von 130 km/h eingeführt werden.",
+        "en": "A speed limit of 130 km/h should be introduced on motorways."
+      },
+      "positions": {
+        "SPD": {
+          "position": "agree",
+          "source": "SPD p.33",
+          "quote": "We want to introduce a speed limit of 130 km/h on federal motorways . A speed limit has so many advantages that it is almost impossible to justify not introducing it."
+        },
+        "CDU": {
+          "position": "disagree",
+          "source": "CDU p.176",
+          "quote": "We reject anti-car attitudes, driving bans in inner cities, the repurposing of parking spaces and a general speed limit on German motorways."
+        },
+        "AFD": {
+          "position": "disagree",
+          "source": "AFD p.6",
+          "quote": "The AfD strictly rejects a general speed limit on federal motorways."
+        },
+        "FDP": {
+          "position": "disagree",
+          "source": "FDP p.37",
+          "quote": "We Free Democrats reject a general speed limit on motorways."
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.51",
+          "quote": "To protect people and the climate, we finally need a speed limit of 120 km/h on motorways and 30 km/h in towns - except on main traffic routes."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.20",
+          "quote": "Germany is the only country in the world that allows unlimited speeding on motorways - to the detriment of human life and the environment. A safety speed limit of 130 km/h on motorways as a general 24 ALLIANCE 90/THE GREENS Speed limits are therefore overdue."
+        },
+        "BSW": {
+          "position": "disagree",
+          "source": "BSW p.27",
+          "quote": "We want to put an end to the anti-car attitude that the Greens in particular stand for in transport policy. Making driving more and more expensive is inconsiderate towards those who depend on their cars."
+        }
+      }
+    },
+    {
+      "id": "deutschlandticket",
+      "area": "Transport",
+      "text": {
+        "de": "Das Deutschlandticket sollte dauerhaft vom Bund mitfinanziert werden.",
+        "en": "The federal government should permanently co-fund the Deutschlandticket."
+      },
+      "positions": {
+        "SPD": {
+          "position": "agree",
+          "source": "SPD p.32",
+          "quote": "We want to offer the Deutschlandticket permanently. The low price and ease of use are the ticket's recipe for success - we want the price to remain at its current level permanently. To this end, we will finance the ticket adequately together with the states."
+        },
+        "CDU": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "AFD": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "FDP": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.3",
+          "quote": "In addition, we are reducing the price of the Deutschlandticket again to 9 euros. The Deutschlandticket will be free for schoolchildren, trainees, senior citizens and students."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.21",
+          "quote": "We want to continue this success story and continue to offer the Deutschlandticket at a reasonable price for everyone."
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.27",
+          "quote": "We are committed to lower prices for buses and trains and to maintaining the Germany Ticket at an affordable price."
+        }
+      }
+    },
+    {
+      "id": "cannabis",
+      "area": "Society",
+      "text": {
+        "de": "Die Legalisierung von Cannabis sollte rückgängig gemacht werden.",
+        "en": "The legalisation of cannabis should be reversed."
+      },
+      "positions": {
+        "SPD": {
+          "position": "disagree",
+          "source": "SPD p.43",
+          "quote": "In the case of cannabis, in order to improve health protection, the protection of minors and the fight against organised crime, we want to take the necessary steps to enable legalisation in accordance with European law."
+        },
+        "CDU": {
+          "position": "agree",
+          "source": "CDU p.89",
+          "quote": "We are therefore reversing the legalization of this drug."
+        },
+        "AFD": {
+          "position": "agree",
+          "source": "AFD p.13",
+          "quote": "cannabis consumption outside of certain medical indications to be a mistake that must be corrected immediately."
+        },
+        "FDP": {
+          "position": "disagree",
+          "source": "FDP p.30",
+          "quote": "We therefore remain committed to the legalization of cannabis."
+        },
+        "DL": {
+          "position": "disagree",
+          "source": "DL p.27",
+          "quote": "We want to achieve complete legalization of cannabis and push through the necessary changes at EU and UN level."
+        },
+        "DG": {
+          "position": "disagree",
+          "source": "DG p.38",
+          "quote": "With the Cannabis Act, we have placed the protection of health, young people and consumers at the centre and are focusing on reason instead of criminalisation. This change in drug policy, which focuses on the ability to deal with risks independently, we want to continue."
+        },
+        "BSW": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        }
+      }
+    },
+    {
+      "id": "abortion",
+      "area": "Society",
+      "text": {
+        "de": "Der Schwangerschaftsabbruch sollte aus dem Strafrecht entfernt werden.",
+        "en": "Abortion should be removed from criminal law."
+      },
+      "positions": {
+        "SPD": {
+          "position": "agree",
+          "source": "SPD p.45",
+          "quote": "We will decriminalize abortion and regulate it outside of criminal law - except when it is carried out against or without the will of the pregnant woman. We want to make abortion a part of basic medical care."
+        },
+        "CDU": {
+          "position": "disagree",
+          "source": "CDU p.150",
+          "quote": "Paragraph 218 remains. The current legal situation regarding abortion represents a laboriously found social compromise that takes into account the woman's right to self-determination and the protection of the unborn child. We stand by this legal situation."
+        },
+        "AFD": {
+          "position": "disagree",
+          "source": "AFD p.38",
+          "quote": "The right to life is a fundamental human right. Without this right, no other human right can be claimed. Fertilization turns the egg cell into a human embryo. The unborn child's right to life is diametrically opposed to the mother's wish for an abortion."
+        },
+        "FDP": {
+          "position": "neutral",
+          "source": "FDP p.25",
+          "quote": "A reform of the regulations on abortion (§§218, 218a StGB) should be discussed in the next Bundestag by means of so-called cross-party group motions with freedom of conscience for every member of parliament."
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.67",
+          "quote": "Therefore, the decision against pregnancy must be possible without constraints, obstacles and stigmatization. Section 218 of the Criminal Code must be deleted without replacement."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.47",
+          "quote": "Self-determination over one's own body is a basic right that must apply to everyone. This includes the right to access safe and legal abortions. We want self-determined abortions to be regulated outside of criminal law."
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.31",
+          "quote": "The free, self-determined decision about one's own body and about whether or not to have a child must be guaranteed. The BSW demands that abortion should be exempt from punishment in principle up to the 12th week of pregnancy."
+        }
+      }
+    },
+    {
+      "id": "self-determination",
+      "area": "Society",
+      "text": {
+        "de": "Das Selbstbestimmungsgesetz zur Änderung des Geschlechtseintrags sollte abgeschafft werden.",
+        "en": "The Self-Determination Act for changing one's legal gender should be repealed."
+      },
+      "positions": {
+        "SPD": {
+          "position": "disagree",
+          "source": "SPD p.46",
+          "quote": "The SPD stands behind the Self-Determination Act and the queer political achievements to date. There will be no turning back with us."
+        },
+        "CDU": {
+          "position": "agree",
+          "source": "CDU p.151",
+          "quote": "The self-determination law of the traffic light coalition allows children and young people to change their gender entry and first name without an expert opinion or advice or a court decision. We firmly reject this."
+        },
+        "AFD": {
+          "position": "agree",
+          "source": "AFD p.39",
+          "quote": "The Self-Determination Act, which replaced the Transsexual Act of 1980 on November 1, 2024, must be repealed in its entirety."
+        },
+        "FDP": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "DL": {
+          "position": "disagree",
+          "source": "DL p.68",
+          "quote": "The Self-Determination Act (SBGG) is inadequate in its current form and must be improved."
+        },
+        "DG": {
+          "position": "disagree",
+          "source": "DG p.48",
+          "quote": "Queer people have a right to good and non-discriminatory health care. Therefore, there should be a right to medical measures necessary for a transition, and the costs should be covered by health insurance companies, and counseling services should be expanded."
+        },
+        "BSW": {
+          "position": "disagree",
+          "source": "BSW p.32",
+          "quote": "We expressly reject this law. For the few who really need it for a happy life, changing their gender identity should be possible without discrimination and with a medical certificate."
+        }
+      }
+    },
+    {
+      "id": "voting-age",
+      "area": "Democracy",
+      "text": {
+        "de": "Das Wahlalter für Bundestagswahlen sollte auf 16 Jahre gesenkt werden.",
+        "en": "The voting age for federal elections should be lowered to 16 years."
+      },
+      "positions": {
+        "SPD": {
+          "position": "agree",
+          "source": "SPD p.24",
+          "quote": "From the age of 16, young people should be able to participate in decision-making, which is why we are lowering the voting age."
+        },
+        "CDU": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "AFD": {
+          "position": "disagree",
+          "source": "AFD p.34",
+          "quote": "We also reject lowering the voting age below 18."
+        },
+        "FDP": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.69",
+          "quote": "The Left is committed to lowering the voting age to 16 in all democratic decision-making processes at European, federal, state and local levels."
+        },
+        "DG": {
+          "position": "agree",
+          "source": "DG p.35",
+          "quote": "To finally write children's rights into the constitution and to lower the voting age to 16 at the federal level."
+        },
+        "BSW": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        }
+      }
+    },
+    {
+      "id": "referendums",
+      "area": "Democracy",
+      "text": {
+        "de": "Deutschland sollte bundesweite Volksentscheide einführen.",
+        "en": "Germany should introduce nationwide referendums."
+      },
+      "positions": {
+        "SPD": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "CDU": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "AFD": {
+          "position": "agree",
+          "source": "AFD p.33",
+          "quote": "We demand referendums based on the Swiss model for Germany too. Because the unrestricted sovereignty of the people in its tried and tested form for almost 200 years has secured the Swiss federal state a continuing leading position in prosperity, peace and freedom."
+        },
+        "FDP": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "DL": {
+          "position": "agree",
+          "source": "DL p.69",
+          "quote": "We want to introduce popular initiatives, referendums and popular votes, citizens' initiatives, citizens' petitions and citizens' votes at the federal level."
+        },
+        "DG": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "BSW": {
+          "position": "agree",
+          "source": "BSW p.42",
+          "quote": "We will strive to obtain the necessary majorities to initiate a constitutional amendment that will allow referendums on important issues, for example on pension reform as in Austria or the question of EU enlargement."
+        }
+      }
+    },
+    {
+      "id": "data-retention",
+      "area": "Security & Digital",
+      "text": {
+        "de": "Internetanbieter sollten verpflichtet werden, IP-Adressen ohne konkreten Verdacht für einige Wochen zu speichern.",
+        "en": "Internet providers should be required to store IP addresses for a few weeks without specific suspicion."
+      },
+      "positions": {
+        "SPD": {
+          "position": "neutral",
+          "source": "SPD p.42",
+          "quote": "At the same time, we are creating a better basis for the effective criminal prosecution in cases of specific suspicion of crime."
+        },
+        "CDU": {
+          "position": "agree",
+          "source": "CDU p.90",
+          "quote": "In the fight against serious crimes, such as sexual violence against children, or to prevent terrorist attacks, we oblige Internet providers to"
+        },
+        "AFD": {
+          "position": "not_addressed",
+          "source": null,
+          "quote": null
+        },
+        "FDP": {
+          "position": "disagree",
+          "source": "FDP p.20",
+          "quote": "We reject network blocks, chat controls, upload filters, data retention and other forms of data collection without cause."
+        },
+        "DL": {
+          "position": "disagree",
+          "source": "DL p.70",
+          "quote": "We want to secure the right to informational self-determination: against data retention, inventory data disclosure and online searches (state trojans), non- individualized cell tower queries, dragnet searches (including by cell phone), ubiquitous video surveillance, spying and wiretapping."
+        },
+        "DG": {
+          "position": "disagree",
+          "source": "DG p.45",
+          "quote": "We reject the storage of data without cause and chat control."
+        },
+        "BSW": {
+          "position": "disagree",
+          "source": "BSW p.40",
+          "quote": "In addition to the private sector's greed for data, there are also repeated calls from the state to record data on a massive scale and without cause and to allow complete access to the private communications of all citizens."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+[
+  {
+    "id": "border-rejections",
+    "area": "Migration",
+    "query": "Zurückweisung von Asylsuchenden an den deutschen Grenzen",
+    "statement_de": "Asylsuchende sollten an den deutschen Grenzen abgewiesen werden, wenn sie aus einem sicheren Drittland kommen.",
+    "statement_en": "Asylum seekers should be rejected at the German borders if they come from a safe third country.",
+    "expected_agree": [
+      "CDU",
+      "AFD",
+      "FDP"
+    ],
+    "expected_disagree": [
+      "SPD",
+      "DL",
+      "DG",
+      "BSW"
+    ],
+    "rationale": "This statement divides the parties based on their stance on rejecting asylum seekers from safe countries."
+  },
+  {
+    "id": "family-reunification",
+    "area": "Migration",
+    "query": "Familiennachzug für subsidiär Schutzberechtigte",
+    "statement_de": "Der Familiennachzug für subsidiär Schutzberechtigte sollte ausgesetzt werden.",
+    "statement_en": "Family reunification for those entitled to subsidiary protection should be suspended.",
+    "expected_agree": [
+      "CDU",
+      "AFD",
+      "FDP"
+    ],
+    "expected_disagree": [
+      "SPD",
+      "DL",
+      "DG",
+      "BSW"
+    ],
+    "rationale": "This statement divides the parties based on their differing views on family reunification policies for those with subsidiary protection."
+  },
+  {
+    "id": "citizenship",
+    "area": "Migration",
+    "query": "Einbürgerung, doppelte Staatsbürgerschaft, Staatsangehörigkeitsrecht",
+    "statement_de": "Die Einbürgerung sollte nach fünf Jahren Aufenthalt in Deutschland möglich sein.",
+    "statement_en": "Naturalization should be possible after five years of residence in Germany.",
+    "expected_agree": [
+      "SPD",
+      "DL",
+      "DG"
+    ],
+    "expected_disagree": [
+      "CDU",
+      "AFD",
+      "FDP"
+    ],
+    "rationale": "This statement divides the parties based on their views on the duration of residence required for naturalization."
+  },
+  {
+    "id": "debt-brake",
+    "area": "Economy & Finance",
+    "query": "Schuldenbremse im Grundgesetz",
+    "statement_de": "Die Schuldenbremse im Grundgesetz sollte reformiert werden, um mehr öffentliche Investitionen zu ermöglichen.",
+    "statement_en": "The debt brake in the Basic Law should be reformed to allow for more public investments.",
+    "expected_agree": [
+      "SPD",
+      "DG",
+      "DL"
+    ],
+    "expected_disagree": [
+      "CDU",
+      "AFD",
+      "FDP"
+    ],
+    "rationale": "This statement divides the parties based on their views on reforming the debt brake for public investment."
+  },
+  {
+    "id": "wealth-tax",
+    "area": "Economy & Finance",
+    "query": "Vermögensteuer auf große Vermögen",
+    "statement_de": "Deutschland sollte eine Vermögensteuer für sehr hohe Vermögen einführen.",
+    "statement_en": "Germany should introduce a wealth tax for very high assets.",
+    "expected_agree": [
+      "SPD",
+      "DL",
+      "DG"
+    ],
+    "expected_disagree": [
+      "CDU",
+      "AFD",
+      "FDP",
+      "BSW"
+    ],
+    "rationale": "This statement divides the parties based on their support or opposition to a wealth tax."
+  },
+  {
+    "id": "solidarity-surcharge",
+    "area": "Economy & Finance",
+    "query": "Solidaritätszuschlag abschaffen",
+    "statement_de": "Der Solidaritätszuschlag sollte abgeschafft werden.",
+    "statement_en": "The solidarity surcharge should be abolished.",
+    "expected_agree": [
+      "CDU",
+      "FDP"
+    ],
+    "expected_disagree": [
+      "SPD",
+      "DL",
+      "DG",
+      "BSW"
+    ],
+    "rationale": "This statement divides the parties based on their differing views on the necessity of the solidarity surcharge."
+  },
+  {
+    "id": "corporate-tax",
+    "area": "Economy & Finance",
+    "query": "Unternehmenssteuern senken",
+    "statement_de": "Die Unternehmenssteuern sollten auf maximal 25 Prozent gesenkt werden.",
+    "statement_en": "Corporate taxes should be reduced to a maximum of 25 percent.",
+    "expected_agree": [
+      "CDU",
+      "AFD",
+      "FDP"
+    ],
+    "expected_disagree": [
+      "SPD",
+      "DL",
+      "DG",
+      "BSW"
+    ],
+    "rationale": "This statement divides the parties based on their differing views on corporate tax rates."
+  },
+  {
+    "id": "minimum-wage",
+    "area": "Labour & Social",
+    "query": "gesetzlicher Mindestlohn 15 Euro",
+    "statement_de": "Der gesetzliche Mindestlohn sollte auf mindestens 15 Euro pro Stunde angehoben werden.",
+    "statement_en": "The statutory minimum wage should be raised to at least 15 euros per hour.",
+    "expected_agree": [],
+    "expected_disagree": [],
+    "rationale": "This statement divides the parties based on their differing views on the minimum wage increase.",
+    "revised_in_review": true
+  },
+  {
+    "id": "citizens-income",
+    "area": "Labour & Social",
+    "query": "Bürgergeld, Sanktionen, Grundsicherung",
+    "statement_de": "Das Bürgergeld sollte durch eine Grundsicherung mit strengeren Sanktionen ersetzt werden.",
+    "statement_en": "The citizen's allowance (Bürgergeld) should be replaced by basic support with stricter sanctions.",
+    "expected_agree": [],
+    "expected_disagree": [],
+    "rationale": "This statement divides the parties based on their views on the adequacy of the citizen's allowance in relation to living costs.",
+    "revised_in_review": true
+  },
+  {
+    "id": "retirement-age",
+    "area": "Labour & Social",
+    "query": "Renteneintrittsalter, Rente mit 67, längeres Arbeiten",
+    "statement_de": "Das Renteneintrittsalter sollte auf 65 Jahre gesenkt werden.",
+    "statement_en": "The retirement age should be lowered to 65 years.",
+    "expected_agree": [
+      "DL",
+      "BSW"
+    ],
+    "expected_disagree": [
+      "SPD",
+      "CDU",
+      "FDP",
+      "DG"
+    ],
+    "rationale": "This statement divides the parties based on their positions on the retirement age and its implications."
+  },
+  {
+    "id": "health-insurance",
+    "area": "Labour & Social",
+    "query": "Bürgerversicherung statt privater Krankenversicherung",
+    "statement_de": "Die private Krankenversicherung sollte in die Bürgerversicherung integriert werden.",
+    "statement_en": "Private health insurance should be integrated into citizen insurance.",
+    "expected_agree": [
+      "SPD",
+      "DL",
+      "DG",
+      "BSW"
+    ],
+    "expected_disagree": [
+      "CDU",
+      "AFD",
+      "FDP"
+    ],
+    "rationale": "This statement divides the parties based on their support for integrating private health insurance into a solidarity-based system."
+  },
+  {
+    "id": "rent-cap",
+    "area": "Housing",
+    "query": "Mietpreisbremse, Mietendeckel, Mieten begrenzen",
+    "statement_de": "Die Mietpreisbremse sollte dauerhaft gelten.",
+    "statement_en": "The rent brake (Mietpreisbremse) should apply permanently.",
+    "expected_agree": [],
+    "expected_disagree": [],
+    "rationale": "This statement divides the parties based on their differing views on the effectiveness and necessity of rent control measures.",
+    "revised_in_review": true
+  },
+  {
+    "id": "ukraine-weapons",
+    "area": "Foreign & Defence",
+    "query": "Waffenlieferungen an die Ukraine",
+    "statement_de": "Deutschland sollte keine Waffenlieferungen an die Ukraine mehr leisten.",
+    "statement_en": "Germany should stop delivering weapons to Ukraine.",
+    "expected_agree": [
+      "DL",
+      "BSW"
+    ],
+    "expected_disagree": [
+      "SPD",
+      "CDU",
+      "FDP",
+      "DG"
+    ],
+    "rationale": "This statement divides the parties based on their differing views on military support for Ukraine."
+  },
+  {
+    "id": "russia-sanctions",
+    "area": "Foreign & Defence",
+    "query": "Sanktionen gegen Russland, russisches Gas",
+    "statement_de": "Deutschland sollte wieder Gas aus Russland beziehen.",
+    "statement_en": "Germany should buy gas from Russia again.",
+    "expected_agree": [],
+    "expected_disagree": [],
+    "rationale": "This statement divides the parties based on their differing views on sanctions against Russia and energy imports.",
+    "revised_in_review": true
+  },
+  {
+    "id": "conscription",
+    "area": "Foreign & Defence",
+    "query": "Wehrpflicht, Wehrdienst",
+    "statement_de": "Deutschland sollte die Wehrpflicht wieder einführen.",
+    "statement_en": "Germany should reintroduce compulsory military service.",
+    "expected_agree": [
+      "CDU",
+      "AFD"
+    ],
+    "expected_disagree": [
+      "SPD",
+      "FDP",
+      "DL",
+      "DG",
+      "BSW"
+    ],
+    "rationale": "This statement divides the parties based on their differing views on military service and defense policy."
+  },
+  {
+    "id": "defence-spending",
+    "area": "Foreign & Defence",
+    "query": "Verteidigungsausgaben, NATO-Ziel, Bundeswehr Ausrüstung",
+    "statement_de": "Deutschland sollte deutlich mehr als zwei Prozent seiner Wirtschaftsleistung für Verteidigung ausgeben.",
+    "statement_en": "Germany should spend well over two percent of its GDP on defence.",
+    "expected_agree": [],
+    "expected_disagree": [],
+    "rationale": "This statement divides the parties based on their support for NATO spending commitments.",
+    "revised_in_review": true
+  },
+  {
+    "id": "eu-integration",
+    "area": "Europe",
+    "query": "Europäische Union vertiefen, Mehrheitsentscheidungen statt Einstimmigkeit",
+    "statement_de": "Die EU sollte mehrheitliche Entscheidungen anstelle von Einstimmigkeit einführen.",
+    "statement_en": "The EU should introduce majority decisions instead of unanimity.",
+    "expected_agree": [
+      "SPD",
+      "DG",
+      "FDP"
+    ],
+    "expected_disagree": [
+      "CDU",
+      "AFD",
+      "BSW"
+    ],
+    "rationale": "This statement divides the parties based on their views on decision-making processes within the EU."
+  },
+  {
+    "id": "nuclear-power",
+    "area": "Energy & Climate",
+    "query": "Kernkraft, Atomkraftwerke wieder in Betrieb nehmen",
+    "statement_de": "Deutschland sollte die Nutzung von Atomkraftwerken wieder erlauben.",
+    "statement_en": "Germany should allow the use of nuclear power plants again.",
+    "expected_agree": [
+      "CDU",
+      "AFD",
+      "FDP"
+    ],
+    "expected_disagree": [
+      "SPD",
+      "DL",
+      "DG",
+      "BSW"
+    ],
+    "rationale": "This statement divides the parties based on their differing views on nuclear energy's role in Germany's energy policy."
+  },
+  {
+    "id": "heating-law",
+    "area": "Energy & Climate",
+    "query": "Gebäudeenergiegesetz, Heizungsgesetz, Wärmepumpe",
+    "statement_de": "Das Gebäudeenergiegesetz (Heizungsgesetz) sollte abgeschafft werden.",
+    "statement_en": "The Buildings Energy Act (heating law) should be repealed.",
+    "expected_agree": [],
+    "expected_disagree": [],
+    "rationale": "This statement divides the parties based on their views on state intervention in energy solutions.",
+    "revised_in_review": true
+  },
+  {
+    "id": "combustion-ban",
+    "area": "Energy & Climate",
+    "query": "Verbrenner-Aus 2035, Verbrennungsmotor",
+    "statement_de": "Deutschland sollte den Verkauf von Neuwagen mit Verbrennungsmotoren ab 2035 verbieten.",
+    "statement_en": "Germany should ban the sale of new cars with combustion engines from 2035.",
+    "expected_agree": [
+      "SPD",
+      "DG",
+      "DL",
+      "BSW"
+    ],
+    "expected_disagree": [
+      "CDU",
+      "AFD",
+      "FDP"
+    ],
+    "rationale": "This statement divides the parties based on their support or opposition to banning combustion engine vehicles."
+  },
+  {
+    "id": "climate-target",
+    "area": "Energy & Climate",
+    "query": "Klimaneutralität 2045, Klimaschutzziele",
+    "statement_de": "Deutschland sollte sich mehr Zeit lassen, klimaneutral zu werden, als bis 2045.",
+    "statement_en": "Germany should take longer than 2045 to become climate neutral.",
+    "expected_agree": [],
+    "expected_disagree": [],
+    "rationale": "This statement divides the parties based on their differing timelines and approaches to achieving climate neutrality.",
+    "revised_in_review": true
+  },
+  {
+    "id": "co2-price",
+    "area": "Energy & Climate",
+    "query": "CO2-Preis, Emissionshandel, Klimageld",
+    "statement_de": "Die Einnahmen aus dem CO2-Preis sollten als Klimageld pro Kopf an alle Bürger ausgezahlt werden.",
+    "statement_en": "Revenue from the CO2 price should be paid back to all citizens as an equal per-capita climate dividend.",
+    "expected_agree": [],
+    "expected_disagree": [],
+    "rationale": "This statement divides the parties based on their views on using CO2 pricing for social relief versus market-based approaches.",
+    "revised_in_review": true
+  },
+  {
+    "id": "speed-limit",
+    "area": "Transport",
+    "query": "Tempolimit auf Autobahnen",
+    "statement_de": "Auf Autobahnen sollte ein Tempolimit von 130 km/h eingeführt werden.",
+    "statement_en": "A speed limit of 130 km/h should be introduced on motorways.",
+    "expected_agree": [
+      "SPD",
+      "DG",
+      "DL"
+    ],
+    "expected_disagree": [
+      "CDU",
+      "AFD",
+      "FDP",
+      "BSW"
+    ],
+    "rationale": "This statement divides the parties based on their differing views on introducing a speed limit on motorways."
+  },
+  {
+    "id": "deutschlandticket",
+    "area": "Transport",
+    "query": "Deutschlandticket, öffentlicher Nahverkehr",
+    "statement_de": "Das Deutschlandticket sollte dauerhaft vom Bund mitfinanziert werden.",
+    "statement_en": "The federal government should permanently co-fund the Deutschlandticket.",
+    "expected_agree": [],
+    "expected_disagree": [],
+    "rationale": "This statement divides the parties based on their differing views on the pricing and permanence of the Deutschlandticket.",
+    "revised_in_review": true
+  },
+  {
+    "id": "cannabis",
+    "area": "Society",
+    "query": "Cannabis-Legalisierung",
+    "statement_de": "Die Legalisierung von Cannabis sollte rückgängig gemacht werden.",
+    "statement_en": "The legalisation of cannabis should be reversed.",
+    "expected_agree": [],
+    "expected_disagree": [],
+    "rationale": "This statement divides the parties based on their differing views on cannabis legalization.",
+    "revised_in_review": true
+  },
+  {
+    "id": "abortion",
+    "area": "Society",
+    "query": "Schwangerschaftsabbruch, Paragraph 218",
+    "statement_de": "Der Schwangerschaftsabbruch sollte aus dem Strafrecht entfernt werden.",
+    "statement_en": "Abortion should be removed from criminal law.",
+    "expected_agree": [
+      "SPD",
+      "DL",
+      "DG"
+    ],
+    "expected_disagree": [
+      "CDU",
+      "AFD",
+      "BSW"
+    ],
+    "rationale": "This statement divides the parties based on their views on the legal status of abortion."
+  },
+  {
+    "id": "self-determination",
+    "area": "Society",
+    "query": "Selbstbestimmungsgesetz, Geschlechtseintrag",
+    "statement_de": "Das Selbstbestimmungsgesetz zur Änderung des Geschlechtseintrags sollte abgeschafft werden.",
+    "statement_en": "The Self-Determination Act for changing one's legal gender should be repealed.",
+    "expected_agree": [],
+    "expected_disagree": [],
+    "rationale": "This statement divides the parties based on their views on the requirements for changing gender entries.",
+    "revised_in_review": true
+  },
+  {
+    "id": "voting-age",
+    "area": "Democracy",
+    "query": "Wahlalter 16 bei Bundestagswahlen",
+    "statement_de": "Das Wahlalter für Bundestagswahlen sollte auf 16 Jahre gesenkt werden.",
+    "statement_en": "The voting age for federal elections should be lowered to 16 years.",
+    "expected_agree": [
+      "SPD",
+      "DG",
+      "DL",
+      "FDP"
+    ],
+    "expected_disagree": [
+      "CDU",
+      "AFD",
+      "BSW"
+    ],
+    "rationale": "This statement divides the parties based on their positions on youth participation in elections."
+  },
+  {
+    "id": "referendums",
+    "area": "Democracy",
+    "query": "bundesweite Volksentscheide, direkte Demokratie",
+    "statement_de": "Deutschland sollte bundesweite Volksentscheide einführen.",
+    "statement_en": "Germany should introduce nationwide referendums.",
+    "expected_agree": [
+      "AFD",
+      "DL",
+      "BSW"
+    ],
+    "expected_disagree": [
+      "SPD",
+      "CDU",
+      "FDP",
+      "DG"
+    ],
+    "rationale": "This statement divides the parties based on their views on direct democracy and referendums."
+  },
+  {
+    "id": "data-retention",
+    "area": "Security & Digital",
+    "query": "Vorratsdatenspeicherung, IP-Adressen speichern",
+    "statement_de": "Internetanbieter sollten verpflichtet werden, IP-Adressen ohne konkreten Verdacht für einige Wochen zu speichern.",
+    "statement_en": "Internet providers should be required to store IP addresses for a few weeks without specific suspicion.",
+    "expected_agree": [],
+    "expected_disagree": [],
+    "rationale": "This statement divides the parties based on their views on data retention practices and privacy rights.",
+    "revised_in_review": true
+  }
+]
