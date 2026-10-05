@@ -40,8 +40,10 @@ spec:
               mountPath: /app/faiss
           ports:
             - containerPort: 8000
-      imagePullSecrets:
-        - name: ghcr-registry-secret
+          readinessProbe:
+            tcpSocket:
+              port: 8000
+            periodSeconds: 10
   volumeClaimTemplates:
     - metadata:
         name: faiss-storage

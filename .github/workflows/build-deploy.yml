@@ -55,6 +55,7 @@ jobs:
     needs: build
     if: github.ref == 'refs/heads/main'
     runs-on: [self-hosted, linux, elections-assistant]
+    timeout-minutes: 60
     environment: Production
     steps:
       - uses: actions/checkout@v4
@@ -81,7 +82,7 @@ jobs:
           sed -i "s|\$IMAGE|$IMAGE|g" k8s/stateful_set.yml
           kubectl -n "$NAMESPACE" apply -f k8s/stateful_set.yml
           kubectl -n "$NAMESPACE" apply -f k8s/service.yml
-          kubectl -n "$NAMESPACE" rollout status statefulset/elections-assistant --timeout=10m
+          kubectl -n "$NAMESPACE" rollout status statefulset/elections-assistant --timeout=45m
 
       - name: Report running pods
         if: always()
